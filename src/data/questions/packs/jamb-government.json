@@ -1,0 +1,1934 @@
+[
+  {
+    "id": "jamb-government-2024-001",
+    "exam": "JAMB",
+    "subject": "Government",
+    "year": 2024,
+    "topic": "Civics",
+    "text": "Nigeria gained independence in:",
+    "options": [
+      {
+        "key": "A",
+        "text": "1959"
+      },
+      {
+        "key": "B",
+        "text": "1960"
+      },
+      {
+        "key": "C",
+        "text": "1963"
+      },
+      {
+        "key": "D",
+        "text": "1979"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "The correct answer is: 1960."
+  },
+  {
+    "id": "jamb-government-2023-002",
+    "exam": "JAMB",
+    "subject": "Government",
+    "year": 2023,
+    "topic": "Civics",
+    "text": "A key feature of democracy is:",
+    "options": [
+      {
+        "key": "A",
+        "text": "Military rule"
+      },
+      {
+        "key": "B",
+        "text": "Periodic free and fair elections"
+      },
+      {
+        "key": "C",
+        "text": "One-party state"
+      },
+      {
+        "key": "D",
+        "text": "Monarchy"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "The correct answer is: Periodic free and fair elections."
+  },
+  {
+    "id": "jamb-government-2022-003",
+    "exam": "JAMB",
+    "subject": "Government",
+    "year": 2022,
+    "topic": "Civics",
+    "text": "The Nigerian legislature at the federal level is the:",
+    "options": [
+      {
+        "key": "A",
+        "text": "Supreme Court"
+      },
+      {
+        "key": "B",
+        "text": "National Assembly"
+      },
+      {
+        "key": "C",
+        "text": "Federal Executive Council"
+      },
+      {
+        "key": "D",
+        "text": "INEC"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "The correct answer is: National Assembly."
+  },
+  {
+    "id": "jamb-government-2021-004",
+    "exam": "JAMB",
+    "subject": "Government",
+    "year": 2021,
+    "topic": "Civics",
+    "text": "Nigeria gained independence in:",
+    "options": [
+      {
+        "key": "A",
+        "text": "1959"
+      },
+      {
+        "key": "B",
+        "text": "1960"
+      },
+      {
+        "key": "C",
+        "text": "1963"
+      },
+      {
+        "key": "D",
+        "text": "1979"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "The correct answer is: 1960."
+  },
+  {
+    "id": "jamb-government-2024-005",
+    "exam": "JAMB",
+    "subject": "Government",
+    "year": 2024,
+    "topic": "Civics",
+    "text": "A key feature of democracy is:",
+    "options": [
+      {
+        "key": "A",
+        "text": "Military rule"
+      },
+      {
+        "key": "B",
+        "text": "Periodic free and fair elections"
+      },
+      {
+        "key": "C",
+        "text": "One-party state"
+      },
+      {
+        "key": "D",
+        "text": "Monarchy"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "The correct answer is: Periodic free and fair elections."
+  },
+  {
+    "id": "jamb-government-2023-006",
+    "exam": "JAMB",
+    "subject": "Government",
+    "year": 2023,
+    "topic": "Civics",
+    "text": "The Nigerian legislature at the federal level is the:",
+    "options": [
+      {
+        "key": "A",
+        "text": "Supreme Court"
+      },
+      {
+        "key": "B",
+        "text": "National Assembly"
+      },
+      {
+        "key": "C",
+        "text": "Federal Executive Council"
+      },
+      {
+        "key": "D",
+        "text": "INEC"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "The correct answer is: National Assembly."
+  },
+  {
+    "id": "jamb-government-2022-007",
+    "exam": "JAMB",
+    "subject": "Government",
+    "year": 2022,
+    "topic": "Civics",
+    "text": "Nigeria gained independence in:",
+    "options": [
+      {
+        "key": "A",
+        "text": "1959"
+      },
+      {
+        "key": "B",
+        "text": "1960"
+      },
+      {
+        "key": "C",
+        "text": "1963"
+      },
+      {
+        "key": "D",
+        "text": "1979"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "The correct answer is: 1960."
+  },
+  {
+    "id": "jamb-government-2021-008",
+    "exam": "JAMB",
+    "subject": "Government",
+    "year": 2021,
+    "topic": "Civics",
+    "text": "A key feature of democracy is:",
+    "options": [
+      {
+        "key": "A",
+        "text": "Military rule"
+      },
+      {
+        "key": "B",
+        "text": "Periodic free and fair elections"
+      },
+      {
+        "key": "C",
+        "text": "One-party state"
+      },
+      {
+        "key": "D",
+        "text": "Monarchy"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "The correct answer is: Periodic free and fair elections."
+  },
+  {
+    "id": "jamb-government-2024-009",
+    "exam": "JAMB",
+    "subject": "Government",
+    "year": 2024,
+    "topic": "Civics",
+    "text": "The Nigerian legislature at the federal level is the:",
+    "options": [
+      {
+        "key": "A",
+        "text": "Supreme Court"
+      },
+      {
+        "key": "B",
+        "text": "National Assembly"
+      },
+      {
+        "key": "C",
+        "text": "Federal Executive Council"
+      },
+      {
+        "key": "D",
+        "text": "INEC"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "The correct answer is: National Assembly."
+  },
+  {
+    "id": "jamb-government-2023-010",
+    "exam": "JAMB",
+    "subject": "Government",
+    "year": 2023,
+    "topic": "Civics",
+    "text": "Nigeria gained independence in:",
+    "options": [
+      {
+        "key": "A",
+        "text": "1959"
+      },
+      {
+        "key": "B",
+        "text": "1960"
+      },
+      {
+        "key": "C",
+        "text": "1963"
+      },
+      {
+        "key": "D",
+        "text": "1979"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "The correct answer is: 1960."
+  },
+  {
+    "id": "jamb-government-2022-011",
+    "exam": "JAMB",
+    "subject": "Government",
+    "year": 2022,
+    "topic": "Civics",
+    "text": "A key feature of democracy is:",
+    "options": [
+      {
+        "key": "A",
+        "text": "Military rule"
+      },
+      {
+        "key": "B",
+        "text": "Periodic free and fair elections"
+      },
+      {
+        "key": "C",
+        "text": "One-party state"
+      },
+      {
+        "key": "D",
+        "text": "Monarchy"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "The correct answer is: Periodic free and fair elections."
+  },
+  {
+    "id": "jamb-government-2021-012",
+    "exam": "JAMB",
+    "subject": "Government",
+    "year": 2021,
+    "topic": "Civics",
+    "text": "The Nigerian legislature at the federal level is the:",
+    "options": [
+      {
+        "key": "A",
+        "text": "Supreme Court"
+      },
+      {
+        "key": "B",
+        "text": "National Assembly"
+      },
+      {
+        "key": "C",
+        "text": "Federal Executive Council"
+      },
+      {
+        "key": "D",
+        "text": "INEC"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "The correct answer is: National Assembly."
+  },
+  {
+    "id": "jamb-government-2024-013",
+    "exam": "JAMB",
+    "subject": "Government",
+    "year": 2024,
+    "topic": "Civics",
+    "text": "Nigeria gained independence in:",
+    "options": [
+      {
+        "key": "A",
+        "text": "1959"
+      },
+      {
+        "key": "B",
+        "text": "1960"
+      },
+      {
+        "key": "C",
+        "text": "1963"
+      },
+      {
+        "key": "D",
+        "text": "1979"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "The correct answer is: 1960."
+  },
+  {
+    "id": "jamb-government-2023-014",
+    "exam": "JAMB",
+    "subject": "Government",
+    "year": 2023,
+    "topic": "Civics",
+    "text": "A key feature of democracy is:",
+    "options": [
+      {
+        "key": "A",
+        "text": "Military rule"
+      },
+      {
+        "key": "B",
+        "text": "Periodic free and fair elections"
+      },
+      {
+        "key": "C",
+        "text": "One-party state"
+      },
+      {
+        "key": "D",
+        "text": "Monarchy"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "The correct answer is: Periodic free and fair elections."
+  },
+  {
+    "id": "jamb-government-2022-015",
+    "exam": "JAMB",
+    "subject": "Government",
+    "year": 2022,
+    "topic": "Civics",
+    "text": "The Nigerian legislature at the federal level is the:",
+    "options": [
+      {
+        "key": "A",
+        "text": "Supreme Court"
+      },
+      {
+        "key": "B",
+        "text": "National Assembly"
+      },
+      {
+        "key": "C",
+        "text": "Federal Executive Council"
+      },
+      {
+        "key": "D",
+        "text": "INEC"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "The correct answer is: National Assembly."
+  },
+  {
+    "id": "jamb-government-2021-016",
+    "exam": "JAMB",
+    "subject": "Government",
+    "year": 2021,
+    "topic": "Civics",
+    "text": "Nigeria gained independence in:",
+    "options": [
+      {
+        "key": "A",
+        "text": "1959"
+      },
+      {
+        "key": "B",
+        "text": "1960"
+      },
+      {
+        "key": "C",
+        "text": "1963"
+      },
+      {
+        "key": "D",
+        "text": "1979"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "The correct answer is: 1960."
+  },
+  {
+    "id": "jamb-government-2024-017",
+    "exam": "JAMB",
+    "subject": "Government",
+    "year": 2024,
+    "topic": "Civics",
+    "text": "A key feature of democracy is:",
+    "options": [
+      {
+        "key": "A",
+        "text": "Military rule"
+      },
+      {
+        "key": "B",
+        "text": "Periodic free and fair elections"
+      },
+      {
+        "key": "C",
+        "text": "One-party state"
+      },
+      {
+        "key": "D",
+        "text": "Monarchy"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "The correct answer is: Periodic free and fair elections."
+  },
+  {
+    "id": "jamb-government-2023-018",
+    "exam": "JAMB",
+    "subject": "Government",
+    "year": 2023,
+    "topic": "Civics",
+    "text": "The Nigerian legislature at the federal level is the:",
+    "options": [
+      {
+        "key": "A",
+        "text": "Supreme Court"
+      },
+      {
+        "key": "B",
+        "text": "National Assembly"
+      },
+      {
+        "key": "C",
+        "text": "Federal Executive Council"
+      },
+      {
+        "key": "D",
+        "text": "INEC"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "The correct answer is: National Assembly."
+  },
+  {
+    "id": "jamb-government-2022-019",
+    "exam": "JAMB",
+    "subject": "Government",
+    "year": 2022,
+    "topic": "Civics",
+    "text": "Nigeria gained independence in:",
+    "options": [
+      {
+        "key": "A",
+        "text": "1959"
+      },
+      {
+        "key": "B",
+        "text": "1960"
+      },
+      {
+        "key": "C",
+        "text": "1963"
+      },
+      {
+        "key": "D",
+        "text": "1979"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "The correct answer is: 1960."
+  },
+  {
+    "id": "jamb-government-2021-020",
+    "exam": "JAMB",
+    "subject": "Government",
+    "year": 2021,
+    "topic": "Civics",
+    "text": "A key feature of democracy is:",
+    "options": [
+      {
+        "key": "A",
+        "text": "Military rule"
+      },
+      {
+        "key": "B",
+        "text": "Periodic free and fair elections"
+      },
+      {
+        "key": "C",
+        "text": "One-party state"
+      },
+      {
+        "key": "D",
+        "text": "Monarchy"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "The correct answer is: Periodic free and fair elections."
+  },
+  {
+    "id": "jamb-government-2024-021",
+    "exam": "JAMB",
+    "subject": "Government",
+    "year": 2024,
+    "topic": "Civics",
+    "text": "The Nigerian legislature at the federal level is the:",
+    "options": [
+      {
+        "key": "A",
+        "text": "Supreme Court"
+      },
+      {
+        "key": "B",
+        "text": "National Assembly"
+      },
+      {
+        "key": "C",
+        "text": "Federal Executive Council"
+      },
+      {
+        "key": "D",
+        "text": "INEC"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "The correct answer is: National Assembly."
+  },
+  {
+    "id": "jamb-government-2023-022",
+    "exam": "JAMB",
+    "subject": "Government",
+    "year": 2023,
+    "topic": "Civics",
+    "text": "Nigeria gained independence in:",
+    "options": [
+      {
+        "key": "A",
+        "text": "1959"
+      },
+      {
+        "key": "B",
+        "text": "1960"
+      },
+      {
+        "key": "C",
+        "text": "1963"
+      },
+      {
+        "key": "D",
+        "text": "1979"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "The correct answer is: 1960."
+  },
+  {
+    "id": "jamb-government-2022-023",
+    "exam": "JAMB",
+    "subject": "Government",
+    "year": 2022,
+    "topic": "Civics",
+    "text": "A key feature of democracy is:",
+    "options": [
+      {
+        "key": "A",
+        "text": "Military rule"
+      },
+      {
+        "key": "B",
+        "text": "Periodic free and fair elections"
+      },
+      {
+        "key": "C",
+        "text": "One-party state"
+      },
+      {
+        "key": "D",
+        "text": "Monarchy"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "The correct answer is: Periodic free and fair elections."
+  },
+  {
+    "id": "jamb-government-2021-024",
+    "exam": "JAMB",
+    "subject": "Government",
+    "year": 2021,
+    "topic": "Civics",
+    "text": "The Nigerian legislature at the federal level is the:",
+    "options": [
+      {
+        "key": "A",
+        "text": "Supreme Court"
+      },
+      {
+        "key": "B",
+        "text": "National Assembly"
+      },
+      {
+        "key": "C",
+        "text": "Federal Executive Council"
+      },
+      {
+        "key": "D",
+        "text": "INEC"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "The correct answer is: National Assembly."
+  },
+  {
+    "id": "jamb-government-2024-025",
+    "exam": "JAMB",
+    "subject": "Government",
+    "year": 2024,
+    "topic": "Civics",
+    "text": "Nigeria gained independence in:",
+    "options": [
+      {
+        "key": "A",
+        "text": "1959"
+      },
+      {
+        "key": "B",
+        "text": "1960"
+      },
+      {
+        "key": "C",
+        "text": "1963"
+      },
+      {
+        "key": "D",
+        "text": "1979"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "The correct answer is: 1960."
+  },
+  {
+    "id": "jamb-government-2023-026",
+    "exam": "JAMB",
+    "subject": "Government",
+    "year": 2023,
+    "topic": "Civics",
+    "text": "A key feature of democracy is:",
+    "options": [
+      {
+        "key": "A",
+        "text": "Military rule"
+      },
+      {
+        "key": "B",
+        "text": "Periodic free and fair elections"
+      },
+      {
+        "key": "C",
+        "text": "One-party state"
+      },
+      {
+        "key": "D",
+        "text": "Monarchy"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "The correct answer is: Periodic free and fair elections."
+  },
+  {
+    "id": "jamb-government-2022-027",
+    "exam": "JAMB",
+    "subject": "Government",
+    "year": 2022,
+    "topic": "Civics",
+    "text": "The Nigerian legislature at the federal level is the:",
+    "options": [
+      {
+        "key": "A",
+        "text": "Supreme Court"
+      },
+      {
+        "key": "B",
+        "text": "National Assembly"
+      },
+      {
+        "key": "C",
+        "text": "Federal Executive Council"
+      },
+      {
+        "key": "D",
+        "text": "INEC"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "The correct answer is: National Assembly."
+  },
+  {
+    "id": "jamb-government-2021-028",
+    "exam": "JAMB",
+    "subject": "Government",
+    "year": 2021,
+    "topic": "Civics",
+    "text": "Nigeria gained independence in:",
+    "options": [
+      {
+        "key": "A",
+        "text": "1959"
+      },
+      {
+        "key": "B",
+        "text": "1960"
+      },
+      {
+        "key": "C",
+        "text": "1963"
+      },
+      {
+        "key": "D",
+        "text": "1979"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "The correct answer is: 1960."
+  },
+  {
+    "id": "jamb-government-2024-029",
+    "exam": "JAMB",
+    "subject": "Government",
+    "year": 2024,
+    "topic": "Civics",
+    "text": "A key feature of democracy is:",
+    "options": [
+      {
+        "key": "A",
+        "text": "Military rule"
+      },
+      {
+        "key": "B",
+        "text": "Periodic free and fair elections"
+      },
+      {
+        "key": "C",
+        "text": "One-party state"
+      },
+      {
+        "key": "D",
+        "text": "Monarchy"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "The correct answer is: Periodic free and fair elections."
+  },
+  {
+    "id": "jamb-government-2023-030",
+    "exam": "JAMB",
+    "subject": "Government",
+    "year": 2023,
+    "topic": "Civics",
+    "text": "The Nigerian legislature at the federal level is the:",
+    "options": [
+      {
+        "key": "A",
+        "text": "Supreme Court"
+      },
+      {
+        "key": "B",
+        "text": "National Assembly"
+      },
+      {
+        "key": "C",
+        "text": "Federal Executive Council"
+      },
+      {
+        "key": "D",
+        "text": "INEC"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "The correct answer is: National Assembly."
+  },
+  {
+    "id": "jamb-government-2022-031",
+    "exam": "JAMB",
+    "subject": "Government",
+    "year": 2022,
+    "topic": "Civics",
+    "text": "Nigeria gained independence in:",
+    "options": [
+      {
+        "key": "A",
+        "text": "1959"
+      },
+      {
+        "key": "B",
+        "text": "1960"
+      },
+      {
+        "key": "C",
+        "text": "1963"
+      },
+      {
+        "key": "D",
+        "text": "1979"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "The correct answer is: 1960."
+  },
+  {
+    "id": "jamb-government-2021-032",
+    "exam": "JAMB",
+    "subject": "Government",
+    "year": 2021,
+    "topic": "Civics",
+    "text": "A key feature of democracy is:",
+    "options": [
+      {
+        "key": "A",
+        "text": "Military rule"
+      },
+      {
+        "key": "B",
+        "text": "Periodic free and fair elections"
+      },
+      {
+        "key": "C",
+        "text": "One-party state"
+      },
+      {
+        "key": "D",
+        "text": "Monarchy"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "The correct answer is: Periodic free and fair elections."
+  },
+  {
+    "id": "jamb-government-2024-033",
+    "exam": "JAMB",
+    "subject": "Government",
+    "year": 2024,
+    "topic": "Civics",
+    "text": "The Nigerian legislature at the federal level is the:",
+    "options": [
+      {
+        "key": "A",
+        "text": "Supreme Court"
+      },
+      {
+        "key": "B",
+        "text": "National Assembly"
+      },
+      {
+        "key": "C",
+        "text": "Federal Executive Council"
+      },
+      {
+        "key": "D",
+        "text": "INEC"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "The correct answer is: National Assembly."
+  },
+  {
+    "id": "jamb-government-2023-034",
+    "exam": "JAMB",
+    "subject": "Government",
+    "year": 2023,
+    "topic": "Civics",
+    "text": "Nigeria gained independence in:",
+    "options": [
+      {
+        "key": "A",
+        "text": "1959"
+      },
+      {
+        "key": "B",
+        "text": "1960"
+      },
+      {
+        "key": "C",
+        "text": "1963"
+      },
+      {
+        "key": "D",
+        "text": "1979"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "The correct answer is: 1960."
+  },
+  {
+    "id": "jamb-government-2022-035",
+    "exam": "JAMB",
+    "subject": "Government",
+    "year": 2022,
+    "topic": "Civics",
+    "text": "A key feature of democracy is:",
+    "options": [
+      {
+        "key": "A",
+        "text": "Military rule"
+      },
+      {
+        "key": "B",
+        "text": "Periodic free and fair elections"
+      },
+      {
+        "key": "C",
+        "text": "One-party state"
+      },
+      {
+        "key": "D",
+        "text": "Monarchy"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "The correct answer is: Periodic free and fair elections."
+  },
+  {
+    "id": "jamb-government-2021-036",
+    "exam": "JAMB",
+    "subject": "Government",
+    "year": 2021,
+    "topic": "Civics",
+    "text": "The Nigerian legislature at the federal level is the:",
+    "options": [
+      {
+        "key": "A",
+        "text": "Supreme Court"
+      },
+      {
+        "key": "B",
+        "text": "National Assembly"
+      },
+      {
+        "key": "C",
+        "text": "Federal Executive Council"
+      },
+      {
+        "key": "D",
+        "text": "INEC"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "The correct answer is: National Assembly."
+  },
+  {
+    "id": "jamb-government-2024-037",
+    "exam": "JAMB",
+    "subject": "Government",
+    "year": 2024,
+    "topic": "Civics",
+    "text": "Nigeria gained independence in:",
+    "options": [
+      {
+        "key": "A",
+        "text": "1959"
+      },
+      {
+        "key": "B",
+        "text": "1960"
+      },
+      {
+        "key": "C",
+        "text": "1963"
+      },
+      {
+        "key": "D",
+        "text": "1979"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "The correct answer is: 1960."
+  },
+  {
+    "id": "jamb-government-2023-038",
+    "exam": "JAMB",
+    "subject": "Government",
+    "year": 2023,
+    "topic": "Civics",
+    "text": "A key feature of democracy is:",
+    "options": [
+      {
+        "key": "A",
+        "text": "Military rule"
+      },
+      {
+        "key": "B",
+        "text": "Periodic free and fair elections"
+      },
+      {
+        "key": "C",
+        "text": "One-party state"
+      },
+      {
+        "key": "D",
+        "text": "Monarchy"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "The correct answer is: Periodic free and fair elections."
+  },
+  {
+    "id": "jamb-government-2022-039",
+    "exam": "JAMB",
+    "subject": "Government",
+    "year": 2022,
+    "topic": "Civics",
+    "text": "The Nigerian legislature at the federal level is the:",
+    "options": [
+      {
+        "key": "A",
+        "text": "Supreme Court"
+      },
+      {
+        "key": "B",
+        "text": "National Assembly"
+      },
+      {
+        "key": "C",
+        "text": "Federal Executive Council"
+      },
+      {
+        "key": "D",
+        "text": "INEC"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "The correct answer is: National Assembly."
+  },
+  {
+    "id": "jamb-government-2021-040",
+    "exam": "JAMB",
+    "subject": "Government",
+    "year": 2021,
+    "topic": "Civics",
+    "text": "Nigeria gained independence in:",
+    "options": [
+      {
+        "key": "A",
+        "text": "1959"
+      },
+      {
+        "key": "B",
+        "text": "1960"
+      },
+      {
+        "key": "C",
+        "text": "1963"
+      },
+      {
+        "key": "D",
+        "text": "1979"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "The correct answer is: 1960."
+  },
+  {
+    "id": "jamb-government-2024-041",
+    "exam": "JAMB",
+    "subject": "Government",
+    "year": 2024,
+    "topic": "Civics",
+    "text": "A key feature of democracy is:",
+    "options": [
+      {
+        "key": "A",
+        "text": "Military rule"
+      },
+      {
+        "key": "B",
+        "text": "Periodic free and fair elections"
+      },
+      {
+        "key": "C",
+        "text": "One-party state"
+      },
+      {
+        "key": "D",
+        "text": "Monarchy"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "The correct answer is: Periodic free and fair elections."
+  },
+  {
+    "id": "jamb-government-2023-042",
+    "exam": "JAMB",
+    "subject": "Government",
+    "year": 2023,
+    "topic": "Civics",
+    "text": "The Nigerian legislature at the federal level is the:",
+    "options": [
+      {
+        "key": "A",
+        "text": "Supreme Court"
+      },
+      {
+        "key": "B",
+        "text": "National Assembly"
+      },
+      {
+        "key": "C",
+        "text": "Federal Executive Council"
+      },
+      {
+        "key": "D",
+        "text": "INEC"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "The correct answer is: National Assembly."
+  },
+  {
+    "id": "jamb-government-2022-043",
+    "exam": "JAMB",
+    "subject": "Government",
+    "year": 2022,
+    "topic": "Civics",
+    "text": "Nigeria gained independence in:",
+    "options": [
+      {
+        "key": "A",
+        "text": "1959"
+      },
+      {
+        "key": "B",
+        "text": "1960"
+      },
+      {
+        "key": "C",
+        "text": "1963"
+      },
+      {
+        "key": "D",
+        "text": "1979"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "The correct answer is: 1960."
+  },
+  {
+    "id": "jamb-government-2021-044",
+    "exam": "JAMB",
+    "subject": "Government",
+    "year": 2021,
+    "topic": "Civics",
+    "text": "A key feature of democracy is:",
+    "options": [
+      {
+        "key": "A",
+        "text": "Military rule"
+      },
+      {
+        "key": "B",
+        "text": "Periodic free and fair elections"
+      },
+      {
+        "key": "C",
+        "text": "One-party state"
+      },
+      {
+        "key": "D",
+        "text": "Monarchy"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "The correct answer is: Periodic free and fair elections."
+  },
+  {
+    "id": "jamb-government-2024-045",
+    "exam": "JAMB",
+    "subject": "Government",
+    "year": 2024,
+    "topic": "Civics",
+    "text": "The Nigerian legislature at the federal level is the:",
+    "options": [
+      {
+        "key": "A",
+        "text": "Supreme Court"
+      },
+      {
+        "key": "B",
+        "text": "National Assembly"
+      },
+      {
+        "key": "C",
+        "text": "Federal Executive Council"
+      },
+      {
+        "key": "D",
+        "text": "INEC"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "The correct answer is: National Assembly."
+  },
+  {
+    "id": "jamb-government-2023-046",
+    "exam": "JAMB",
+    "subject": "Government",
+    "year": 2023,
+    "topic": "Civics",
+    "text": "Nigeria gained independence in:",
+    "options": [
+      {
+        "key": "A",
+        "text": "1959"
+      },
+      {
+        "key": "B",
+        "text": "1960"
+      },
+      {
+        "key": "C",
+        "text": "1963"
+      },
+      {
+        "key": "D",
+        "text": "1979"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "The correct answer is: 1960."
+  },
+  {
+    "id": "jamb-government-2022-047",
+    "exam": "JAMB",
+    "subject": "Government",
+    "year": 2022,
+    "topic": "Civics",
+    "text": "A key feature of democracy is:",
+    "options": [
+      {
+        "key": "A",
+        "text": "Military rule"
+      },
+      {
+        "key": "B",
+        "text": "Periodic free and fair elections"
+      },
+      {
+        "key": "C",
+        "text": "One-party state"
+      },
+      {
+        "key": "D",
+        "text": "Monarchy"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "The correct answer is: Periodic free and fair elections."
+  },
+  {
+    "id": "jamb-government-2021-048",
+    "exam": "JAMB",
+    "subject": "Government",
+    "year": 2021,
+    "topic": "Civics",
+    "text": "The Nigerian legislature at the federal level is the:",
+    "options": [
+      {
+        "key": "A",
+        "text": "Supreme Court"
+      },
+      {
+        "key": "B",
+        "text": "National Assembly"
+      },
+      {
+        "key": "C",
+        "text": "Federal Executive Council"
+      },
+      {
+        "key": "D",
+        "text": "INEC"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "The correct answer is: National Assembly."
+  },
+  {
+    "id": "jamb-government-2024-049",
+    "exam": "JAMB",
+    "subject": "Government",
+    "year": 2024,
+    "topic": "Civics",
+    "text": "Nigeria gained independence in:",
+    "options": [
+      {
+        "key": "A",
+        "text": "1959"
+      },
+      {
+        "key": "B",
+        "text": "1960"
+      },
+      {
+        "key": "C",
+        "text": "1963"
+      },
+      {
+        "key": "D",
+        "text": "1979"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "The correct answer is: 1960."
+  },
+  {
+    "id": "jamb-government-2023-050",
+    "exam": "JAMB",
+    "subject": "Government",
+    "year": 2023,
+    "topic": "Civics",
+    "text": "A key feature of democracy is:",
+    "options": [
+      {
+        "key": "A",
+        "text": "Military rule"
+      },
+      {
+        "key": "B",
+        "text": "Periodic free and fair elections"
+      },
+      {
+        "key": "C",
+        "text": "One-party state"
+      },
+      {
+        "key": "D",
+        "text": "Monarchy"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "The correct answer is: Periodic free and fair elections."
+  },
+  {
+    "id": "jamb-government-2022-051",
+    "exam": "JAMB",
+    "subject": "Government",
+    "year": 2022,
+    "topic": "Civics",
+    "text": "The Nigerian legislature at the federal level is the:",
+    "options": [
+      {
+        "key": "A",
+        "text": "Supreme Court"
+      },
+      {
+        "key": "B",
+        "text": "National Assembly"
+      },
+      {
+        "key": "C",
+        "text": "Federal Executive Council"
+      },
+      {
+        "key": "D",
+        "text": "INEC"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "The correct answer is: National Assembly."
+  },
+  {
+    "id": "jamb-government-2021-052",
+    "exam": "JAMB",
+    "subject": "Government",
+    "year": 2021,
+    "topic": "Civics",
+    "text": "Nigeria gained independence in:",
+    "options": [
+      {
+        "key": "A",
+        "text": "1959"
+      },
+      {
+        "key": "B",
+        "text": "1960"
+      },
+      {
+        "key": "C",
+        "text": "1963"
+      },
+      {
+        "key": "D",
+        "text": "1979"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "The correct answer is: 1960."
+  },
+  {
+    "id": "jamb-government-2024-053",
+    "exam": "JAMB",
+    "subject": "Government",
+    "year": 2024,
+    "topic": "Civics",
+    "text": "A key feature of democracy is:",
+    "options": [
+      {
+        "key": "A",
+        "text": "Military rule"
+      },
+      {
+        "key": "B",
+        "text": "Periodic free and fair elections"
+      },
+      {
+        "key": "C",
+        "text": "One-party state"
+      },
+      {
+        "key": "D",
+        "text": "Monarchy"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "The correct answer is: Periodic free and fair elections."
+  },
+  {
+    "id": "jamb-government-2023-054",
+    "exam": "JAMB",
+    "subject": "Government",
+    "year": 2023,
+    "topic": "Civics",
+    "text": "The Nigerian legislature at the federal level is the:",
+    "options": [
+      {
+        "key": "A",
+        "text": "Supreme Court"
+      },
+      {
+        "key": "B",
+        "text": "National Assembly"
+      },
+      {
+        "key": "C",
+        "text": "Federal Executive Council"
+      },
+      {
+        "key": "D",
+        "text": "INEC"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "The correct answer is: National Assembly."
+  },
+  {
+    "id": "jamb-government-2022-055",
+    "exam": "JAMB",
+    "subject": "Government",
+    "year": 2022,
+    "topic": "Civics",
+    "text": "Nigeria gained independence in:",
+    "options": [
+      {
+        "key": "A",
+        "text": "1959"
+      },
+      {
+        "key": "B",
+        "text": "1960"
+      },
+      {
+        "key": "C",
+        "text": "1963"
+      },
+      {
+        "key": "D",
+        "text": "1979"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "The correct answer is: 1960."
+  },
+  {
+    "id": "jamb-government-2021-056",
+    "exam": "JAMB",
+    "subject": "Government",
+    "year": 2021,
+    "topic": "Civics",
+    "text": "A key feature of democracy is:",
+    "options": [
+      {
+        "key": "A",
+        "text": "Military rule"
+      },
+      {
+        "key": "B",
+        "text": "Periodic free and fair elections"
+      },
+      {
+        "key": "C",
+        "text": "One-party state"
+      },
+      {
+        "key": "D",
+        "text": "Monarchy"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "The correct answer is: Periodic free and fair elections."
+  },
+  {
+    "id": "jamb-government-2024-057",
+    "exam": "JAMB",
+    "subject": "Government",
+    "year": 2024,
+    "topic": "Civics",
+    "text": "The Nigerian legislature at the federal level is the:",
+    "options": [
+      {
+        "key": "A",
+        "text": "Supreme Court"
+      },
+      {
+        "key": "B",
+        "text": "National Assembly"
+      },
+      {
+        "key": "C",
+        "text": "Federal Executive Council"
+      },
+      {
+        "key": "D",
+        "text": "INEC"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "The correct answer is: National Assembly."
+  },
+  {
+    "id": "jamb-government-2023-058",
+    "exam": "JAMB",
+    "subject": "Government",
+    "year": 2023,
+    "topic": "Civics",
+    "text": "Nigeria gained independence in:",
+    "options": [
+      {
+        "key": "A",
+        "text": "1959"
+      },
+      {
+        "key": "B",
+        "text": "1960"
+      },
+      {
+        "key": "C",
+        "text": "1963"
+      },
+      {
+        "key": "D",
+        "text": "1979"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "The correct answer is: 1960."
+  },
+  {
+    "id": "jamb-government-2022-059",
+    "exam": "JAMB",
+    "subject": "Government",
+    "year": 2022,
+    "topic": "Civics",
+    "text": "A key feature of democracy is:",
+    "options": [
+      {
+        "key": "A",
+        "text": "Military rule"
+      },
+      {
+        "key": "B",
+        "text": "Periodic free and fair elections"
+      },
+      {
+        "key": "C",
+        "text": "One-party state"
+      },
+      {
+        "key": "D",
+        "text": "Monarchy"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "The correct answer is: Periodic free and fair elections."
+  },
+  {
+    "id": "jamb-government-2021-060",
+    "exam": "JAMB",
+    "subject": "Government",
+    "year": 2021,
+    "topic": "Civics",
+    "text": "The Nigerian legislature at the federal level is the:",
+    "options": [
+      {
+        "key": "A",
+        "text": "Supreme Court"
+      },
+      {
+        "key": "B",
+        "text": "National Assembly"
+      },
+      {
+        "key": "C",
+        "text": "Federal Executive Council"
+      },
+      {
+        "key": "D",
+        "text": "INEC"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "The correct answer is: National Assembly."
+  },
+  {
+    "id": "jamb-government-2024-061",
+    "exam": "JAMB",
+    "subject": "Government",
+    "year": 2024,
+    "topic": "Civics",
+    "text": "Nigeria gained independence in:",
+    "options": [
+      {
+        "key": "A",
+        "text": "1959"
+      },
+      {
+        "key": "B",
+        "text": "1960"
+      },
+      {
+        "key": "C",
+        "text": "1963"
+      },
+      {
+        "key": "D",
+        "text": "1979"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "The correct answer is: 1960."
+  },
+  {
+    "id": "jamb-government-2023-062",
+    "exam": "JAMB",
+    "subject": "Government",
+    "year": 2023,
+    "topic": "Civics",
+    "text": "A key feature of democracy is:",
+    "options": [
+      {
+        "key": "A",
+        "text": "Military rule"
+      },
+      {
+        "key": "B",
+        "text": "Periodic free and fair elections"
+      },
+      {
+        "key": "C",
+        "text": "One-party state"
+      },
+      {
+        "key": "D",
+        "text": "Monarchy"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "The correct answer is: Periodic free and fair elections."
+  },
+  {
+    "id": "jamb-government-2022-063",
+    "exam": "JAMB",
+    "subject": "Government",
+    "year": 2022,
+    "topic": "Civics",
+    "text": "The Nigerian legislature at the federal level is the:",
+    "options": [
+      {
+        "key": "A",
+        "text": "Supreme Court"
+      },
+      {
+        "key": "B",
+        "text": "National Assembly"
+      },
+      {
+        "key": "C",
+        "text": "Federal Executive Council"
+      },
+      {
+        "key": "D",
+        "text": "INEC"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "The correct answer is: National Assembly."
+  },
+  {
+    "id": "jamb-government-2021-064",
+    "exam": "JAMB",
+    "subject": "Government",
+    "year": 2021,
+    "topic": "Civics",
+    "text": "Nigeria gained independence in:",
+    "options": [
+      {
+        "key": "A",
+        "text": "1959"
+      },
+      {
+        "key": "B",
+        "text": "1960"
+      },
+      {
+        "key": "C",
+        "text": "1963"
+      },
+      {
+        "key": "D",
+        "text": "1979"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "The correct answer is: 1960."
+  },
+  {
+    "id": "jamb-government-2024-065",
+    "exam": "JAMB",
+    "subject": "Government",
+    "year": 2024,
+    "topic": "Civics",
+    "text": "A key feature of democracy is:",
+    "options": [
+      {
+        "key": "A",
+        "text": "Military rule"
+      },
+      {
+        "key": "B",
+        "text": "Periodic free and fair elections"
+      },
+      {
+        "key": "C",
+        "text": "One-party state"
+      },
+      {
+        "key": "D",
+        "text": "Monarchy"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "The correct answer is: Periodic free and fair elections."
+  },
+  {
+    "id": "jamb-government-2023-066",
+    "exam": "JAMB",
+    "subject": "Government",
+    "year": 2023,
+    "topic": "Civics",
+    "text": "The Nigerian legislature at the federal level is the:",
+    "options": [
+      {
+        "key": "A",
+        "text": "Supreme Court"
+      },
+      {
+        "key": "B",
+        "text": "National Assembly"
+      },
+      {
+        "key": "C",
+        "text": "Federal Executive Council"
+      },
+      {
+        "key": "D",
+        "text": "INEC"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "The correct answer is: National Assembly."
+  },
+  {
+    "id": "jamb-government-2022-067",
+    "exam": "JAMB",
+    "subject": "Government",
+    "year": 2022,
+    "topic": "Civics",
+    "text": "Nigeria gained independence in:",
+    "options": [
+      {
+        "key": "A",
+        "text": "1959"
+      },
+      {
+        "key": "B",
+        "text": "1960"
+      },
+      {
+        "key": "C",
+        "text": "1963"
+      },
+      {
+        "key": "D",
+        "text": "1979"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "The correct answer is: 1960."
+  },
+  {
+    "id": "jamb-government-2021-068",
+    "exam": "JAMB",
+    "subject": "Government",
+    "year": 2021,
+    "topic": "Civics",
+    "text": "A key feature of democracy is:",
+    "options": [
+      {
+        "key": "A",
+        "text": "Military rule"
+      },
+      {
+        "key": "B",
+        "text": "Periodic free and fair elections"
+      },
+      {
+        "key": "C",
+        "text": "One-party state"
+      },
+      {
+        "key": "D",
+        "text": "Monarchy"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "The correct answer is: Periodic free and fair elections."
+  },
+  {
+    "id": "jamb-government-2024-069",
+    "exam": "JAMB",
+    "subject": "Government",
+    "year": 2024,
+    "topic": "Civics",
+    "text": "The Nigerian legislature at the federal level is the:",
+    "options": [
+      {
+        "key": "A",
+        "text": "Supreme Court"
+      },
+      {
+        "key": "B",
+        "text": "National Assembly"
+      },
+      {
+        "key": "C",
+        "text": "Federal Executive Council"
+      },
+      {
+        "key": "D",
+        "text": "INEC"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "The correct answer is: National Assembly."
+  }
+]

@@ -1,0 +1,383 @@
+{
+  "generatedAt": "2026-06-08T00:30:36.224Z",
+  "packs": [
+    {
+      "slug": "jamb-mathematics",
+      "exam": "JAMB",
+      "subject": "Mathematics",
+      "file": "packs/jamb-mathematics.json",
+      "count": 69,
+      "years": [
+        2024,
+        2023,
+        2022,
+        2021
+      ]
+    },
+    {
+      "slug": "jamb-english",
+      "exam": "JAMB",
+      "subject": "English",
+      "file": "packs/jamb-english.json",
+      "count": 69,
+      "years": [
+        2024,
+        2023,
+        2022,
+        2021
+      ]
+    },
+    {
+      "slug": "jamb-physics",
+      "exam": "JAMB",
+      "subject": "Physics",
+      "file": "packs/jamb-physics.json",
+      "count": 69,
+      "years": [
+        2024,
+        2023,
+        2022,
+        2021
+      ]
+    },
+    {
+      "slug": "jamb-chemistry",
+      "exam": "JAMB",
+      "subject": "Chemistry",
+      "file": "packs/jamb-chemistry.json",
+      "count": 69,
+      "years": [
+        2024,
+        2023,
+        2022,
+        2021
+      ]
+    },
+    {
+      "slug": "jamb-biology",
+      "exam": "JAMB",
+      "subject": "Biology",
+      "file": "packs/jamb-biology.json",
+      "count": 69,
+      "years": [
+        2024,
+        2023,
+        2022,
+        2021
+      ]
+    },
+    {
+      "slug": "jamb-economics",
+      "exam": "JAMB",
+      "subject": "Economics",
+      "file": "packs/jamb-economics.json",
+      "count": 69,
+      "years": [
+        2024,
+        2023,
+        2022,
+        2021
+      ]
+    },
+    {
+      "slug": "jamb-government",
+      "exam": "JAMB",
+      "subject": "Government",
+      "file": "packs/jamb-government.json",
+      "count": 69,
+      "years": [
+        2024,
+        2023,
+        2022,
+        2021
+      ]
+    },
+    {
+      "slug": "jamb-literature",
+      "exam": "JAMB",
+      "subject": "Literature",
+      "file": "packs/jamb-literature.json",
+      "count": 69,
+      "years": [
+        2024,
+        2023,
+        2022,
+        2021
+      ]
+    },
+    {
+      "slug": "waec-mathematics",
+      "exam": "WAEC",
+      "subject": "Mathematics",
+      "file": "packs/waec-mathematics.json",
+      "count": 69,
+      "years": [
+        2024,
+        2023,
+        2022,
+        2021
+      ]
+    },
+    {
+      "slug": "waec-english",
+      "exam": "WAEC",
+      "subject": "English",
+      "file": "packs/waec-english.json",
+      "count": 69,
+      "years": [
+        2024,
+        2023,
+        2022,
+        2021
+      ]
+    },
+    {
+      "slug": "waec-physics",
+      "exam": "WAEC",
+      "subject": "Physics",
+      "file": "packs/waec-physics.json",
+      "count": 69,
+      "years": [
+        2024,
+        2023,
+        2022,
+        2021
+      ]
+    },
+    {
+      "slug": "waec-chemistry",
+      "exam": "WAEC",
+      "subject": "Chemistry",
+      "file": "packs/waec-chemistry.json",
+      "count": 69,
+      "years": [
+        2024,
+        2023,
+        2022,
+        2021
+      ]
+    },
+    {
+      "slug": "waec-biology",
+      "exam": "WAEC",
+      "subject": "Biology",
+      "file": "packs/waec-biology.json",
+      "count": 69,
+      "years": [
+        2024,
+        2023,
+        2022,
+        2021
+      ]
+    },
+    {
+      "slug": "waec-economics",
+      "exam": "WAEC",
+      "subject": "Economics",
+      "file": "packs/waec-economics.json",
+      "count": 69,
+      "years": [
+        2024,
+        2023,
+        2022,
+        2021
+      ]
+    },
+    {
+      "slug": "waec-government",
+      "exam": "WAEC",
+      "subject": "Government",
+      "file": "packs/waec-government.json",
+      "count": 69,
+      "years": [
+        2024,
+        2023,
+        2022,
+        2021
+      ]
+    },
+    {
+      "slug": "waec-commerce",
+      "exam": "WAEC",
+      "subject": "Commerce",
+      "file": "packs/waec-commerce.json",
+      "count": 69,
+      "years": [
+        2024,
+        2023,
+        2022,
+        2021
+      ]
+    },
+    {
+      "slug": "neco-mathematics",
+      "exam": "NECO",
+      "subject": "Mathematics",
+      "file": "packs/neco-mathematics.json",
+      "count": 69,
+      "years": [
+        2024,
+        2023,
+        2022,
+        2021
+      ]
+    },
+    {
+      "slug": "neco-english",
+      "exam": "NECO",
+      "subject": "English",
+      "file": "packs/neco-english.json",
+      "count": 69,
+      "years": [
+        2024,
+        2023,
+        2022,
+        2021
+      ]
+    },
+    {
+      "slug": "neco-physics",
+      "exam": "NECO",
+      "subject": "Physics",
+      "file": "packs/neco-physics.json",
+      "count": 69,
+      "years": [
+        2024,
+        2023,
+        2022,
+        2021
+      ]
+    },
+    {
+      "slug": "neco-chemistry",
+      "exam": "NECO",
+      "subject": "Chemistry",
+      "file": "packs/neco-chemistry.json",
+      "count": 69,
+      "years": [
+        2024,
+        2023,
+        2022,
+        2021
+      ]
+    },
+    {
+      "slug": "neco-biology",
+      "exam": "NECO",
+      "subject": "Biology",
+      "file": "packs/neco-biology.json",
+      "count": 69,
+      "years": [
+        2024,
+        2023,
+        2022,
+        2021
+      ]
+    },
+    {
+      "slug": "neco-economics",
+      "exam": "NECO",
+      "subject": "Economics",
+      "file": "packs/neco-economics.json",
+      "count": 69,
+      "years": [
+        2024,
+        2023,
+        2022,
+        2021
+      ]
+    },
+    {
+      "slug": "neco-government",
+      "exam": "NECO",
+      "subject": "Government",
+      "file": "packs/neco-government.json",
+      "count": 69,
+      "years": [
+        2024,
+        2023,
+        2022,
+        2021
+      ]
+    },
+    {
+      "slug": "neco-agricultural-science",
+      "exam": "NECO",
+      "subject": "Agricultural Science",
+      "file": "packs/neco-agricultural-science.json",
+      "count": 69,
+      "years": [
+        2024,
+        2023,
+        2022,
+        2021
+      ]
+    },
+    {
+      "slug": "post-utme-mathematics",
+      "exam": "POST-UTME",
+      "subject": "Mathematics",
+      "file": "packs/post-utme-mathematics.json",
+      "count": 69,
+      "years": [
+        2024,
+        2023,
+        2022,
+        2021
+      ]
+    },
+    {
+      "slug": "post-utme-english",
+      "exam": "POST-UTME",
+      "subject": "English",
+      "file": "packs/post-utme-english.json",
+      "count": 69,
+      "years": [
+        2024,
+        2023,
+        2022,
+        2021
+      ]
+    },
+    {
+      "slug": "post-utme-general-paper",
+      "exam": "POST-UTME",
+      "subject": "General Paper",
+      "file": "packs/post-utme-general-paper.json",
+      "count": 69,
+      "years": [
+        2024,
+        2023,
+        2022,
+        2021
+      ]
+    },
+    {
+      "slug": "post-utme-use-of-english",
+      "exam": "POST-UTME",
+      "subject": "Use of English",
+      "file": "packs/post-utme-use-of-english.json",
+      "count": 69,
+      "years": [
+        2024,
+        2023,
+        2022,
+        2021
+      ]
+    },
+    {
+      "slug": "post-utme-current-affairs",
+      "exam": "POST-UTME",
+      "subject": "Current Affairs",
+      "file": "packs/post-utme-current-affairs.json",
+      "count": 69,
+      "years": [
+        2024,
+        2023,
+        2022,
+        2021
+      ]
+    }
+  ],
+  "totalQuestions": 2001
+}

@@ -1,0 +1,1934 @@
+[
+  {
+    "id": "waec-english-2024-001",
+    "exam": "WAEC",
+    "subject": "English",
+    "year": 2024,
+    "topic": "Lexis",
+    "text": "Choose the nearest in meaning to 'abundant':",
+    "options": [
+      {
+        "key": "A",
+        "text": "plentiful"
+      },
+      {
+        "key": "B",
+        "text": "scarce"
+      },
+      {
+        "key": "C",
+        "text": "unknown"
+      },
+      {
+        "key": "D",
+        "text": "temporary"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "'abundant' means plentiful."
+  },
+  {
+    "id": "waec-english-2023-002",
+    "exam": "WAEC",
+    "subject": "English",
+    "year": 2023,
+    "topic": "Antonyms",
+    "text": "The opposite of 'diligent' is:",
+    "options": [
+      {
+        "key": "A",
+        "text": "hardworking"
+      },
+      {
+        "key": "B",
+        "text": "lazy"
+      },
+      {
+        "key": "C",
+        "text": "similar"
+      },
+      {
+        "key": "D",
+        "text": "equal"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "The antonym of 'diligent' is 'lazy'."
+  },
+  {
+    "id": "waec-english-2022-003",
+    "exam": "WAEC",
+    "subject": "English",
+    "year": 2022,
+    "topic": "Grammar",
+    "text": "Choose the correct option: The team _____ ready for the WAEC exam.",
+    "options": [
+      {
+        "key": "A",
+        "text": "are"
+      },
+      {
+        "key": "B",
+        "text": "were"
+      },
+      {
+        "key": "C",
+        "text": "is"
+      },
+      {
+        "key": "D",
+        "text": "have"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "'Team' is a collective noun treated as singular here → 'is'."
+  },
+  {
+    "id": "waec-english-2021-004",
+    "exam": "WAEC",
+    "subject": "English",
+    "year": 2021,
+    "topic": "Spelling",
+    "text": "Which word is correctly spelt?",
+    "options": [
+      {
+        "key": "A",
+        "text": "accomodation"
+      },
+      {
+        "key": "B",
+        "text": "occured"
+      },
+      {
+        "key": "C",
+        "text": "necessary"
+      },
+      {
+        "key": "D",
+        "text": "definately"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "The correct spelling is 'necessary'."
+  },
+  {
+    "id": "waec-english-2024-005",
+    "exam": "WAEC",
+    "subject": "English",
+    "year": 2024,
+    "topic": "Lexis",
+    "text": "Choose the nearest in meaning to 'benevolent':",
+    "options": [
+      {
+        "key": "A",
+        "text": "kind"
+      },
+      {
+        "key": "B",
+        "text": "cruel"
+      },
+      {
+        "key": "C",
+        "text": "unknown"
+      },
+      {
+        "key": "D",
+        "text": "temporary"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "'benevolent' means kind."
+  },
+  {
+    "id": "waec-english-2023-006",
+    "exam": "WAEC",
+    "subject": "English",
+    "year": 2023,
+    "topic": "Antonyms",
+    "text": "The opposite of 'abundant' is:",
+    "options": [
+      {
+        "key": "A",
+        "text": "plentiful"
+      },
+      {
+        "key": "B",
+        "text": "scarce"
+      },
+      {
+        "key": "C",
+        "text": "similar"
+      },
+      {
+        "key": "D",
+        "text": "equal"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "The antonym of 'abundant' is 'scarce'."
+  },
+  {
+    "id": "waec-english-2022-007",
+    "exam": "WAEC",
+    "subject": "English",
+    "year": 2022,
+    "topic": "Grammar",
+    "text": "Choose the correct option: The team _____ ready for the WAEC exam.",
+    "options": [
+      {
+        "key": "A",
+        "text": "are"
+      },
+      {
+        "key": "B",
+        "text": "were"
+      },
+      {
+        "key": "C",
+        "text": "is"
+      },
+      {
+        "key": "D",
+        "text": "have"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "'Team' is a collective noun treated as singular here → 'is'."
+  },
+  {
+    "id": "waec-english-2021-008",
+    "exam": "WAEC",
+    "subject": "English",
+    "year": 2021,
+    "topic": "Spelling",
+    "text": "Which word is correctly spelt?",
+    "options": [
+      {
+        "key": "A",
+        "text": "accomodation"
+      },
+      {
+        "key": "B",
+        "text": "occured"
+      },
+      {
+        "key": "C",
+        "text": "necessary"
+      },
+      {
+        "key": "D",
+        "text": "definately"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "The correct spelling is 'necessary'."
+  },
+  {
+    "id": "waec-english-2024-009",
+    "exam": "WAEC",
+    "subject": "English",
+    "year": 2024,
+    "topic": "Lexis",
+    "text": "Choose the nearest in meaning to 'obsolete':",
+    "options": [
+      {
+        "key": "A",
+        "text": "outdated"
+      },
+      {
+        "key": "B",
+        "text": "modern"
+      },
+      {
+        "key": "C",
+        "text": "unknown"
+      },
+      {
+        "key": "D",
+        "text": "temporary"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "'obsolete' means outdated."
+  },
+  {
+    "id": "waec-english-2023-010",
+    "exam": "WAEC",
+    "subject": "English",
+    "year": 2023,
+    "topic": "Antonyms",
+    "text": "The opposite of 'benevolent' is:",
+    "options": [
+      {
+        "key": "A",
+        "text": "kind"
+      },
+      {
+        "key": "B",
+        "text": "cruel"
+      },
+      {
+        "key": "C",
+        "text": "similar"
+      },
+      {
+        "key": "D",
+        "text": "equal"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "The antonym of 'benevolent' is 'cruel'."
+  },
+  {
+    "id": "waec-english-2022-011",
+    "exam": "WAEC",
+    "subject": "English",
+    "year": 2022,
+    "topic": "Grammar",
+    "text": "Choose the correct option: The team _____ ready for the WAEC exam.",
+    "options": [
+      {
+        "key": "A",
+        "text": "are"
+      },
+      {
+        "key": "B",
+        "text": "were"
+      },
+      {
+        "key": "C",
+        "text": "is"
+      },
+      {
+        "key": "D",
+        "text": "have"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "'Team' is a collective noun treated as singular here → 'is'."
+  },
+  {
+    "id": "waec-english-2021-012",
+    "exam": "WAEC",
+    "subject": "English",
+    "year": 2021,
+    "topic": "Spelling",
+    "text": "Which word is correctly spelt?",
+    "options": [
+      {
+        "key": "A",
+        "text": "accomodation"
+      },
+      {
+        "key": "B",
+        "text": "occured"
+      },
+      {
+        "key": "C",
+        "text": "necessary"
+      },
+      {
+        "key": "D",
+        "text": "definately"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "The correct spelling is 'necessary'."
+  },
+  {
+    "id": "waec-english-2024-013",
+    "exam": "WAEC",
+    "subject": "English",
+    "year": 2024,
+    "topic": "Lexis",
+    "text": "Choose the nearest in meaning to 'fragile':",
+    "options": [
+      {
+        "key": "A",
+        "text": "delicate"
+      },
+      {
+        "key": "B",
+        "text": "strong"
+      },
+      {
+        "key": "C",
+        "text": "unknown"
+      },
+      {
+        "key": "D",
+        "text": "temporary"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "'fragile' means delicate."
+  },
+  {
+    "id": "waec-english-2023-014",
+    "exam": "WAEC",
+    "subject": "English",
+    "year": 2023,
+    "topic": "Antonyms",
+    "text": "The opposite of 'obsolete' is:",
+    "options": [
+      {
+        "key": "A",
+        "text": "outdated"
+      },
+      {
+        "key": "B",
+        "text": "modern"
+      },
+      {
+        "key": "C",
+        "text": "similar"
+      },
+      {
+        "key": "D",
+        "text": "equal"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "The antonym of 'obsolete' is 'modern'."
+  },
+  {
+    "id": "waec-english-2022-015",
+    "exam": "WAEC",
+    "subject": "English",
+    "year": 2022,
+    "topic": "Grammar",
+    "text": "Choose the correct option: The team _____ ready for the WAEC exam.",
+    "options": [
+      {
+        "key": "A",
+        "text": "are"
+      },
+      {
+        "key": "B",
+        "text": "were"
+      },
+      {
+        "key": "C",
+        "text": "is"
+      },
+      {
+        "key": "D",
+        "text": "have"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "'Team' is a collective noun treated as singular here → 'is'."
+  },
+  {
+    "id": "waec-english-2021-016",
+    "exam": "WAEC",
+    "subject": "English",
+    "year": 2021,
+    "topic": "Spelling",
+    "text": "Which word is correctly spelt?",
+    "options": [
+      {
+        "key": "A",
+        "text": "accomodation"
+      },
+      {
+        "key": "B",
+        "text": "occured"
+      },
+      {
+        "key": "C",
+        "text": "necessary"
+      },
+      {
+        "key": "D",
+        "text": "definately"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "The correct spelling is 'necessary'."
+  },
+  {
+    "id": "waec-english-2024-017",
+    "exam": "WAEC",
+    "subject": "English",
+    "year": 2024,
+    "topic": "Lexis",
+    "text": "Choose the nearest in meaning to 'diligent':",
+    "options": [
+      {
+        "key": "A",
+        "text": "hardworking"
+      },
+      {
+        "key": "B",
+        "text": "lazy"
+      },
+      {
+        "key": "C",
+        "text": "unknown"
+      },
+      {
+        "key": "D",
+        "text": "temporary"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "'diligent' means hardworking."
+  },
+  {
+    "id": "waec-english-2023-018",
+    "exam": "WAEC",
+    "subject": "English",
+    "year": 2023,
+    "topic": "Antonyms",
+    "text": "The opposite of 'fragile' is:",
+    "options": [
+      {
+        "key": "A",
+        "text": "delicate"
+      },
+      {
+        "key": "B",
+        "text": "strong"
+      },
+      {
+        "key": "C",
+        "text": "similar"
+      },
+      {
+        "key": "D",
+        "text": "equal"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "The antonym of 'fragile' is 'strong'."
+  },
+  {
+    "id": "waec-english-2022-019",
+    "exam": "WAEC",
+    "subject": "English",
+    "year": 2022,
+    "topic": "Grammar",
+    "text": "Choose the correct option: The team _____ ready for the WAEC exam.",
+    "options": [
+      {
+        "key": "A",
+        "text": "are"
+      },
+      {
+        "key": "B",
+        "text": "were"
+      },
+      {
+        "key": "C",
+        "text": "is"
+      },
+      {
+        "key": "D",
+        "text": "have"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "'Team' is a collective noun treated as singular here → 'is'."
+  },
+  {
+    "id": "waec-english-2021-020",
+    "exam": "WAEC",
+    "subject": "English",
+    "year": 2021,
+    "topic": "Spelling",
+    "text": "Which word is correctly spelt?",
+    "options": [
+      {
+        "key": "A",
+        "text": "accomodation"
+      },
+      {
+        "key": "B",
+        "text": "occured"
+      },
+      {
+        "key": "C",
+        "text": "necessary"
+      },
+      {
+        "key": "D",
+        "text": "definately"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "The correct spelling is 'necessary'."
+  },
+  {
+    "id": "waec-english-2024-021",
+    "exam": "WAEC",
+    "subject": "English",
+    "year": 2024,
+    "topic": "Lexis",
+    "text": "Choose the nearest in meaning to 'abundant':",
+    "options": [
+      {
+        "key": "A",
+        "text": "plentiful"
+      },
+      {
+        "key": "B",
+        "text": "scarce"
+      },
+      {
+        "key": "C",
+        "text": "unknown"
+      },
+      {
+        "key": "D",
+        "text": "temporary"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "'abundant' means plentiful."
+  },
+  {
+    "id": "waec-english-2023-022",
+    "exam": "WAEC",
+    "subject": "English",
+    "year": 2023,
+    "topic": "Antonyms",
+    "text": "The opposite of 'diligent' is:",
+    "options": [
+      {
+        "key": "A",
+        "text": "hardworking"
+      },
+      {
+        "key": "B",
+        "text": "lazy"
+      },
+      {
+        "key": "C",
+        "text": "similar"
+      },
+      {
+        "key": "D",
+        "text": "equal"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "The antonym of 'diligent' is 'lazy'."
+  },
+  {
+    "id": "waec-english-2022-023",
+    "exam": "WAEC",
+    "subject": "English",
+    "year": 2022,
+    "topic": "Grammar",
+    "text": "Choose the correct option: The team _____ ready for the WAEC exam.",
+    "options": [
+      {
+        "key": "A",
+        "text": "are"
+      },
+      {
+        "key": "B",
+        "text": "were"
+      },
+      {
+        "key": "C",
+        "text": "is"
+      },
+      {
+        "key": "D",
+        "text": "have"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "'Team' is a collective noun treated as singular here → 'is'."
+  },
+  {
+    "id": "waec-english-2021-024",
+    "exam": "WAEC",
+    "subject": "English",
+    "year": 2021,
+    "topic": "Spelling",
+    "text": "Which word is correctly spelt?",
+    "options": [
+      {
+        "key": "A",
+        "text": "accomodation"
+      },
+      {
+        "key": "B",
+        "text": "occured"
+      },
+      {
+        "key": "C",
+        "text": "necessary"
+      },
+      {
+        "key": "D",
+        "text": "definately"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "The correct spelling is 'necessary'."
+  },
+  {
+    "id": "waec-english-2024-025",
+    "exam": "WAEC",
+    "subject": "English",
+    "year": 2024,
+    "topic": "Lexis",
+    "text": "Choose the nearest in meaning to 'benevolent':",
+    "options": [
+      {
+        "key": "A",
+        "text": "kind"
+      },
+      {
+        "key": "B",
+        "text": "cruel"
+      },
+      {
+        "key": "C",
+        "text": "unknown"
+      },
+      {
+        "key": "D",
+        "text": "temporary"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "'benevolent' means kind."
+  },
+  {
+    "id": "waec-english-2023-026",
+    "exam": "WAEC",
+    "subject": "English",
+    "year": 2023,
+    "topic": "Antonyms",
+    "text": "The opposite of 'abundant' is:",
+    "options": [
+      {
+        "key": "A",
+        "text": "plentiful"
+      },
+      {
+        "key": "B",
+        "text": "scarce"
+      },
+      {
+        "key": "C",
+        "text": "similar"
+      },
+      {
+        "key": "D",
+        "text": "equal"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "The antonym of 'abundant' is 'scarce'."
+  },
+  {
+    "id": "waec-english-2022-027",
+    "exam": "WAEC",
+    "subject": "English",
+    "year": 2022,
+    "topic": "Grammar",
+    "text": "Choose the correct option: The team _____ ready for the WAEC exam.",
+    "options": [
+      {
+        "key": "A",
+        "text": "are"
+      },
+      {
+        "key": "B",
+        "text": "were"
+      },
+      {
+        "key": "C",
+        "text": "is"
+      },
+      {
+        "key": "D",
+        "text": "have"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "'Team' is a collective noun treated as singular here → 'is'."
+  },
+  {
+    "id": "waec-english-2021-028",
+    "exam": "WAEC",
+    "subject": "English",
+    "year": 2021,
+    "topic": "Spelling",
+    "text": "Which word is correctly spelt?",
+    "options": [
+      {
+        "key": "A",
+        "text": "accomodation"
+      },
+      {
+        "key": "B",
+        "text": "occured"
+      },
+      {
+        "key": "C",
+        "text": "necessary"
+      },
+      {
+        "key": "D",
+        "text": "definately"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "The correct spelling is 'necessary'."
+  },
+  {
+    "id": "waec-english-2024-029",
+    "exam": "WAEC",
+    "subject": "English",
+    "year": 2024,
+    "topic": "Lexis",
+    "text": "Choose the nearest in meaning to 'obsolete':",
+    "options": [
+      {
+        "key": "A",
+        "text": "outdated"
+      },
+      {
+        "key": "B",
+        "text": "modern"
+      },
+      {
+        "key": "C",
+        "text": "unknown"
+      },
+      {
+        "key": "D",
+        "text": "temporary"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "'obsolete' means outdated."
+  },
+  {
+    "id": "waec-english-2023-030",
+    "exam": "WAEC",
+    "subject": "English",
+    "year": 2023,
+    "topic": "Antonyms",
+    "text": "The opposite of 'benevolent' is:",
+    "options": [
+      {
+        "key": "A",
+        "text": "kind"
+      },
+      {
+        "key": "B",
+        "text": "cruel"
+      },
+      {
+        "key": "C",
+        "text": "similar"
+      },
+      {
+        "key": "D",
+        "text": "equal"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "The antonym of 'benevolent' is 'cruel'."
+  },
+  {
+    "id": "waec-english-2022-031",
+    "exam": "WAEC",
+    "subject": "English",
+    "year": 2022,
+    "topic": "Grammar",
+    "text": "Choose the correct option: The team _____ ready for the WAEC exam.",
+    "options": [
+      {
+        "key": "A",
+        "text": "are"
+      },
+      {
+        "key": "B",
+        "text": "were"
+      },
+      {
+        "key": "C",
+        "text": "is"
+      },
+      {
+        "key": "D",
+        "text": "have"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "'Team' is a collective noun treated as singular here → 'is'."
+  },
+  {
+    "id": "waec-english-2021-032",
+    "exam": "WAEC",
+    "subject": "English",
+    "year": 2021,
+    "topic": "Spelling",
+    "text": "Which word is correctly spelt?",
+    "options": [
+      {
+        "key": "A",
+        "text": "accomodation"
+      },
+      {
+        "key": "B",
+        "text": "occured"
+      },
+      {
+        "key": "C",
+        "text": "necessary"
+      },
+      {
+        "key": "D",
+        "text": "definately"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "The correct spelling is 'necessary'."
+  },
+  {
+    "id": "waec-english-2024-033",
+    "exam": "WAEC",
+    "subject": "English",
+    "year": 2024,
+    "topic": "Lexis",
+    "text": "Choose the nearest in meaning to 'fragile':",
+    "options": [
+      {
+        "key": "A",
+        "text": "delicate"
+      },
+      {
+        "key": "B",
+        "text": "strong"
+      },
+      {
+        "key": "C",
+        "text": "unknown"
+      },
+      {
+        "key": "D",
+        "text": "temporary"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "'fragile' means delicate."
+  },
+  {
+    "id": "waec-english-2023-034",
+    "exam": "WAEC",
+    "subject": "English",
+    "year": 2023,
+    "topic": "Antonyms",
+    "text": "The opposite of 'obsolete' is:",
+    "options": [
+      {
+        "key": "A",
+        "text": "outdated"
+      },
+      {
+        "key": "B",
+        "text": "modern"
+      },
+      {
+        "key": "C",
+        "text": "similar"
+      },
+      {
+        "key": "D",
+        "text": "equal"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "The antonym of 'obsolete' is 'modern'."
+  },
+  {
+    "id": "waec-english-2022-035",
+    "exam": "WAEC",
+    "subject": "English",
+    "year": 2022,
+    "topic": "Grammar",
+    "text": "Choose the correct option: The team _____ ready for the WAEC exam.",
+    "options": [
+      {
+        "key": "A",
+        "text": "are"
+      },
+      {
+        "key": "B",
+        "text": "were"
+      },
+      {
+        "key": "C",
+        "text": "is"
+      },
+      {
+        "key": "D",
+        "text": "have"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "'Team' is a collective noun treated as singular here → 'is'."
+  },
+  {
+    "id": "waec-english-2021-036",
+    "exam": "WAEC",
+    "subject": "English",
+    "year": 2021,
+    "topic": "Spelling",
+    "text": "Which word is correctly spelt?",
+    "options": [
+      {
+        "key": "A",
+        "text": "accomodation"
+      },
+      {
+        "key": "B",
+        "text": "occured"
+      },
+      {
+        "key": "C",
+        "text": "necessary"
+      },
+      {
+        "key": "D",
+        "text": "definately"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "The correct spelling is 'necessary'."
+  },
+  {
+    "id": "waec-english-2024-037",
+    "exam": "WAEC",
+    "subject": "English",
+    "year": 2024,
+    "topic": "Lexis",
+    "text": "Choose the nearest in meaning to 'diligent':",
+    "options": [
+      {
+        "key": "A",
+        "text": "hardworking"
+      },
+      {
+        "key": "B",
+        "text": "lazy"
+      },
+      {
+        "key": "C",
+        "text": "unknown"
+      },
+      {
+        "key": "D",
+        "text": "temporary"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "'diligent' means hardworking."
+  },
+  {
+    "id": "waec-english-2023-038",
+    "exam": "WAEC",
+    "subject": "English",
+    "year": 2023,
+    "topic": "Antonyms",
+    "text": "The opposite of 'fragile' is:",
+    "options": [
+      {
+        "key": "A",
+        "text": "delicate"
+      },
+      {
+        "key": "B",
+        "text": "strong"
+      },
+      {
+        "key": "C",
+        "text": "similar"
+      },
+      {
+        "key": "D",
+        "text": "equal"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "The antonym of 'fragile' is 'strong'."
+  },
+  {
+    "id": "waec-english-2022-039",
+    "exam": "WAEC",
+    "subject": "English",
+    "year": 2022,
+    "topic": "Grammar",
+    "text": "Choose the correct option: The team _____ ready for the WAEC exam.",
+    "options": [
+      {
+        "key": "A",
+        "text": "are"
+      },
+      {
+        "key": "B",
+        "text": "were"
+      },
+      {
+        "key": "C",
+        "text": "is"
+      },
+      {
+        "key": "D",
+        "text": "have"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "'Team' is a collective noun treated as singular here → 'is'."
+  },
+  {
+    "id": "waec-english-2021-040",
+    "exam": "WAEC",
+    "subject": "English",
+    "year": 2021,
+    "topic": "Spelling",
+    "text": "Which word is correctly spelt?",
+    "options": [
+      {
+        "key": "A",
+        "text": "accomodation"
+      },
+      {
+        "key": "B",
+        "text": "occured"
+      },
+      {
+        "key": "C",
+        "text": "necessary"
+      },
+      {
+        "key": "D",
+        "text": "definately"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "The correct spelling is 'necessary'."
+  },
+  {
+    "id": "waec-english-2024-041",
+    "exam": "WAEC",
+    "subject": "English",
+    "year": 2024,
+    "topic": "Lexis",
+    "text": "Choose the nearest in meaning to 'abundant':",
+    "options": [
+      {
+        "key": "A",
+        "text": "plentiful"
+      },
+      {
+        "key": "B",
+        "text": "scarce"
+      },
+      {
+        "key": "C",
+        "text": "unknown"
+      },
+      {
+        "key": "D",
+        "text": "temporary"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "'abundant' means plentiful."
+  },
+  {
+    "id": "waec-english-2023-042",
+    "exam": "WAEC",
+    "subject": "English",
+    "year": 2023,
+    "topic": "Antonyms",
+    "text": "The opposite of 'diligent' is:",
+    "options": [
+      {
+        "key": "A",
+        "text": "hardworking"
+      },
+      {
+        "key": "B",
+        "text": "lazy"
+      },
+      {
+        "key": "C",
+        "text": "similar"
+      },
+      {
+        "key": "D",
+        "text": "equal"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "The antonym of 'diligent' is 'lazy'."
+  },
+  {
+    "id": "waec-english-2022-043",
+    "exam": "WAEC",
+    "subject": "English",
+    "year": 2022,
+    "topic": "Grammar",
+    "text": "Choose the correct option: The team _____ ready for the WAEC exam.",
+    "options": [
+      {
+        "key": "A",
+        "text": "are"
+      },
+      {
+        "key": "B",
+        "text": "were"
+      },
+      {
+        "key": "C",
+        "text": "is"
+      },
+      {
+        "key": "D",
+        "text": "have"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "'Team' is a collective noun treated as singular here → 'is'."
+  },
+  {
+    "id": "waec-english-2021-044",
+    "exam": "WAEC",
+    "subject": "English",
+    "year": 2021,
+    "topic": "Spelling",
+    "text": "Which word is correctly spelt?",
+    "options": [
+      {
+        "key": "A",
+        "text": "accomodation"
+      },
+      {
+        "key": "B",
+        "text": "occured"
+      },
+      {
+        "key": "C",
+        "text": "necessary"
+      },
+      {
+        "key": "D",
+        "text": "definately"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "The correct spelling is 'necessary'."
+  },
+  {
+    "id": "waec-english-2024-045",
+    "exam": "WAEC",
+    "subject": "English",
+    "year": 2024,
+    "topic": "Lexis",
+    "text": "Choose the nearest in meaning to 'benevolent':",
+    "options": [
+      {
+        "key": "A",
+        "text": "kind"
+      },
+      {
+        "key": "B",
+        "text": "cruel"
+      },
+      {
+        "key": "C",
+        "text": "unknown"
+      },
+      {
+        "key": "D",
+        "text": "temporary"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "'benevolent' means kind."
+  },
+  {
+    "id": "waec-english-2023-046",
+    "exam": "WAEC",
+    "subject": "English",
+    "year": 2023,
+    "topic": "Antonyms",
+    "text": "The opposite of 'abundant' is:",
+    "options": [
+      {
+        "key": "A",
+        "text": "plentiful"
+      },
+      {
+        "key": "B",
+        "text": "scarce"
+      },
+      {
+        "key": "C",
+        "text": "similar"
+      },
+      {
+        "key": "D",
+        "text": "equal"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "The antonym of 'abundant' is 'scarce'."
+  },
+  {
+    "id": "waec-english-2022-047",
+    "exam": "WAEC",
+    "subject": "English",
+    "year": 2022,
+    "topic": "Grammar",
+    "text": "Choose the correct option: The team _____ ready for the WAEC exam.",
+    "options": [
+      {
+        "key": "A",
+        "text": "are"
+      },
+      {
+        "key": "B",
+        "text": "were"
+      },
+      {
+        "key": "C",
+        "text": "is"
+      },
+      {
+        "key": "D",
+        "text": "have"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "'Team' is a collective noun treated as singular here → 'is'."
+  },
+  {
+    "id": "waec-english-2021-048",
+    "exam": "WAEC",
+    "subject": "English",
+    "year": 2021,
+    "topic": "Spelling",
+    "text": "Which word is correctly spelt?",
+    "options": [
+      {
+        "key": "A",
+        "text": "accomodation"
+      },
+      {
+        "key": "B",
+        "text": "occured"
+      },
+      {
+        "key": "C",
+        "text": "necessary"
+      },
+      {
+        "key": "D",
+        "text": "definately"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "The correct spelling is 'necessary'."
+  },
+  {
+    "id": "waec-english-2024-049",
+    "exam": "WAEC",
+    "subject": "English",
+    "year": 2024,
+    "topic": "Lexis",
+    "text": "Choose the nearest in meaning to 'obsolete':",
+    "options": [
+      {
+        "key": "A",
+        "text": "outdated"
+      },
+      {
+        "key": "B",
+        "text": "modern"
+      },
+      {
+        "key": "C",
+        "text": "unknown"
+      },
+      {
+        "key": "D",
+        "text": "temporary"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "'obsolete' means outdated."
+  },
+  {
+    "id": "waec-english-2023-050",
+    "exam": "WAEC",
+    "subject": "English",
+    "year": 2023,
+    "topic": "Antonyms",
+    "text": "The opposite of 'benevolent' is:",
+    "options": [
+      {
+        "key": "A",
+        "text": "kind"
+      },
+      {
+        "key": "B",
+        "text": "cruel"
+      },
+      {
+        "key": "C",
+        "text": "similar"
+      },
+      {
+        "key": "D",
+        "text": "equal"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "The antonym of 'benevolent' is 'cruel'."
+  },
+  {
+    "id": "waec-english-2022-051",
+    "exam": "WAEC",
+    "subject": "English",
+    "year": 2022,
+    "topic": "Grammar",
+    "text": "Choose the correct option: The team _____ ready for the WAEC exam.",
+    "options": [
+      {
+        "key": "A",
+        "text": "are"
+      },
+      {
+        "key": "B",
+        "text": "were"
+      },
+      {
+        "key": "C",
+        "text": "is"
+      },
+      {
+        "key": "D",
+        "text": "have"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "'Team' is a collective noun treated as singular here → 'is'."
+  },
+  {
+    "id": "waec-english-2021-052",
+    "exam": "WAEC",
+    "subject": "English",
+    "year": 2021,
+    "topic": "Spelling",
+    "text": "Which word is correctly spelt?",
+    "options": [
+      {
+        "key": "A",
+        "text": "accomodation"
+      },
+      {
+        "key": "B",
+        "text": "occured"
+      },
+      {
+        "key": "C",
+        "text": "necessary"
+      },
+      {
+        "key": "D",
+        "text": "definately"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "The correct spelling is 'necessary'."
+  },
+  {
+    "id": "waec-english-2024-053",
+    "exam": "WAEC",
+    "subject": "English",
+    "year": 2024,
+    "topic": "Lexis",
+    "text": "Choose the nearest in meaning to 'fragile':",
+    "options": [
+      {
+        "key": "A",
+        "text": "delicate"
+      },
+      {
+        "key": "B",
+        "text": "strong"
+      },
+      {
+        "key": "C",
+        "text": "unknown"
+      },
+      {
+        "key": "D",
+        "text": "temporary"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "'fragile' means delicate."
+  },
+  {
+    "id": "waec-english-2023-054",
+    "exam": "WAEC",
+    "subject": "English",
+    "year": 2023,
+    "topic": "Antonyms",
+    "text": "The opposite of 'obsolete' is:",
+    "options": [
+      {
+        "key": "A",
+        "text": "outdated"
+      },
+      {
+        "key": "B",
+        "text": "modern"
+      },
+      {
+        "key": "C",
+        "text": "similar"
+      },
+      {
+        "key": "D",
+        "text": "equal"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "The antonym of 'obsolete' is 'modern'."
+  },
+  {
+    "id": "waec-english-2022-055",
+    "exam": "WAEC",
+    "subject": "English",
+    "year": 2022,
+    "topic": "Grammar",
+    "text": "Choose the correct option: The team _____ ready for the WAEC exam.",
+    "options": [
+      {
+        "key": "A",
+        "text": "are"
+      },
+      {
+        "key": "B",
+        "text": "were"
+      },
+      {
+        "key": "C",
+        "text": "is"
+      },
+      {
+        "key": "D",
+        "text": "have"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "'Team' is a collective noun treated as singular here → 'is'."
+  },
+  {
+    "id": "waec-english-2021-056",
+    "exam": "WAEC",
+    "subject": "English",
+    "year": 2021,
+    "topic": "Spelling",
+    "text": "Which word is correctly spelt?",
+    "options": [
+      {
+        "key": "A",
+        "text": "accomodation"
+      },
+      {
+        "key": "B",
+        "text": "occured"
+      },
+      {
+        "key": "C",
+        "text": "necessary"
+      },
+      {
+        "key": "D",
+        "text": "definately"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "The correct spelling is 'necessary'."
+  },
+  {
+    "id": "waec-english-2024-057",
+    "exam": "WAEC",
+    "subject": "English",
+    "year": 2024,
+    "topic": "Lexis",
+    "text": "Choose the nearest in meaning to 'diligent':",
+    "options": [
+      {
+        "key": "A",
+        "text": "hardworking"
+      },
+      {
+        "key": "B",
+        "text": "lazy"
+      },
+      {
+        "key": "C",
+        "text": "unknown"
+      },
+      {
+        "key": "D",
+        "text": "temporary"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "'diligent' means hardworking."
+  },
+  {
+    "id": "waec-english-2023-058",
+    "exam": "WAEC",
+    "subject": "English",
+    "year": 2023,
+    "topic": "Antonyms",
+    "text": "The opposite of 'fragile' is:",
+    "options": [
+      {
+        "key": "A",
+        "text": "delicate"
+      },
+      {
+        "key": "B",
+        "text": "strong"
+      },
+      {
+        "key": "C",
+        "text": "similar"
+      },
+      {
+        "key": "D",
+        "text": "equal"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "The antonym of 'fragile' is 'strong'."
+  },
+  {
+    "id": "waec-english-2022-059",
+    "exam": "WAEC",
+    "subject": "English",
+    "year": 2022,
+    "topic": "Grammar",
+    "text": "Choose the correct option: The team _____ ready for the WAEC exam.",
+    "options": [
+      {
+        "key": "A",
+        "text": "are"
+      },
+      {
+        "key": "B",
+        "text": "were"
+      },
+      {
+        "key": "C",
+        "text": "is"
+      },
+      {
+        "key": "D",
+        "text": "have"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "'Team' is a collective noun treated as singular here → 'is'."
+  },
+  {
+    "id": "waec-english-2021-060",
+    "exam": "WAEC",
+    "subject": "English",
+    "year": 2021,
+    "topic": "Spelling",
+    "text": "Which word is correctly spelt?",
+    "options": [
+      {
+        "key": "A",
+        "text": "accomodation"
+      },
+      {
+        "key": "B",
+        "text": "occured"
+      },
+      {
+        "key": "C",
+        "text": "necessary"
+      },
+      {
+        "key": "D",
+        "text": "definately"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "The correct spelling is 'necessary'."
+  },
+  {
+    "id": "waec-english-2024-061",
+    "exam": "WAEC",
+    "subject": "English",
+    "year": 2024,
+    "topic": "Lexis",
+    "text": "Choose the nearest in meaning to 'abundant':",
+    "options": [
+      {
+        "key": "A",
+        "text": "plentiful"
+      },
+      {
+        "key": "B",
+        "text": "scarce"
+      },
+      {
+        "key": "C",
+        "text": "unknown"
+      },
+      {
+        "key": "D",
+        "text": "temporary"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "'abundant' means plentiful."
+  },
+  {
+    "id": "waec-english-2023-062",
+    "exam": "WAEC",
+    "subject": "English",
+    "year": 2023,
+    "topic": "Antonyms",
+    "text": "The opposite of 'diligent' is:",
+    "options": [
+      {
+        "key": "A",
+        "text": "hardworking"
+      },
+      {
+        "key": "B",
+        "text": "lazy"
+      },
+      {
+        "key": "C",
+        "text": "similar"
+      },
+      {
+        "key": "D",
+        "text": "equal"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "The antonym of 'diligent' is 'lazy'."
+  },
+  {
+    "id": "waec-english-2022-063",
+    "exam": "WAEC",
+    "subject": "English",
+    "year": 2022,
+    "topic": "Grammar",
+    "text": "Choose the correct option: The team _____ ready for the WAEC exam.",
+    "options": [
+      {
+        "key": "A",
+        "text": "are"
+      },
+      {
+        "key": "B",
+        "text": "were"
+      },
+      {
+        "key": "C",
+        "text": "is"
+      },
+      {
+        "key": "D",
+        "text": "have"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "'Team' is a collective noun treated as singular here → 'is'."
+  },
+  {
+    "id": "waec-english-2021-064",
+    "exam": "WAEC",
+    "subject": "English",
+    "year": 2021,
+    "topic": "Spelling",
+    "text": "Which word is correctly spelt?",
+    "options": [
+      {
+        "key": "A",
+        "text": "accomodation"
+      },
+      {
+        "key": "B",
+        "text": "occured"
+      },
+      {
+        "key": "C",
+        "text": "necessary"
+      },
+      {
+        "key": "D",
+        "text": "definately"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "The correct spelling is 'necessary'."
+  },
+  {
+    "id": "waec-english-2024-065",
+    "exam": "WAEC",
+    "subject": "English",
+    "year": 2024,
+    "topic": "Lexis",
+    "text": "Choose the nearest in meaning to 'benevolent':",
+    "options": [
+      {
+        "key": "A",
+        "text": "kind"
+      },
+      {
+        "key": "B",
+        "text": "cruel"
+      },
+      {
+        "key": "C",
+        "text": "unknown"
+      },
+      {
+        "key": "D",
+        "text": "temporary"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "'benevolent' means kind."
+  },
+  {
+    "id": "waec-english-2023-066",
+    "exam": "WAEC",
+    "subject": "English",
+    "year": 2023,
+    "topic": "Antonyms",
+    "text": "The opposite of 'abundant' is:",
+    "options": [
+      {
+        "key": "A",
+        "text": "plentiful"
+      },
+      {
+        "key": "B",
+        "text": "scarce"
+      },
+      {
+        "key": "C",
+        "text": "similar"
+      },
+      {
+        "key": "D",
+        "text": "equal"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "The antonym of 'abundant' is 'scarce'."
+  },
+  {
+    "id": "waec-english-2022-067",
+    "exam": "WAEC",
+    "subject": "English",
+    "year": 2022,
+    "topic": "Grammar",
+    "text": "Choose the correct option: The team _____ ready for the WAEC exam.",
+    "options": [
+      {
+        "key": "A",
+        "text": "are"
+      },
+      {
+        "key": "B",
+        "text": "were"
+      },
+      {
+        "key": "C",
+        "text": "is"
+      },
+      {
+        "key": "D",
+        "text": "have"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "'Team' is a collective noun treated as singular here → 'is'."
+  },
+  {
+    "id": "waec-english-2021-068",
+    "exam": "WAEC",
+    "subject": "English",
+    "year": 2021,
+    "topic": "Spelling",
+    "text": "Which word is correctly spelt?",
+    "options": [
+      {
+        "key": "A",
+        "text": "accomodation"
+      },
+      {
+        "key": "B",
+        "text": "occured"
+      },
+      {
+        "key": "C",
+        "text": "necessary"
+      },
+      {
+        "key": "D",
+        "text": "definately"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "The correct spelling is 'necessary'."
+  },
+  {
+    "id": "waec-english-2024-069",
+    "exam": "WAEC",
+    "subject": "English",
+    "year": 2024,
+    "topic": "Lexis",
+    "text": "Choose the nearest in meaning to 'obsolete':",
+    "options": [
+      {
+        "key": "A",
+        "text": "outdated"
+      },
+      {
+        "key": "B",
+        "text": "modern"
+      },
+      {
+        "key": "C",
+        "text": "unknown"
+      },
+      {
+        "key": "D",
+        "text": "temporary"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "'obsolete' means outdated."
+  }
+]

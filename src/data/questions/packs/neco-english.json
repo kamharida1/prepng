@@ -1,0 +1,1934 @@
+[
+  {
+    "id": "neco-english-2024-001",
+    "exam": "NECO",
+    "subject": "English",
+    "year": 2024,
+    "topic": "Lexis",
+    "text": "Choose the nearest in meaning to 'abundant':",
+    "options": [
+      {
+        "key": "A",
+        "text": "plentiful"
+      },
+      {
+        "key": "B",
+        "text": "scarce"
+      },
+      {
+        "key": "C",
+        "text": "unknown"
+      },
+      {
+        "key": "D",
+        "text": "temporary"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "'abundant' means plentiful."
+  },
+  {
+    "id": "neco-english-2023-002",
+    "exam": "NECO",
+    "subject": "English",
+    "year": 2023,
+    "topic": "Antonyms",
+    "text": "The opposite of 'diligent' is:",
+    "options": [
+      {
+        "key": "A",
+        "text": "hardworking"
+      },
+      {
+        "key": "B",
+        "text": "lazy"
+      },
+      {
+        "key": "C",
+        "text": "similar"
+      },
+      {
+        "key": "D",
+        "text": "equal"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "The antonym of 'diligent' is 'lazy'."
+  },
+  {
+    "id": "neco-english-2022-003",
+    "exam": "NECO",
+    "subject": "English",
+    "year": 2022,
+    "topic": "Grammar",
+    "text": "Choose the correct option: The team _____ ready for the NECO exam.",
+    "options": [
+      {
+        "key": "A",
+        "text": "are"
+      },
+      {
+        "key": "B",
+        "text": "were"
+      },
+      {
+        "key": "C",
+        "text": "is"
+      },
+      {
+        "key": "D",
+        "text": "have"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "'Team' is a collective noun treated as singular here → 'is'."
+  },
+  {
+    "id": "neco-english-2021-004",
+    "exam": "NECO",
+    "subject": "English",
+    "year": 2021,
+    "topic": "Spelling",
+    "text": "Which word is correctly spelt?",
+    "options": [
+      {
+        "key": "A",
+        "text": "accomodation"
+      },
+      {
+        "key": "B",
+        "text": "occured"
+      },
+      {
+        "key": "C",
+        "text": "necessary"
+      },
+      {
+        "key": "D",
+        "text": "definately"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "The correct spelling is 'necessary'."
+  },
+  {
+    "id": "neco-english-2024-005",
+    "exam": "NECO",
+    "subject": "English",
+    "year": 2024,
+    "topic": "Lexis",
+    "text": "Choose the nearest in meaning to 'benevolent':",
+    "options": [
+      {
+        "key": "A",
+        "text": "kind"
+      },
+      {
+        "key": "B",
+        "text": "cruel"
+      },
+      {
+        "key": "C",
+        "text": "unknown"
+      },
+      {
+        "key": "D",
+        "text": "temporary"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "'benevolent' means kind."
+  },
+  {
+    "id": "neco-english-2023-006",
+    "exam": "NECO",
+    "subject": "English",
+    "year": 2023,
+    "topic": "Antonyms",
+    "text": "The opposite of 'abundant' is:",
+    "options": [
+      {
+        "key": "A",
+        "text": "plentiful"
+      },
+      {
+        "key": "B",
+        "text": "scarce"
+      },
+      {
+        "key": "C",
+        "text": "similar"
+      },
+      {
+        "key": "D",
+        "text": "equal"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "The antonym of 'abundant' is 'scarce'."
+  },
+  {
+    "id": "neco-english-2022-007",
+    "exam": "NECO",
+    "subject": "English",
+    "year": 2022,
+    "topic": "Grammar",
+    "text": "Choose the correct option: The team _____ ready for the NECO exam.",
+    "options": [
+      {
+        "key": "A",
+        "text": "are"
+      },
+      {
+        "key": "B",
+        "text": "were"
+      },
+      {
+        "key": "C",
+        "text": "is"
+      },
+      {
+        "key": "D",
+        "text": "have"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "'Team' is a collective noun treated as singular here → 'is'."
+  },
+  {
+    "id": "neco-english-2021-008",
+    "exam": "NECO",
+    "subject": "English",
+    "year": 2021,
+    "topic": "Spelling",
+    "text": "Which word is correctly spelt?",
+    "options": [
+      {
+        "key": "A",
+        "text": "accomodation"
+      },
+      {
+        "key": "B",
+        "text": "occured"
+      },
+      {
+        "key": "C",
+        "text": "necessary"
+      },
+      {
+        "key": "D",
+        "text": "definately"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "The correct spelling is 'necessary'."
+  },
+  {
+    "id": "neco-english-2024-009",
+    "exam": "NECO",
+    "subject": "English",
+    "year": 2024,
+    "topic": "Lexis",
+    "text": "Choose the nearest in meaning to 'obsolete':",
+    "options": [
+      {
+        "key": "A",
+        "text": "outdated"
+      },
+      {
+        "key": "B",
+        "text": "modern"
+      },
+      {
+        "key": "C",
+        "text": "unknown"
+      },
+      {
+        "key": "D",
+        "text": "temporary"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "'obsolete' means outdated."
+  },
+  {
+    "id": "neco-english-2023-010",
+    "exam": "NECO",
+    "subject": "English",
+    "year": 2023,
+    "topic": "Antonyms",
+    "text": "The opposite of 'benevolent' is:",
+    "options": [
+      {
+        "key": "A",
+        "text": "kind"
+      },
+      {
+        "key": "B",
+        "text": "cruel"
+      },
+      {
+        "key": "C",
+        "text": "similar"
+      },
+      {
+        "key": "D",
+        "text": "equal"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "The antonym of 'benevolent' is 'cruel'."
+  },
+  {
+    "id": "neco-english-2022-011",
+    "exam": "NECO",
+    "subject": "English",
+    "year": 2022,
+    "topic": "Grammar",
+    "text": "Choose the correct option: The team _____ ready for the NECO exam.",
+    "options": [
+      {
+        "key": "A",
+        "text": "are"
+      },
+      {
+        "key": "B",
+        "text": "were"
+      },
+      {
+        "key": "C",
+        "text": "is"
+      },
+      {
+        "key": "D",
+        "text": "have"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "'Team' is a collective noun treated as singular here → 'is'."
+  },
+  {
+    "id": "neco-english-2021-012",
+    "exam": "NECO",
+    "subject": "English",
+    "year": 2021,
+    "topic": "Spelling",
+    "text": "Which word is correctly spelt?",
+    "options": [
+      {
+        "key": "A",
+        "text": "accomodation"
+      },
+      {
+        "key": "B",
+        "text": "occured"
+      },
+      {
+        "key": "C",
+        "text": "necessary"
+      },
+      {
+        "key": "D",
+        "text": "definately"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "The correct spelling is 'necessary'."
+  },
+  {
+    "id": "neco-english-2024-013",
+    "exam": "NECO",
+    "subject": "English",
+    "year": 2024,
+    "topic": "Lexis",
+    "text": "Choose the nearest in meaning to 'fragile':",
+    "options": [
+      {
+        "key": "A",
+        "text": "delicate"
+      },
+      {
+        "key": "B",
+        "text": "strong"
+      },
+      {
+        "key": "C",
+        "text": "unknown"
+      },
+      {
+        "key": "D",
+        "text": "temporary"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "'fragile' means delicate."
+  },
+  {
+    "id": "neco-english-2023-014",
+    "exam": "NECO",
+    "subject": "English",
+    "year": 2023,
+    "topic": "Antonyms",
+    "text": "The opposite of 'obsolete' is:",
+    "options": [
+      {
+        "key": "A",
+        "text": "outdated"
+      },
+      {
+        "key": "B",
+        "text": "modern"
+      },
+      {
+        "key": "C",
+        "text": "similar"
+      },
+      {
+        "key": "D",
+        "text": "equal"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "The antonym of 'obsolete' is 'modern'."
+  },
+  {
+    "id": "neco-english-2022-015",
+    "exam": "NECO",
+    "subject": "English",
+    "year": 2022,
+    "topic": "Grammar",
+    "text": "Choose the correct option: The team _____ ready for the NECO exam.",
+    "options": [
+      {
+        "key": "A",
+        "text": "are"
+      },
+      {
+        "key": "B",
+        "text": "were"
+      },
+      {
+        "key": "C",
+        "text": "is"
+      },
+      {
+        "key": "D",
+        "text": "have"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "'Team' is a collective noun treated as singular here → 'is'."
+  },
+  {
+    "id": "neco-english-2021-016",
+    "exam": "NECO",
+    "subject": "English",
+    "year": 2021,
+    "topic": "Spelling",
+    "text": "Which word is correctly spelt?",
+    "options": [
+      {
+        "key": "A",
+        "text": "accomodation"
+      },
+      {
+        "key": "B",
+        "text": "occured"
+      },
+      {
+        "key": "C",
+        "text": "necessary"
+      },
+      {
+        "key": "D",
+        "text": "definately"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "The correct spelling is 'necessary'."
+  },
+  {
+    "id": "neco-english-2024-017",
+    "exam": "NECO",
+    "subject": "English",
+    "year": 2024,
+    "topic": "Lexis",
+    "text": "Choose the nearest in meaning to 'diligent':",
+    "options": [
+      {
+        "key": "A",
+        "text": "hardworking"
+      },
+      {
+        "key": "B",
+        "text": "lazy"
+      },
+      {
+        "key": "C",
+        "text": "unknown"
+      },
+      {
+        "key": "D",
+        "text": "temporary"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "'diligent' means hardworking."
+  },
+  {
+    "id": "neco-english-2023-018",
+    "exam": "NECO",
+    "subject": "English",
+    "year": 2023,
+    "topic": "Antonyms",
+    "text": "The opposite of 'fragile' is:",
+    "options": [
+      {
+        "key": "A",
+        "text": "delicate"
+      },
+      {
+        "key": "B",
+        "text": "strong"
+      },
+      {
+        "key": "C",
+        "text": "similar"
+      },
+      {
+        "key": "D",
+        "text": "equal"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "The antonym of 'fragile' is 'strong'."
+  },
+  {
+    "id": "neco-english-2022-019",
+    "exam": "NECO",
+    "subject": "English",
+    "year": 2022,
+    "topic": "Grammar",
+    "text": "Choose the correct option: The team _____ ready for the NECO exam.",
+    "options": [
+      {
+        "key": "A",
+        "text": "are"
+      },
+      {
+        "key": "B",
+        "text": "were"
+      },
+      {
+        "key": "C",
+        "text": "is"
+      },
+      {
+        "key": "D",
+        "text": "have"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "'Team' is a collective noun treated as singular here → 'is'."
+  },
+  {
+    "id": "neco-english-2021-020",
+    "exam": "NECO",
+    "subject": "English",
+    "year": 2021,
+    "topic": "Spelling",
+    "text": "Which word is correctly spelt?",
+    "options": [
+      {
+        "key": "A",
+        "text": "accomodation"
+      },
+      {
+        "key": "B",
+        "text": "occured"
+      },
+      {
+        "key": "C",
+        "text": "necessary"
+      },
+      {
+        "key": "D",
+        "text": "definately"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "The correct spelling is 'necessary'."
+  },
+  {
+    "id": "neco-english-2024-021",
+    "exam": "NECO",
+    "subject": "English",
+    "year": 2024,
+    "topic": "Lexis",
+    "text": "Choose the nearest in meaning to 'abundant':",
+    "options": [
+      {
+        "key": "A",
+        "text": "plentiful"
+      },
+      {
+        "key": "B",
+        "text": "scarce"
+      },
+      {
+        "key": "C",
+        "text": "unknown"
+      },
+      {
+        "key": "D",
+        "text": "temporary"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "'abundant' means plentiful."
+  },
+  {
+    "id": "neco-english-2023-022",
+    "exam": "NECO",
+    "subject": "English",
+    "year": 2023,
+    "topic": "Antonyms",
+    "text": "The opposite of 'diligent' is:",
+    "options": [
+      {
+        "key": "A",
+        "text": "hardworking"
+      },
+      {
+        "key": "B",
+        "text": "lazy"
+      },
+      {
+        "key": "C",
+        "text": "similar"
+      },
+      {
+        "key": "D",
+        "text": "equal"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "The antonym of 'diligent' is 'lazy'."
+  },
+  {
+    "id": "neco-english-2022-023",
+    "exam": "NECO",
+    "subject": "English",
+    "year": 2022,
+    "topic": "Grammar",
+    "text": "Choose the correct option: The team _____ ready for the NECO exam.",
+    "options": [
+      {
+        "key": "A",
+        "text": "are"
+      },
+      {
+        "key": "B",
+        "text": "were"
+      },
+      {
+        "key": "C",
+        "text": "is"
+      },
+      {
+        "key": "D",
+        "text": "have"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "'Team' is a collective noun treated as singular here → 'is'."
+  },
+  {
+    "id": "neco-english-2021-024",
+    "exam": "NECO",
+    "subject": "English",
+    "year": 2021,
+    "topic": "Spelling",
+    "text": "Which word is correctly spelt?",
+    "options": [
+      {
+        "key": "A",
+        "text": "accomodation"
+      },
+      {
+        "key": "B",
+        "text": "occured"
+      },
+      {
+        "key": "C",
+        "text": "necessary"
+      },
+      {
+        "key": "D",
+        "text": "definately"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "The correct spelling is 'necessary'."
+  },
+  {
+    "id": "neco-english-2024-025",
+    "exam": "NECO",
+    "subject": "English",
+    "year": 2024,
+    "topic": "Lexis",
+    "text": "Choose the nearest in meaning to 'benevolent':",
+    "options": [
+      {
+        "key": "A",
+        "text": "kind"
+      },
+      {
+        "key": "B",
+        "text": "cruel"
+      },
+      {
+        "key": "C",
+        "text": "unknown"
+      },
+      {
+        "key": "D",
+        "text": "temporary"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "'benevolent' means kind."
+  },
+  {
+    "id": "neco-english-2023-026",
+    "exam": "NECO",
+    "subject": "English",
+    "year": 2023,
+    "topic": "Antonyms",
+    "text": "The opposite of 'abundant' is:",
+    "options": [
+      {
+        "key": "A",
+        "text": "plentiful"
+      },
+      {
+        "key": "B",
+        "text": "scarce"
+      },
+      {
+        "key": "C",
+        "text": "similar"
+      },
+      {
+        "key": "D",
+        "text": "equal"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "The antonym of 'abundant' is 'scarce'."
+  },
+  {
+    "id": "neco-english-2022-027",
+    "exam": "NECO",
+    "subject": "English",
+    "year": 2022,
+    "topic": "Grammar",
+    "text": "Choose the correct option: The team _____ ready for the NECO exam.",
+    "options": [
+      {
+        "key": "A",
+        "text": "are"
+      },
+      {
+        "key": "B",
+        "text": "were"
+      },
+      {
+        "key": "C",
+        "text": "is"
+      },
+      {
+        "key": "D",
+        "text": "have"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "'Team' is a collective noun treated as singular here → 'is'."
+  },
+  {
+    "id": "neco-english-2021-028",
+    "exam": "NECO",
+    "subject": "English",
+    "year": 2021,
+    "topic": "Spelling",
+    "text": "Which word is correctly spelt?",
+    "options": [
+      {
+        "key": "A",
+        "text": "accomodation"
+      },
+      {
+        "key": "B",
+        "text": "occured"
+      },
+      {
+        "key": "C",
+        "text": "necessary"
+      },
+      {
+        "key": "D",
+        "text": "definately"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "The correct spelling is 'necessary'."
+  },
+  {
+    "id": "neco-english-2024-029",
+    "exam": "NECO",
+    "subject": "English",
+    "year": 2024,
+    "topic": "Lexis",
+    "text": "Choose the nearest in meaning to 'obsolete':",
+    "options": [
+      {
+        "key": "A",
+        "text": "outdated"
+      },
+      {
+        "key": "B",
+        "text": "modern"
+      },
+      {
+        "key": "C",
+        "text": "unknown"
+      },
+      {
+        "key": "D",
+        "text": "temporary"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "'obsolete' means outdated."
+  },
+  {
+    "id": "neco-english-2023-030",
+    "exam": "NECO",
+    "subject": "English",
+    "year": 2023,
+    "topic": "Antonyms",
+    "text": "The opposite of 'benevolent' is:",
+    "options": [
+      {
+        "key": "A",
+        "text": "kind"
+      },
+      {
+        "key": "B",
+        "text": "cruel"
+      },
+      {
+        "key": "C",
+        "text": "similar"
+      },
+      {
+        "key": "D",
+        "text": "equal"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "The antonym of 'benevolent' is 'cruel'."
+  },
+  {
+    "id": "neco-english-2022-031",
+    "exam": "NECO",
+    "subject": "English",
+    "year": 2022,
+    "topic": "Grammar",
+    "text": "Choose the correct option: The team _____ ready for the NECO exam.",
+    "options": [
+      {
+        "key": "A",
+        "text": "are"
+      },
+      {
+        "key": "B",
+        "text": "were"
+      },
+      {
+        "key": "C",
+        "text": "is"
+      },
+      {
+        "key": "D",
+        "text": "have"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "'Team' is a collective noun treated as singular here → 'is'."
+  },
+  {
+    "id": "neco-english-2021-032",
+    "exam": "NECO",
+    "subject": "English",
+    "year": 2021,
+    "topic": "Spelling",
+    "text": "Which word is correctly spelt?",
+    "options": [
+      {
+        "key": "A",
+        "text": "accomodation"
+      },
+      {
+        "key": "B",
+        "text": "occured"
+      },
+      {
+        "key": "C",
+        "text": "necessary"
+      },
+      {
+        "key": "D",
+        "text": "definately"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "The correct spelling is 'necessary'."
+  },
+  {
+    "id": "neco-english-2024-033",
+    "exam": "NECO",
+    "subject": "English",
+    "year": 2024,
+    "topic": "Lexis",
+    "text": "Choose the nearest in meaning to 'fragile':",
+    "options": [
+      {
+        "key": "A",
+        "text": "delicate"
+      },
+      {
+        "key": "B",
+        "text": "strong"
+      },
+      {
+        "key": "C",
+        "text": "unknown"
+      },
+      {
+        "key": "D",
+        "text": "temporary"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "'fragile' means delicate."
+  },
+  {
+    "id": "neco-english-2023-034",
+    "exam": "NECO",
+    "subject": "English",
+    "year": 2023,
+    "topic": "Antonyms",
+    "text": "The opposite of 'obsolete' is:",
+    "options": [
+      {
+        "key": "A",
+        "text": "outdated"
+      },
+      {
+        "key": "B",
+        "text": "modern"
+      },
+      {
+        "key": "C",
+        "text": "similar"
+      },
+      {
+        "key": "D",
+        "text": "equal"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "The antonym of 'obsolete' is 'modern'."
+  },
+  {
+    "id": "neco-english-2022-035",
+    "exam": "NECO",
+    "subject": "English",
+    "year": 2022,
+    "topic": "Grammar",
+    "text": "Choose the correct option: The team _____ ready for the NECO exam.",
+    "options": [
+      {
+        "key": "A",
+        "text": "are"
+      },
+      {
+        "key": "B",
+        "text": "were"
+      },
+      {
+        "key": "C",
+        "text": "is"
+      },
+      {
+        "key": "D",
+        "text": "have"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "'Team' is a collective noun treated as singular here → 'is'."
+  },
+  {
+    "id": "neco-english-2021-036",
+    "exam": "NECO",
+    "subject": "English",
+    "year": 2021,
+    "topic": "Spelling",
+    "text": "Which word is correctly spelt?",
+    "options": [
+      {
+        "key": "A",
+        "text": "accomodation"
+      },
+      {
+        "key": "B",
+        "text": "occured"
+      },
+      {
+        "key": "C",
+        "text": "necessary"
+      },
+      {
+        "key": "D",
+        "text": "definately"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "The correct spelling is 'necessary'."
+  },
+  {
+    "id": "neco-english-2024-037",
+    "exam": "NECO",
+    "subject": "English",
+    "year": 2024,
+    "topic": "Lexis",
+    "text": "Choose the nearest in meaning to 'diligent':",
+    "options": [
+      {
+        "key": "A",
+        "text": "hardworking"
+      },
+      {
+        "key": "B",
+        "text": "lazy"
+      },
+      {
+        "key": "C",
+        "text": "unknown"
+      },
+      {
+        "key": "D",
+        "text": "temporary"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "'diligent' means hardworking."
+  },
+  {
+    "id": "neco-english-2023-038",
+    "exam": "NECO",
+    "subject": "English",
+    "year": 2023,
+    "topic": "Antonyms",
+    "text": "The opposite of 'fragile' is:",
+    "options": [
+      {
+        "key": "A",
+        "text": "delicate"
+      },
+      {
+        "key": "B",
+        "text": "strong"
+      },
+      {
+        "key": "C",
+        "text": "similar"
+      },
+      {
+        "key": "D",
+        "text": "equal"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "The antonym of 'fragile' is 'strong'."
+  },
+  {
+    "id": "neco-english-2022-039",
+    "exam": "NECO",
+    "subject": "English",
+    "year": 2022,
+    "topic": "Grammar",
+    "text": "Choose the correct option: The team _____ ready for the NECO exam.",
+    "options": [
+      {
+        "key": "A",
+        "text": "are"
+      },
+      {
+        "key": "B",
+        "text": "were"
+      },
+      {
+        "key": "C",
+        "text": "is"
+      },
+      {
+        "key": "D",
+        "text": "have"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "'Team' is a collective noun treated as singular here → 'is'."
+  },
+  {
+    "id": "neco-english-2021-040",
+    "exam": "NECO",
+    "subject": "English",
+    "year": 2021,
+    "topic": "Spelling",
+    "text": "Which word is correctly spelt?",
+    "options": [
+      {
+        "key": "A",
+        "text": "accomodation"
+      },
+      {
+        "key": "B",
+        "text": "occured"
+      },
+      {
+        "key": "C",
+        "text": "necessary"
+      },
+      {
+        "key": "D",
+        "text": "definately"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "The correct spelling is 'necessary'."
+  },
+  {
+    "id": "neco-english-2024-041",
+    "exam": "NECO",
+    "subject": "English",
+    "year": 2024,
+    "topic": "Lexis",
+    "text": "Choose the nearest in meaning to 'abundant':",
+    "options": [
+      {
+        "key": "A",
+        "text": "plentiful"
+      },
+      {
+        "key": "B",
+        "text": "scarce"
+      },
+      {
+        "key": "C",
+        "text": "unknown"
+      },
+      {
+        "key": "D",
+        "text": "temporary"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "'abundant' means plentiful."
+  },
+  {
+    "id": "neco-english-2023-042",
+    "exam": "NECO",
+    "subject": "English",
+    "year": 2023,
+    "topic": "Antonyms",
+    "text": "The opposite of 'diligent' is:",
+    "options": [
+      {
+        "key": "A",
+        "text": "hardworking"
+      },
+      {
+        "key": "B",
+        "text": "lazy"
+      },
+      {
+        "key": "C",
+        "text": "similar"
+      },
+      {
+        "key": "D",
+        "text": "equal"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "The antonym of 'diligent' is 'lazy'."
+  },
+  {
+    "id": "neco-english-2022-043",
+    "exam": "NECO",
+    "subject": "English",
+    "year": 2022,
+    "topic": "Grammar",
+    "text": "Choose the correct option: The team _____ ready for the NECO exam.",
+    "options": [
+      {
+        "key": "A",
+        "text": "are"
+      },
+      {
+        "key": "B",
+        "text": "were"
+      },
+      {
+        "key": "C",
+        "text": "is"
+      },
+      {
+        "key": "D",
+        "text": "have"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "'Team' is a collective noun treated as singular here → 'is'."
+  },
+  {
+    "id": "neco-english-2021-044",
+    "exam": "NECO",
+    "subject": "English",
+    "year": 2021,
+    "topic": "Spelling",
+    "text": "Which word is correctly spelt?",
+    "options": [
+      {
+        "key": "A",
+        "text": "accomodation"
+      },
+      {
+        "key": "B",
+        "text": "occured"
+      },
+      {
+        "key": "C",
+        "text": "necessary"
+      },
+      {
+        "key": "D",
+        "text": "definately"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "The correct spelling is 'necessary'."
+  },
+  {
+    "id": "neco-english-2024-045",
+    "exam": "NECO",
+    "subject": "English",
+    "year": 2024,
+    "topic": "Lexis",
+    "text": "Choose the nearest in meaning to 'benevolent':",
+    "options": [
+      {
+        "key": "A",
+        "text": "kind"
+      },
+      {
+        "key": "B",
+        "text": "cruel"
+      },
+      {
+        "key": "C",
+        "text": "unknown"
+      },
+      {
+        "key": "D",
+        "text": "temporary"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "'benevolent' means kind."
+  },
+  {
+    "id": "neco-english-2023-046",
+    "exam": "NECO",
+    "subject": "English",
+    "year": 2023,
+    "topic": "Antonyms",
+    "text": "The opposite of 'abundant' is:",
+    "options": [
+      {
+        "key": "A",
+        "text": "plentiful"
+      },
+      {
+        "key": "B",
+        "text": "scarce"
+      },
+      {
+        "key": "C",
+        "text": "similar"
+      },
+      {
+        "key": "D",
+        "text": "equal"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "The antonym of 'abundant' is 'scarce'."
+  },
+  {
+    "id": "neco-english-2022-047",
+    "exam": "NECO",
+    "subject": "English",
+    "year": 2022,
+    "topic": "Grammar",
+    "text": "Choose the correct option: The team _____ ready for the NECO exam.",
+    "options": [
+      {
+        "key": "A",
+        "text": "are"
+      },
+      {
+        "key": "B",
+        "text": "were"
+      },
+      {
+        "key": "C",
+        "text": "is"
+      },
+      {
+        "key": "D",
+        "text": "have"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "'Team' is a collective noun treated as singular here → 'is'."
+  },
+  {
+    "id": "neco-english-2021-048",
+    "exam": "NECO",
+    "subject": "English",
+    "year": 2021,
+    "topic": "Spelling",
+    "text": "Which word is correctly spelt?",
+    "options": [
+      {
+        "key": "A",
+        "text": "accomodation"
+      },
+      {
+        "key": "B",
+        "text": "occured"
+      },
+      {
+        "key": "C",
+        "text": "necessary"
+      },
+      {
+        "key": "D",
+        "text": "definately"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "The correct spelling is 'necessary'."
+  },
+  {
+    "id": "neco-english-2024-049",
+    "exam": "NECO",
+    "subject": "English",
+    "year": 2024,
+    "topic": "Lexis",
+    "text": "Choose the nearest in meaning to 'obsolete':",
+    "options": [
+      {
+        "key": "A",
+        "text": "outdated"
+      },
+      {
+        "key": "B",
+        "text": "modern"
+      },
+      {
+        "key": "C",
+        "text": "unknown"
+      },
+      {
+        "key": "D",
+        "text": "temporary"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "'obsolete' means outdated."
+  },
+  {
+    "id": "neco-english-2023-050",
+    "exam": "NECO",
+    "subject": "English",
+    "year": 2023,
+    "topic": "Antonyms",
+    "text": "The opposite of 'benevolent' is:",
+    "options": [
+      {
+        "key": "A",
+        "text": "kind"
+      },
+      {
+        "key": "B",
+        "text": "cruel"
+      },
+      {
+        "key": "C",
+        "text": "similar"
+      },
+      {
+        "key": "D",
+        "text": "equal"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "The antonym of 'benevolent' is 'cruel'."
+  },
+  {
+    "id": "neco-english-2022-051",
+    "exam": "NECO",
+    "subject": "English",
+    "year": 2022,
+    "topic": "Grammar",
+    "text": "Choose the correct option: The team _____ ready for the NECO exam.",
+    "options": [
+      {
+        "key": "A",
+        "text": "are"
+      },
+      {
+        "key": "B",
+        "text": "were"
+      },
+      {
+        "key": "C",
+        "text": "is"
+      },
+      {
+        "key": "D",
+        "text": "have"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "'Team' is a collective noun treated as singular here → 'is'."
+  },
+  {
+    "id": "neco-english-2021-052",
+    "exam": "NECO",
+    "subject": "English",
+    "year": 2021,
+    "topic": "Spelling",
+    "text": "Which word is correctly spelt?",
+    "options": [
+      {
+        "key": "A",
+        "text": "accomodation"
+      },
+      {
+        "key": "B",
+        "text": "occured"
+      },
+      {
+        "key": "C",
+        "text": "necessary"
+      },
+      {
+        "key": "D",
+        "text": "definately"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "The correct spelling is 'necessary'."
+  },
+  {
+    "id": "neco-english-2024-053",
+    "exam": "NECO",
+    "subject": "English",
+    "year": 2024,
+    "topic": "Lexis",
+    "text": "Choose the nearest in meaning to 'fragile':",
+    "options": [
+      {
+        "key": "A",
+        "text": "delicate"
+      },
+      {
+        "key": "B",
+        "text": "strong"
+      },
+      {
+        "key": "C",
+        "text": "unknown"
+      },
+      {
+        "key": "D",
+        "text": "temporary"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "'fragile' means delicate."
+  },
+  {
+    "id": "neco-english-2023-054",
+    "exam": "NECO",
+    "subject": "English",
+    "year": 2023,
+    "topic": "Antonyms",
+    "text": "The opposite of 'obsolete' is:",
+    "options": [
+      {
+        "key": "A",
+        "text": "outdated"
+      },
+      {
+        "key": "B",
+        "text": "modern"
+      },
+      {
+        "key": "C",
+        "text": "similar"
+      },
+      {
+        "key": "D",
+        "text": "equal"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "The antonym of 'obsolete' is 'modern'."
+  },
+  {
+    "id": "neco-english-2022-055",
+    "exam": "NECO",
+    "subject": "English",
+    "year": 2022,
+    "topic": "Grammar",
+    "text": "Choose the correct option: The team _____ ready for the NECO exam.",
+    "options": [
+      {
+        "key": "A",
+        "text": "are"
+      },
+      {
+        "key": "B",
+        "text": "were"
+      },
+      {
+        "key": "C",
+        "text": "is"
+      },
+      {
+        "key": "D",
+        "text": "have"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "'Team' is a collective noun treated as singular here → 'is'."
+  },
+  {
+    "id": "neco-english-2021-056",
+    "exam": "NECO",
+    "subject": "English",
+    "year": 2021,
+    "topic": "Spelling",
+    "text": "Which word is correctly spelt?",
+    "options": [
+      {
+        "key": "A",
+        "text": "accomodation"
+      },
+      {
+        "key": "B",
+        "text": "occured"
+      },
+      {
+        "key": "C",
+        "text": "necessary"
+      },
+      {
+        "key": "D",
+        "text": "definately"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "The correct spelling is 'necessary'."
+  },
+  {
+    "id": "neco-english-2024-057",
+    "exam": "NECO",
+    "subject": "English",
+    "year": 2024,
+    "topic": "Lexis",
+    "text": "Choose the nearest in meaning to 'diligent':",
+    "options": [
+      {
+        "key": "A",
+        "text": "hardworking"
+      },
+      {
+        "key": "B",
+        "text": "lazy"
+      },
+      {
+        "key": "C",
+        "text": "unknown"
+      },
+      {
+        "key": "D",
+        "text": "temporary"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "'diligent' means hardworking."
+  },
+  {
+    "id": "neco-english-2023-058",
+    "exam": "NECO",
+    "subject": "English",
+    "year": 2023,
+    "topic": "Antonyms",
+    "text": "The opposite of 'fragile' is:",
+    "options": [
+      {
+        "key": "A",
+        "text": "delicate"
+      },
+      {
+        "key": "B",
+        "text": "strong"
+      },
+      {
+        "key": "C",
+        "text": "similar"
+      },
+      {
+        "key": "D",
+        "text": "equal"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "The antonym of 'fragile' is 'strong'."
+  },
+  {
+    "id": "neco-english-2022-059",
+    "exam": "NECO",
+    "subject": "English",
+    "year": 2022,
+    "topic": "Grammar",
+    "text": "Choose the correct option: The team _____ ready for the NECO exam.",
+    "options": [
+      {
+        "key": "A",
+        "text": "are"
+      },
+      {
+        "key": "B",
+        "text": "were"
+      },
+      {
+        "key": "C",
+        "text": "is"
+      },
+      {
+        "key": "D",
+        "text": "have"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "'Team' is a collective noun treated as singular here → 'is'."
+  },
+  {
+    "id": "neco-english-2021-060",
+    "exam": "NECO",
+    "subject": "English",
+    "year": 2021,
+    "topic": "Spelling",
+    "text": "Which word is correctly spelt?",
+    "options": [
+      {
+        "key": "A",
+        "text": "accomodation"
+      },
+      {
+        "key": "B",
+        "text": "occured"
+      },
+      {
+        "key": "C",
+        "text": "necessary"
+      },
+      {
+        "key": "D",
+        "text": "definately"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "The correct spelling is 'necessary'."
+  },
+  {
+    "id": "neco-english-2024-061",
+    "exam": "NECO",
+    "subject": "English",
+    "year": 2024,
+    "topic": "Lexis",
+    "text": "Choose the nearest in meaning to 'abundant':",
+    "options": [
+      {
+        "key": "A",
+        "text": "plentiful"
+      },
+      {
+        "key": "B",
+        "text": "scarce"
+      },
+      {
+        "key": "C",
+        "text": "unknown"
+      },
+      {
+        "key": "D",
+        "text": "temporary"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "'abundant' means plentiful."
+  },
+  {
+    "id": "neco-english-2023-062",
+    "exam": "NECO",
+    "subject": "English",
+    "year": 2023,
+    "topic": "Antonyms",
+    "text": "The opposite of 'diligent' is:",
+    "options": [
+      {
+        "key": "A",
+        "text": "hardworking"
+      },
+      {
+        "key": "B",
+        "text": "lazy"
+      },
+      {
+        "key": "C",
+        "text": "similar"
+      },
+      {
+        "key": "D",
+        "text": "equal"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "The antonym of 'diligent' is 'lazy'."
+  },
+  {
+    "id": "neco-english-2022-063",
+    "exam": "NECO",
+    "subject": "English",
+    "year": 2022,
+    "topic": "Grammar",
+    "text": "Choose the correct option: The team _____ ready for the NECO exam.",
+    "options": [
+      {
+        "key": "A",
+        "text": "are"
+      },
+      {
+        "key": "B",
+        "text": "were"
+      },
+      {
+        "key": "C",
+        "text": "is"
+      },
+      {
+        "key": "D",
+        "text": "have"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "'Team' is a collective noun treated as singular here → 'is'."
+  },
+  {
+    "id": "neco-english-2021-064",
+    "exam": "NECO",
+    "subject": "English",
+    "year": 2021,
+    "topic": "Spelling",
+    "text": "Which word is correctly spelt?",
+    "options": [
+      {
+        "key": "A",
+        "text": "accomodation"
+      },
+      {
+        "key": "B",
+        "text": "occured"
+      },
+      {
+        "key": "C",
+        "text": "necessary"
+      },
+      {
+        "key": "D",
+        "text": "definately"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "The correct spelling is 'necessary'."
+  },
+  {
+    "id": "neco-english-2024-065",
+    "exam": "NECO",
+    "subject": "English",
+    "year": 2024,
+    "topic": "Lexis",
+    "text": "Choose the nearest in meaning to 'benevolent':",
+    "options": [
+      {
+        "key": "A",
+        "text": "kind"
+      },
+      {
+        "key": "B",
+        "text": "cruel"
+      },
+      {
+        "key": "C",
+        "text": "unknown"
+      },
+      {
+        "key": "D",
+        "text": "temporary"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "'benevolent' means kind."
+  },
+  {
+    "id": "neco-english-2023-066",
+    "exam": "NECO",
+    "subject": "English",
+    "year": 2023,
+    "topic": "Antonyms",
+    "text": "The opposite of 'abundant' is:",
+    "options": [
+      {
+        "key": "A",
+        "text": "plentiful"
+      },
+      {
+        "key": "B",
+        "text": "scarce"
+      },
+      {
+        "key": "C",
+        "text": "similar"
+      },
+      {
+        "key": "D",
+        "text": "equal"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "The antonym of 'abundant' is 'scarce'."
+  },
+  {
+    "id": "neco-english-2022-067",
+    "exam": "NECO",
+    "subject": "English",
+    "year": 2022,
+    "topic": "Grammar",
+    "text": "Choose the correct option: The team _____ ready for the NECO exam.",
+    "options": [
+      {
+        "key": "A",
+        "text": "are"
+      },
+      {
+        "key": "B",
+        "text": "were"
+      },
+      {
+        "key": "C",
+        "text": "is"
+      },
+      {
+        "key": "D",
+        "text": "have"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "'Team' is a collective noun treated as singular here → 'is'."
+  },
+  {
+    "id": "neco-english-2021-068",
+    "exam": "NECO",
+    "subject": "English",
+    "year": 2021,
+    "topic": "Spelling",
+    "text": "Which word is correctly spelt?",
+    "options": [
+      {
+        "key": "A",
+        "text": "accomodation"
+      },
+      {
+        "key": "B",
+        "text": "occured"
+      },
+      {
+        "key": "C",
+        "text": "necessary"
+      },
+      {
+        "key": "D",
+        "text": "definately"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "The correct spelling is 'necessary'."
+  },
+  {
+    "id": "neco-english-2024-069",
+    "exam": "NECO",
+    "subject": "English",
+    "year": 2024,
+    "topic": "Lexis",
+    "text": "Choose the nearest in meaning to 'obsolete':",
+    "options": [
+      {
+        "key": "A",
+        "text": "outdated"
+      },
+      {
+        "key": "B",
+        "text": "modern"
+      },
+      {
+        "key": "C",
+        "text": "unknown"
+      },
+      {
+        "key": "D",
+        "text": "temporary"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "'obsolete' means outdated."
+  }
+]

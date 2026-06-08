@@ -1,0 +1,1934 @@
+[
+  {
+    "id": "neco-chemistry-2024-001",
+    "exam": "NECO",
+    "subject": "Chemistry",
+    "year": 2024,
+    "topic": "Periodic Table",
+    "text": "An element with atomic number 3 has 3:",
+    "options": [
+      {
+        "key": "A",
+        "text": "protons"
+      },
+      {
+        "key": "B",
+        "text": "neutrons only"
+      },
+      {
+        "key": "C",
+        "text": "nuclei"
+      },
+      {
+        "key": "D",
+        "text": "isotopes only"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Atomic number = number of protons = 3."
+  },
+  {
+    "id": "neco-chemistry-2023-002",
+    "exam": "NECO",
+    "subject": "Chemistry",
+    "year": 2023,
+    "topic": "Mole Concept",
+    "text": "How many moles are in 72 g of water? (Molar mass = 18 g/mol)",
+    "options": [
+      {
+        "key": "A",
+        "text": "2 mol"
+      },
+      {
+        "key": "B",
+        "text": "4 mol"
+      },
+      {
+        "key": "C",
+        "text": "8 mol"
+      },
+      {
+        "key": "D",
+        "text": "72 mol"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Moles = mass/molar mass = 72/18 = 4 mol."
+  },
+  {
+    "id": "neco-chemistry-2022-003",
+    "exam": "NECO",
+    "subject": "Chemistry",
+    "year": 2022,
+    "topic": "Acids & Bases",
+    "text": "The pH of a neutral solution at 25°C is:",
+    "options": [
+      {
+        "key": "A",
+        "text": "0"
+      },
+      {
+        "key": "B",
+        "text": "1"
+      },
+      {
+        "key": "C",
+        "text": "7"
+      },
+      {
+        "key": "D",
+        "text": "14"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Pure water is neutral with pH = 7."
+  },
+  {
+    "id": "neco-chemistry-2021-004",
+    "exam": "NECO",
+    "subject": "Chemistry",
+    "year": 2021,
+    "topic": "Periodic Table",
+    "text": "An element with atomic number 6 has 6:",
+    "options": [
+      {
+        "key": "A",
+        "text": "protons"
+      },
+      {
+        "key": "B",
+        "text": "neutrons only"
+      },
+      {
+        "key": "C",
+        "text": "nuclei"
+      },
+      {
+        "key": "D",
+        "text": "isotopes only"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Atomic number = number of protons = 6."
+  },
+  {
+    "id": "neco-chemistry-2024-005",
+    "exam": "NECO",
+    "subject": "Chemistry",
+    "year": 2024,
+    "topic": "Mole Concept",
+    "text": "How many moles are in 126 g of water? (Molar mass = 18 g/mol)",
+    "options": [
+      {
+        "key": "A",
+        "text": "3.5 mol"
+      },
+      {
+        "key": "B",
+        "text": "7 mol"
+      },
+      {
+        "key": "C",
+        "text": "14 mol"
+      },
+      {
+        "key": "D",
+        "text": "126 mol"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Moles = mass/molar mass = 126/18 = 7 mol."
+  },
+  {
+    "id": "neco-chemistry-2023-006",
+    "exam": "NECO",
+    "subject": "Chemistry",
+    "year": 2023,
+    "topic": "Acids & Bases",
+    "text": "The pH of a neutral solution at 25°C is:",
+    "options": [
+      {
+        "key": "A",
+        "text": "0"
+      },
+      {
+        "key": "B",
+        "text": "1"
+      },
+      {
+        "key": "C",
+        "text": "7"
+      },
+      {
+        "key": "D",
+        "text": "14"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Pure water is neutral with pH = 7."
+  },
+  {
+    "id": "neco-chemistry-2022-007",
+    "exam": "NECO",
+    "subject": "Chemistry",
+    "year": 2022,
+    "topic": "Periodic Table",
+    "text": "An element with atomic number 9 has 9:",
+    "options": [
+      {
+        "key": "A",
+        "text": "protons"
+      },
+      {
+        "key": "B",
+        "text": "neutrons only"
+      },
+      {
+        "key": "C",
+        "text": "nuclei"
+      },
+      {
+        "key": "D",
+        "text": "isotopes only"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Atomic number = number of protons = 9."
+  },
+  {
+    "id": "neco-chemistry-2021-008",
+    "exam": "NECO",
+    "subject": "Chemistry",
+    "year": 2021,
+    "topic": "Mole Concept",
+    "text": "How many moles are in 180 g of water? (Molar mass = 18 g/mol)",
+    "options": [
+      {
+        "key": "A",
+        "text": "5 mol"
+      },
+      {
+        "key": "B",
+        "text": "10 mol"
+      },
+      {
+        "key": "C",
+        "text": "20 mol"
+      },
+      {
+        "key": "D",
+        "text": "180 mol"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Moles = mass/molar mass = 180/18 = 10 mol."
+  },
+  {
+    "id": "neco-chemistry-2024-009",
+    "exam": "NECO",
+    "subject": "Chemistry",
+    "year": 2024,
+    "topic": "Acids & Bases",
+    "text": "The pH of a neutral solution at 25°C is:",
+    "options": [
+      {
+        "key": "A",
+        "text": "0"
+      },
+      {
+        "key": "B",
+        "text": "1"
+      },
+      {
+        "key": "C",
+        "text": "7"
+      },
+      {
+        "key": "D",
+        "text": "14"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Pure water is neutral with pH = 7."
+  },
+  {
+    "id": "neco-chemistry-2023-010",
+    "exam": "NECO",
+    "subject": "Chemistry",
+    "year": 2023,
+    "topic": "Periodic Table",
+    "text": "An element with atomic number 12 has 12:",
+    "options": [
+      {
+        "key": "A",
+        "text": "protons"
+      },
+      {
+        "key": "B",
+        "text": "neutrons only"
+      },
+      {
+        "key": "C",
+        "text": "nuclei"
+      },
+      {
+        "key": "D",
+        "text": "isotopes only"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Atomic number = number of protons = 12."
+  },
+  {
+    "id": "neco-chemistry-2022-011",
+    "exam": "NECO",
+    "subject": "Chemistry",
+    "year": 2022,
+    "topic": "Mole Concept",
+    "text": "How many moles are in 234 g of water? (Molar mass = 18 g/mol)",
+    "options": [
+      {
+        "key": "A",
+        "text": "6.5 mol"
+      },
+      {
+        "key": "B",
+        "text": "13 mol"
+      },
+      {
+        "key": "C",
+        "text": "26 mol"
+      },
+      {
+        "key": "D",
+        "text": "234 mol"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Moles = mass/molar mass = 234/18 = 13 mol."
+  },
+  {
+    "id": "neco-chemistry-2021-012",
+    "exam": "NECO",
+    "subject": "Chemistry",
+    "year": 2021,
+    "topic": "Acids & Bases",
+    "text": "The pH of a neutral solution at 25°C is:",
+    "options": [
+      {
+        "key": "A",
+        "text": "0"
+      },
+      {
+        "key": "B",
+        "text": "1"
+      },
+      {
+        "key": "C",
+        "text": "7"
+      },
+      {
+        "key": "D",
+        "text": "14"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Pure water is neutral with pH = 7."
+  },
+  {
+    "id": "neco-chemistry-2024-013",
+    "exam": "NECO",
+    "subject": "Chemistry",
+    "year": 2024,
+    "topic": "Periodic Table",
+    "text": "An element with atomic number 15 has 15:",
+    "options": [
+      {
+        "key": "A",
+        "text": "protons"
+      },
+      {
+        "key": "B",
+        "text": "neutrons only"
+      },
+      {
+        "key": "C",
+        "text": "nuclei"
+      },
+      {
+        "key": "D",
+        "text": "isotopes only"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Atomic number = number of protons = 15."
+  },
+  {
+    "id": "neco-chemistry-2023-014",
+    "exam": "NECO",
+    "subject": "Chemistry",
+    "year": 2023,
+    "topic": "Mole Concept",
+    "text": "How many moles are in 288 g of water? (Molar mass = 18 g/mol)",
+    "options": [
+      {
+        "key": "A",
+        "text": "8 mol"
+      },
+      {
+        "key": "B",
+        "text": "16 mol"
+      },
+      {
+        "key": "C",
+        "text": "32 mol"
+      },
+      {
+        "key": "D",
+        "text": "288 mol"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Moles = mass/molar mass = 288/18 = 16 mol."
+  },
+  {
+    "id": "neco-chemistry-2022-015",
+    "exam": "NECO",
+    "subject": "Chemistry",
+    "year": 2022,
+    "topic": "Acids & Bases",
+    "text": "The pH of a neutral solution at 25°C is:",
+    "options": [
+      {
+        "key": "A",
+        "text": "0"
+      },
+      {
+        "key": "B",
+        "text": "1"
+      },
+      {
+        "key": "C",
+        "text": "7"
+      },
+      {
+        "key": "D",
+        "text": "14"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Pure water is neutral with pH = 7."
+  },
+  {
+    "id": "neco-chemistry-2021-016",
+    "exam": "NECO",
+    "subject": "Chemistry",
+    "year": 2021,
+    "topic": "Periodic Table",
+    "text": "An element with atomic number 18 has 18:",
+    "options": [
+      {
+        "key": "A",
+        "text": "protons"
+      },
+      {
+        "key": "B",
+        "text": "neutrons only"
+      },
+      {
+        "key": "C",
+        "text": "nuclei"
+      },
+      {
+        "key": "D",
+        "text": "isotopes only"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Atomic number = number of protons = 18."
+  },
+  {
+    "id": "neco-chemistry-2024-017",
+    "exam": "NECO",
+    "subject": "Chemistry",
+    "year": 2024,
+    "topic": "Mole Concept",
+    "text": "How many moles are in 342 g of water? (Molar mass = 18 g/mol)",
+    "options": [
+      {
+        "key": "A",
+        "text": "9.5 mol"
+      },
+      {
+        "key": "B",
+        "text": "19 mol"
+      },
+      {
+        "key": "C",
+        "text": "38 mol"
+      },
+      {
+        "key": "D",
+        "text": "342 mol"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Moles = mass/molar mass = 342/18 = 19 mol."
+  },
+  {
+    "id": "neco-chemistry-2023-018",
+    "exam": "NECO",
+    "subject": "Chemistry",
+    "year": 2023,
+    "topic": "Acids & Bases",
+    "text": "The pH of a neutral solution at 25°C is:",
+    "options": [
+      {
+        "key": "A",
+        "text": "0"
+      },
+      {
+        "key": "B",
+        "text": "1"
+      },
+      {
+        "key": "C",
+        "text": "7"
+      },
+      {
+        "key": "D",
+        "text": "14"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Pure water is neutral with pH = 7."
+  },
+  {
+    "id": "neco-chemistry-2022-019",
+    "exam": "NECO",
+    "subject": "Chemistry",
+    "year": 2022,
+    "topic": "Periodic Table",
+    "text": "An element with atomic number 3 has 3:",
+    "options": [
+      {
+        "key": "A",
+        "text": "protons"
+      },
+      {
+        "key": "B",
+        "text": "neutrons only"
+      },
+      {
+        "key": "C",
+        "text": "nuclei"
+      },
+      {
+        "key": "D",
+        "text": "isotopes only"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Atomic number = number of protons = 3."
+  },
+  {
+    "id": "neco-chemistry-2021-020",
+    "exam": "NECO",
+    "subject": "Chemistry",
+    "year": 2021,
+    "topic": "Mole Concept",
+    "text": "How many moles are in 72 g of water? (Molar mass = 18 g/mol)",
+    "options": [
+      {
+        "key": "A",
+        "text": "2 mol"
+      },
+      {
+        "key": "B",
+        "text": "4 mol"
+      },
+      {
+        "key": "C",
+        "text": "8 mol"
+      },
+      {
+        "key": "D",
+        "text": "72 mol"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Moles = mass/molar mass = 72/18 = 4 mol."
+  },
+  {
+    "id": "neco-chemistry-2024-021",
+    "exam": "NECO",
+    "subject": "Chemistry",
+    "year": 2024,
+    "topic": "Acids & Bases",
+    "text": "The pH of a neutral solution at 25°C is:",
+    "options": [
+      {
+        "key": "A",
+        "text": "0"
+      },
+      {
+        "key": "B",
+        "text": "1"
+      },
+      {
+        "key": "C",
+        "text": "7"
+      },
+      {
+        "key": "D",
+        "text": "14"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Pure water is neutral with pH = 7."
+  },
+  {
+    "id": "neco-chemistry-2023-022",
+    "exam": "NECO",
+    "subject": "Chemistry",
+    "year": 2023,
+    "topic": "Periodic Table",
+    "text": "An element with atomic number 6 has 6:",
+    "options": [
+      {
+        "key": "A",
+        "text": "protons"
+      },
+      {
+        "key": "B",
+        "text": "neutrons only"
+      },
+      {
+        "key": "C",
+        "text": "nuclei"
+      },
+      {
+        "key": "D",
+        "text": "isotopes only"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Atomic number = number of protons = 6."
+  },
+  {
+    "id": "neco-chemistry-2022-023",
+    "exam": "NECO",
+    "subject": "Chemistry",
+    "year": 2022,
+    "topic": "Mole Concept",
+    "text": "How many moles are in 126 g of water? (Molar mass = 18 g/mol)",
+    "options": [
+      {
+        "key": "A",
+        "text": "3.5 mol"
+      },
+      {
+        "key": "B",
+        "text": "7 mol"
+      },
+      {
+        "key": "C",
+        "text": "14 mol"
+      },
+      {
+        "key": "D",
+        "text": "126 mol"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Moles = mass/molar mass = 126/18 = 7 mol."
+  },
+  {
+    "id": "neco-chemistry-2021-024",
+    "exam": "NECO",
+    "subject": "Chemistry",
+    "year": 2021,
+    "topic": "Acids & Bases",
+    "text": "The pH of a neutral solution at 25°C is:",
+    "options": [
+      {
+        "key": "A",
+        "text": "0"
+      },
+      {
+        "key": "B",
+        "text": "1"
+      },
+      {
+        "key": "C",
+        "text": "7"
+      },
+      {
+        "key": "D",
+        "text": "14"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Pure water is neutral with pH = 7."
+  },
+  {
+    "id": "neco-chemistry-2024-025",
+    "exam": "NECO",
+    "subject": "Chemistry",
+    "year": 2024,
+    "topic": "Periodic Table",
+    "text": "An element with atomic number 9 has 9:",
+    "options": [
+      {
+        "key": "A",
+        "text": "protons"
+      },
+      {
+        "key": "B",
+        "text": "neutrons only"
+      },
+      {
+        "key": "C",
+        "text": "nuclei"
+      },
+      {
+        "key": "D",
+        "text": "isotopes only"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Atomic number = number of protons = 9."
+  },
+  {
+    "id": "neco-chemistry-2023-026",
+    "exam": "NECO",
+    "subject": "Chemistry",
+    "year": 2023,
+    "topic": "Mole Concept",
+    "text": "How many moles are in 180 g of water? (Molar mass = 18 g/mol)",
+    "options": [
+      {
+        "key": "A",
+        "text": "5 mol"
+      },
+      {
+        "key": "B",
+        "text": "10 mol"
+      },
+      {
+        "key": "C",
+        "text": "20 mol"
+      },
+      {
+        "key": "D",
+        "text": "180 mol"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Moles = mass/molar mass = 180/18 = 10 mol."
+  },
+  {
+    "id": "neco-chemistry-2022-027",
+    "exam": "NECO",
+    "subject": "Chemistry",
+    "year": 2022,
+    "topic": "Acids & Bases",
+    "text": "The pH of a neutral solution at 25°C is:",
+    "options": [
+      {
+        "key": "A",
+        "text": "0"
+      },
+      {
+        "key": "B",
+        "text": "1"
+      },
+      {
+        "key": "C",
+        "text": "7"
+      },
+      {
+        "key": "D",
+        "text": "14"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Pure water is neutral with pH = 7."
+  },
+  {
+    "id": "neco-chemistry-2021-028",
+    "exam": "NECO",
+    "subject": "Chemistry",
+    "year": 2021,
+    "topic": "Periodic Table",
+    "text": "An element with atomic number 12 has 12:",
+    "options": [
+      {
+        "key": "A",
+        "text": "protons"
+      },
+      {
+        "key": "B",
+        "text": "neutrons only"
+      },
+      {
+        "key": "C",
+        "text": "nuclei"
+      },
+      {
+        "key": "D",
+        "text": "isotopes only"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Atomic number = number of protons = 12."
+  },
+  {
+    "id": "neco-chemistry-2024-029",
+    "exam": "NECO",
+    "subject": "Chemistry",
+    "year": 2024,
+    "topic": "Mole Concept",
+    "text": "How many moles are in 234 g of water? (Molar mass = 18 g/mol)",
+    "options": [
+      {
+        "key": "A",
+        "text": "6.5 mol"
+      },
+      {
+        "key": "B",
+        "text": "13 mol"
+      },
+      {
+        "key": "C",
+        "text": "26 mol"
+      },
+      {
+        "key": "D",
+        "text": "234 mol"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Moles = mass/molar mass = 234/18 = 13 mol."
+  },
+  {
+    "id": "neco-chemistry-2023-030",
+    "exam": "NECO",
+    "subject": "Chemistry",
+    "year": 2023,
+    "topic": "Acids & Bases",
+    "text": "The pH of a neutral solution at 25°C is:",
+    "options": [
+      {
+        "key": "A",
+        "text": "0"
+      },
+      {
+        "key": "B",
+        "text": "1"
+      },
+      {
+        "key": "C",
+        "text": "7"
+      },
+      {
+        "key": "D",
+        "text": "14"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Pure water is neutral with pH = 7."
+  },
+  {
+    "id": "neco-chemistry-2022-031",
+    "exam": "NECO",
+    "subject": "Chemistry",
+    "year": 2022,
+    "topic": "Periodic Table",
+    "text": "An element with atomic number 15 has 15:",
+    "options": [
+      {
+        "key": "A",
+        "text": "protons"
+      },
+      {
+        "key": "B",
+        "text": "neutrons only"
+      },
+      {
+        "key": "C",
+        "text": "nuclei"
+      },
+      {
+        "key": "D",
+        "text": "isotopes only"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Atomic number = number of protons = 15."
+  },
+  {
+    "id": "neco-chemistry-2021-032",
+    "exam": "NECO",
+    "subject": "Chemistry",
+    "year": 2021,
+    "topic": "Mole Concept",
+    "text": "How many moles are in 288 g of water? (Molar mass = 18 g/mol)",
+    "options": [
+      {
+        "key": "A",
+        "text": "8 mol"
+      },
+      {
+        "key": "B",
+        "text": "16 mol"
+      },
+      {
+        "key": "C",
+        "text": "32 mol"
+      },
+      {
+        "key": "D",
+        "text": "288 mol"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Moles = mass/molar mass = 288/18 = 16 mol."
+  },
+  {
+    "id": "neco-chemistry-2024-033",
+    "exam": "NECO",
+    "subject": "Chemistry",
+    "year": 2024,
+    "topic": "Acids & Bases",
+    "text": "The pH of a neutral solution at 25°C is:",
+    "options": [
+      {
+        "key": "A",
+        "text": "0"
+      },
+      {
+        "key": "B",
+        "text": "1"
+      },
+      {
+        "key": "C",
+        "text": "7"
+      },
+      {
+        "key": "D",
+        "text": "14"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Pure water is neutral with pH = 7."
+  },
+  {
+    "id": "neco-chemistry-2023-034",
+    "exam": "NECO",
+    "subject": "Chemistry",
+    "year": 2023,
+    "topic": "Periodic Table",
+    "text": "An element with atomic number 18 has 18:",
+    "options": [
+      {
+        "key": "A",
+        "text": "protons"
+      },
+      {
+        "key": "B",
+        "text": "neutrons only"
+      },
+      {
+        "key": "C",
+        "text": "nuclei"
+      },
+      {
+        "key": "D",
+        "text": "isotopes only"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Atomic number = number of protons = 18."
+  },
+  {
+    "id": "neco-chemistry-2022-035",
+    "exam": "NECO",
+    "subject": "Chemistry",
+    "year": 2022,
+    "topic": "Mole Concept",
+    "text": "How many moles are in 342 g of water? (Molar mass = 18 g/mol)",
+    "options": [
+      {
+        "key": "A",
+        "text": "9.5 mol"
+      },
+      {
+        "key": "B",
+        "text": "19 mol"
+      },
+      {
+        "key": "C",
+        "text": "38 mol"
+      },
+      {
+        "key": "D",
+        "text": "342 mol"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Moles = mass/molar mass = 342/18 = 19 mol."
+  },
+  {
+    "id": "neco-chemistry-2021-036",
+    "exam": "NECO",
+    "subject": "Chemistry",
+    "year": 2021,
+    "topic": "Acids & Bases",
+    "text": "The pH of a neutral solution at 25°C is:",
+    "options": [
+      {
+        "key": "A",
+        "text": "0"
+      },
+      {
+        "key": "B",
+        "text": "1"
+      },
+      {
+        "key": "C",
+        "text": "7"
+      },
+      {
+        "key": "D",
+        "text": "14"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Pure water is neutral with pH = 7."
+  },
+  {
+    "id": "neco-chemistry-2024-037",
+    "exam": "NECO",
+    "subject": "Chemistry",
+    "year": 2024,
+    "topic": "Periodic Table",
+    "text": "An element with atomic number 3 has 3:",
+    "options": [
+      {
+        "key": "A",
+        "text": "protons"
+      },
+      {
+        "key": "B",
+        "text": "neutrons only"
+      },
+      {
+        "key": "C",
+        "text": "nuclei"
+      },
+      {
+        "key": "D",
+        "text": "isotopes only"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Atomic number = number of protons = 3."
+  },
+  {
+    "id": "neco-chemistry-2023-038",
+    "exam": "NECO",
+    "subject": "Chemistry",
+    "year": 2023,
+    "topic": "Mole Concept",
+    "text": "How many moles are in 72 g of water? (Molar mass = 18 g/mol)",
+    "options": [
+      {
+        "key": "A",
+        "text": "2 mol"
+      },
+      {
+        "key": "B",
+        "text": "4 mol"
+      },
+      {
+        "key": "C",
+        "text": "8 mol"
+      },
+      {
+        "key": "D",
+        "text": "72 mol"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Moles = mass/molar mass = 72/18 = 4 mol."
+  },
+  {
+    "id": "neco-chemistry-2022-039",
+    "exam": "NECO",
+    "subject": "Chemistry",
+    "year": 2022,
+    "topic": "Acids & Bases",
+    "text": "The pH of a neutral solution at 25°C is:",
+    "options": [
+      {
+        "key": "A",
+        "text": "0"
+      },
+      {
+        "key": "B",
+        "text": "1"
+      },
+      {
+        "key": "C",
+        "text": "7"
+      },
+      {
+        "key": "D",
+        "text": "14"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Pure water is neutral with pH = 7."
+  },
+  {
+    "id": "neco-chemistry-2021-040",
+    "exam": "NECO",
+    "subject": "Chemistry",
+    "year": 2021,
+    "topic": "Periodic Table",
+    "text": "An element with atomic number 6 has 6:",
+    "options": [
+      {
+        "key": "A",
+        "text": "protons"
+      },
+      {
+        "key": "B",
+        "text": "neutrons only"
+      },
+      {
+        "key": "C",
+        "text": "nuclei"
+      },
+      {
+        "key": "D",
+        "text": "isotopes only"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Atomic number = number of protons = 6."
+  },
+  {
+    "id": "neco-chemistry-2024-041",
+    "exam": "NECO",
+    "subject": "Chemistry",
+    "year": 2024,
+    "topic": "Mole Concept",
+    "text": "How many moles are in 126 g of water? (Molar mass = 18 g/mol)",
+    "options": [
+      {
+        "key": "A",
+        "text": "3.5 mol"
+      },
+      {
+        "key": "B",
+        "text": "7 mol"
+      },
+      {
+        "key": "C",
+        "text": "14 mol"
+      },
+      {
+        "key": "D",
+        "text": "126 mol"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Moles = mass/molar mass = 126/18 = 7 mol."
+  },
+  {
+    "id": "neco-chemistry-2023-042",
+    "exam": "NECO",
+    "subject": "Chemistry",
+    "year": 2023,
+    "topic": "Acids & Bases",
+    "text": "The pH of a neutral solution at 25°C is:",
+    "options": [
+      {
+        "key": "A",
+        "text": "0"
+      },
+      {
+        "key": "B",
+        "text": "1"
+      },
+      {
+        "key": "C",
+        "text": "7"
+      },
+      {
+        "key": "D",
+        "text": "14"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Pure water is neutral with pH = 7."
+  },
+  {
+    "id": "neco-chemistry-2022-043",
+    "exam": "NECO",
+    "subject": "Chemistry",
+    "year": 2022,
+    "topic": "Periodic Table",
+    "text": "An element with atomic number 9 has 9:",
+    "options": [
+      {
+        "key": "A",
+        "text": "protons"
+      },
+      {
+        "key": "B",
+        "text": "neutrons only"
+      },
+      {
+        "key": "C",
+        "text": "nuclei"
+      },
+      {
+        "key": "D",
+        "text": "isotopes only"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Atomic number = number of protons = 9."
+  },
+  {
+    "id": "neco-chemistry-2021-044",
+    "exam": "NECO",
+    "subject": "Chemistry",
+    "year": 2021,
+    "topic": "Mole Concept",
+    "text": "How many moles are in 180 g of water? (Molar mass = 18 g/mol)",
+    "options": [
+      {
+        "key": "A",
+        "text": "5 mol"
+      },
+      {
+        "key": "B",
+        "text": "10 mol"
+      },
+      {
+        "key": "C",
+        "text": "20 mol"
+      },
+      {
+        "key": "D",
+        "text": "180 mol"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Moles = mass/molar mass = 180/18 = 10 mol."
+  },
+  {
+    "id": "neco-chemistry-2024-045",
+    "exam": "NECO",
+    "subject": "Chemistry",
+    "year": 2024,
+    "topic": "Acids & Bases",
+    "text": "The pH of a neutral solution at 25°C is:",
+    "options": [
+      {
+        "key": "A",
+        "text": "0"
+      },
+      {
+        "key": "B",
+        "text": "1"
+      },
+      {
+        "key": "C",
+        "text": "7"
+      },
+      {
+        "key": "D",
+        "text": "14"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Pure water is neutral with pH = 7."
+  },
+  {
+    "id": "neco-chemistry-2023-046",
+    "exam": "NECO",
+    "subject": "Chemistry",
+    "year": 2023,
+    "topic": "Periodic Table",
+    "text": "An element with atomic number 12 has 12:",
+    "options": [
+      {
+        "key": "A",
+        "text": "protons"
+      },
+      {
+        "key": "B",
+        "text": "neutrons only"
+      },
+      {
+        "key": "C",
+        "text": "nuclei"
+      },
+      {
+        "key": "D",
+        "text": "isotopes only"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Atomic number = number of protons = 12."
+  },
+  {
+    "id": "neco-chemistry-2022-047",
+    "exam": "NECO",
+    "subject": "Chemistry",
+    "year": 2022,
+    "topic": "Mole Concept",
+    "text": "How many moles are in 234 g of water? (Molar mass = 18 g/mol)",
+    "options": [
+      {
+        "key": "A",
+        "text": "6.5 mol"
+      },
+      {
+        "key": "B",
+        "text": "13 mol"
+      },
+      {
+        "key": "C",
+        "text": "26 mol"
+      },
+      {
+        "key": "D",
+        "text": "234 mol"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Moles = mass/molar mass = 234/18 = 13 mol."
+  },
+  {
+    "id": "neco-chemistry-2021-048",
+    "exam": "NECO",
+    "subject": "Chemistry",
+    "year": 2021,
+    "topic": "Acids & Bases",
+    "text": "The pH of a neutral solution at 25°C is:",
+    "options": [
+      {
+        "key": "A",
+        "text": "0"
+      },
+      {
+        "key": "B",
+        "text": "1"
+      },
+      {
+        "key": "C",
+        "text": "7"
+      },
+      {
+        "key": "D",
+        "text": "14"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Pure water is neutral with pH = 7."
+  },
+  {
+    "id": "neco-chemistry-2024-049",
+    "exam": "NECO",
+    "subject": "Chemistry",
+    "year": 2024,
+    "topic": "Periodic Table",
+    "text": "An element with atomic number 15 has 15:",
+    "options": [
+      {
+        "key": "A",
+        "text": "protons"
+      },
+      {
+        "key": "B",
+        "text": "neutrons only"
+      },
+      {
+        "key": "C",
+        "text": "nuclei"
+      },
+      {
+        "key": "D",
+        "text": "isotopes only"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Atomic number = number of protons = 15."
+  },
+  {
+    "id": "neco-chemistry-2023-050",
+    "exam": "NECO",
+    "subject": "Chemistry",
+    "year": 2023,
+    "topic": "Mole Concept",
+    "text": "How many moles are in 288 g of water? (Molar mass = 18 g/mol)",
+    "options": [
+      {
+        "key": "A",
+        "text": "8 mol"
+      },
+      {
+        "key": "B",
+        "text": "16 mol"
+      },
+      {
+        "key": "C",
+        "text": "32 mol"
+      },
+      {
+        "key": "D",
+        "text": "288 mol"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Moles = mass/molar mass = 288/18 = 16 mol."
+  },
+  {
+    "id": "neco-chemistry-2022-051",
+    "exam": "NECO",
+    "subject": "Chemistry",
+    "year": 2022,
+    "topic": "Acids & Bases",
+    "text": "The pH of a neutral solution at 25°C is:",
+    "options": [
+      {
+        "key": "A",
+        "text": "0"
+      },
+      {
+        "key": "B",
+        "text": "1"
+      },
+      {
+        "key": "C",
+        "text": "7"
+      },
+      {
+        "key": "D",
+        "text": "14"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Pure water is neutral with pH = 7."
+  },
+  {
+    "id": "neco-chemistry-2021-052",
+    "exam": "NECO",
+    "subject": "Chemistry",
+    "year": 2021,
+    "topic": "Periodic Table",
+    "text": "An element with atomic number 18 has 18:",
+    "options": [
+      {
+        "key": "A",
+        "text": "protons"
+      },
+      {
+        "key": "B",
+        "text": "neutrons only"
+      },
+      {
+        "key": "C",
+        "text": "nuclei"
+      },
+      {
+        "key": "D",
+        "text": "isotopes only"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Atomic number = number of protons = 18."
+  },
+  {
+    "id": "neco-chemistry-2024-053",
+    "exam": "NECO",
+    "subject": "Chemistry",
+    "year": 2024,
+    "topic": "Mole Concept",
+    "text": "How many moles are in 342 g of water? (Molar mass = 18 g/mol)",
+    "options": [
+      {
+        "key": "A",
+        "text": "9.5 mol"
+      },
+      {
+        "key": "B",
+        "text": "19 mol"
+      },
+      {
+        "key": "C",
+        "text": "38 mol"
+      },
+      {
+        "key": "D",
+        "text": "342 mol"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Moles = mass/molar mass = 342/18 = 19 mol."
+  },
+  {
+    "id": "neco-chemistry-2023-054",
+    "exam": "NECO",
+    "subject": "Chemistry",
+    "year": 2023,
+    "topic": "Acids & Bases",
+    "text": "The pH of a neutral solution at 25°C is:",
+    "options": [
+      {
+        "key": "A",
+        "text": "0"
+      },
+      {
+        "key": "B",
+        "text": "1"
+      },
+      {
+        "key": "C",
+        "text": "7"
+      },
+      {
+        "key": "D",
+        "text": "14"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Pure water is neutral with pH = 7."
+  },
+  {
+    "id": "neco-chemistry-2022-055",
+    "exam": "NECO",
+    "subject": "Chemistry",
+    "year": 2022,
+    "topic": "Periodic Table",
+    "text": "An element with atomic number 3 has 3:",
+    "options": [
+      {
+        "key": "A",
+        "text": "protons"
+      },
+      {
+        "key": "B",
+        "text": "neutrons only"
+      },
+      {
+        "key": "C",
+        "text": "nuclei"
+      },
+      {
+        "key": "D",
+        "text": "isotopes only"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Atomic number = number of protons = 3."
+  },
+  {
+    "id": "neco-chemistry-2021-056",
+    "exam": "NECO",
+    "subject": "Chemistry",
+    "year": 2021,
+    "topic": "Mole Concept",
+    "text": "How many moles are in 72 g of water? (Molar mass = 18 g/mol)",
+    "options": [
+      {
+        "key": "A",
+        "text": "2 mol"
+      },
+      {
+        "key": "B",
+        "text": "4 mol"
+      },
+      {
+        "key": "C",
+        "text": "8 mol"
+      },
+      {
+        "key": "D",
+        "text": "72 mol"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Moles = mass/molar mass = 72/18 = 4 mol."
+  },
+  {
+    "id": "neco-chemistry-2024-057",
+    "exam": "NECO",
+    "subject": "Chemistry",
+    "year": 2024,
+    "topic": "Acids & Bases",
+    "text": "The pH of a neutral solution at 25°C is:",
+    "options": [
+      {
+        "key": "A",
+        "text": "0"
+      },
+      {
+        "key": "B",
+        "text": "1"
+      },
+      {
+        "key": "C",
+        "text": "7"
+      },
+      {
+        "key": "D",
+        "text": "14"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Pure water is neutral with pH = 7."
+  },
+  {
+    "id": "neco-chemistry-2023-058",
+    "exam": "NECO",
+    "subject": "Chemistry",
+    "year": 2023,
+    "topic": "Periodic Table",
+    "text": "An element with atomic number 6 has 6:",
+    "options": [
+      {
+        "key": "A",
+        "text": "protons"
+      },
+      {
+        "key": "B",
+        "text": "neutrons only"
+      },
+      {
+        "key": "C",
+        "text": "nuclei"
+      },
+      {
+        "key": "D",
+        "text": "isotopes only"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Atomic number = number of protons = 6."
+  },
+  {
+    "id": "neco-chemistry-2022-059",
+    "exam": "NECO",
+    "subject": "Chemistry",
+    "year": 2022,
+    "topic": "Mole Concept",
+    "text": "How many moles are in 126 g of water? (Molar mass = 18 g/mol)",
+    "options": [
+      {
+        "key": "A",
+        "text": "3.5 mol"
+      },
+      {
+        "key": "B",
+        "text": "7 mol"
+      },
+      {
+        "key": "C",
+        "text": "14 mol"
+      },
+      {
+        "key": "D",
+        "text": "126 mol"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Moles = mass/molar mass = 126/18 = 7 mol."
+  },
+  {
+    "id": "neco-chemistry-2021-060",
+    "exam": "NECO",
+    "subject": "Chemistry",
+    "year": 2021,
+    "topic": "Acids & Bases",
+    "text": "The pH of a neutral solution at 25°C is:",
+    "options": [
+      {
+        "key": "A",
+        "text": "0"
+      },
+      {
+        "key": "B",
+        "text": "1"
+      },
+      {
+        "key": "C",
+        "text": "7"
+      },
+      {
+        "key": "D",
+        "text": "14"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Pure water is neutral with pH = 7."
+  },
+  {
+    "id": "neco-chemistry-2024-061",
+    "exam": "NECO",
+    "subject": "Chemistry",
+    "year": 2024,
+    "topic": "Periodic Table",
+    "text": "An element with atomic number 9 has 9:",
+    "options": [
+      {
+        "key": "A",
+        "text": "protons"
+      },
+      {
+        "key": "B",
+        "text": "neutrons only"
+      },
+      {
+        "key": "C",
+        "text": "nuclei"
+      },
+      {
+        "key": "D",
+        "text": "isotopes only"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Atomic number = number of protons = 9."
+  },
+  {
+    "id": "neco-chemistry-2023-062",
+    "exam": "NECO",
+    "subject": "Chemistry",
+    "year": 2023,
+    "topic": "Mole Concept",
+    "text": "How many moles are in 180 g of water? (Molar mass = 18 g/mol)",
+    "options": [
+      {
+        "key": "A",
+        "text": "5 mol"
+      },
+      {
+        "key": "B",
+        "text": "10 mol"
+      },
+      {
+        "key": "C",
+        "text": "20 mol"
+      },
+      {
+        "key": "D",
+        "text": "180 mol"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Moles = mass/molar mass = 180/18 = 10 mol."
+  },
+  {
+    "id": "neco-chemistry-2022-063",
+    "exam": "NECO",
+    "subject": "Chemistry",
+    "year": 2022,
+    "topic": "Acids & Bases",
+    "text": "The pH of a neutral solution at 25°C is:",
+    "options": [
+      {
+        "key": "A",
+        "text": "0"
+      },
+      {
+        "key": "B",
+        "text": "1"
+      },
+      {
+        "key": "C",
+        "text": "7"
+      },
+      {
+        "key": "D",
+        "text": "14"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Pure water is neutral with pH = 7."
+  },
+  {
+    "id": "neco-chemistry-2021-064",
+    "exam": "NECO",
+    "subject": "Chemistry",
+    "year": 2021,
+    "topic": "Periodic Table",
+    "text": "An element with atomic number 12 has 12:",
+    "options": [
+      {
+        "key": "A",
+        "text": "protons"
+      },
+      {
+        "key": "B",
+        "text": "neutrons only"
+      },
+      {
+        "key": "C",
+        "text": "nuclei"
+      },
+      {
+        "key": "D",
+        "text": "isotopes only"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Atomic number = number of protons = 12."
+  },
+  {
+    "id": "neco-chemistry-2024-065",
+    "exam": "NECO",
+    "subject": "Chemistry",
+    "year": 2024,
+    "topic": "Mole Concept",
+    "text": "How many moles are in 234 g of water? (Molar mass = 18 g/mol)",
+    "options": [
+      {
+        "key": "A",
+        "text": "6.5 mol"
+      },
+      {
+        "key": "B",
+        "text": "13 mol"
+      },
+      {
+        "key": "C",
+        "text": "26 mol"
+      },
+      {
+        "key": "D",
+        "text": "234 mol"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Moles = mass/molar mass = 234/18 = 13 mol."
+  },
+  {
+    "id": "neco-chemistry-2023-066",
+    "exam": "NECO",
+    "subject": "Chemistry",
+    "year": 2023,
+    "topic": "Acids & Bases",
+    "text": "The pH of a neutral solution at 25°C is:",
+    "options": [
+      {
+        "key": "A",
+        "text": "0"
+      },
+      {
+        "key": "B",
+        "text": "1"
+      },
+      {
+        "key": "C",
+        "text": "7"
+      },
+      {
+        "key": "D",
+        "text": "14"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Pure water is neutral with pH = 7."
+  },
+  {
+    "id": "neco-chemistry-2022-067",
+    "exam": "NECO",
+    "subject": "Chemistry",
+    "year": 2022,
+    "topic": "Periodic Table",
+    "text": "An element with atomic number 15 has 15:",
+    "options": [
+      {
+        "key": "A",
+        "text": "protons"
+      },
+      {
+        "key": "B",
+        "text": "neutrons only"
+      },
+      {
+        "key": "C",
+        "text": "nuclei"
+      },
+      {
+        "key": "D",
+        "text": "isotopes only"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Atomic number = number of protons = 15."
+  },
+  {
+    "id": "neco-chemistry-2021-068",
+    "exam": "NECO",
+    "subject": "Chemistry",
+    "year": 2021,
+    "topic": "Mole Concept",
+    "text": "How many moles are in 288 g of water? (Molar mass = 18 g/mol)",
+    "options": [
+      {
+        "key": "A",
+        "text": "8 mol"
+      },
+      {
+        "key": "B",
+        "text": "16 mol"
+      },
+      {
+        "key": "C",
+        "text": "32 mol"
+      },
+      {
+        "key": "D",
+        "text": "288 mol"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Moles = mass/molar mass = 288/18 = 16 mol."
+  },
+  {
+    "id": "neco-chemistry-2024-069",
+    "exam": "NECO",
+    "subject": "Chemistry",
+    "year": 2024,
+    "topic": "Acids & Bases",
+    "text": "The pH of a neutral solution at 25°C is:",
+    "options": [
+      {
+        "key": "A",
+        "text": "0"
+      },
+      {
+        "key": "B",
+        "text": "1"
+      },
+      {
+        "key": "C",
+        "text": "7"
+      },
+      {
+        "key": "D",
+        "text": "14"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Pure water is neutral with pH = 7."
+  }
+]

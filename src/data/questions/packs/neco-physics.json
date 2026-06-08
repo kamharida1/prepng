@@ -1,0 +1,1934 @@
+[
+  {
+    "id": "neco-physics-2024-001",
+    "exam": "NECO",
+    "subject": "Physics",
+    "year": 2024,
+    "topic": "Mechanics",
+    "text": "A body moves 20 m in 2 s. Find average speed in m/s.",
+    "options": [
+      {
+        "key": "A",
+        "text": "10 m/s"
+      },
+      {
+        "key": "B",
+        "text": "4 m/s"
+      },
+      {
+        "key": "C",
+        "text": "4 m/s"
+      },
+      {
+        "key": "D",
+        "text": "40 m/s"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Speed = distance/time = 20/2 = 10 m/s."
+  },
+  {
+    "id": "neco-physics-2023-002",
+    "exam": "NECO",
+    "subject": "Physics",
+    "year": 2023,
+    "topic": "Electricity",
+    "text": "The SI unit of resistance is:",
+    "options": [
+      {
+        "key": "A",
+        "text": "Ampere"
+      },
+      {
+        "key": "B",
+        "text": "Ohm"
+      },
+      {
+        "key": "C",
+        "text": "Volt"
+      },
+      {
+        "key": "D",
+        "text": "Watt"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Resistance is measured in ohms (Ω)."
+  },
+  {
+    "id": "neco-physics-2022-003",
+    "exam": "NECO",
+    "subject": "Physics",
+    "year": 2022,
+    "topic": "Waves",
+    "text": "A wave has frequency 40 Hz and wavelength 2 m. Find its speed.",
+    "options": [
+      {
+        "key": "A",
+        "text": "4 m/s"
+      },
+      {
+        "key": "B",
+        "text": "20 m/s"
+      },
+      {
+        "key": "C",
+        "text": "80 m/s"
+      },
+      {
+        "key": "D",
+        "text": "160 m/s"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "v = fλ = 40 × 2 = 80 m/s."
+  },
+  {
+    "id": "neco-physics-2021-004",
+    "exam": "NECO",
+    "subject": "Physics",
+    "year": 2021,
+    "topic": "Mechanics",
+    "text": "A body moves 50 m in 5 s. Find average speed in m/s.",
+    "options": [
+      {
+        "key": "A",
+        "text": "10 m/s"
+      },
+      {
+        "key": "B",
+        "text": "25 m/s"
+      },
+      {
+        "key": "C",
+        "text": "10 m/s"
+      },
+      {
+        "key": "D",
+        "text": "250 m/s"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Speed = distance/time = 50/5 = 10 m/s."
+  },
+  {
+    "id": "neco-physics-2024-005",
+    "exam": "NECO",
+    "subject": "Physics",
+    "year": 2024,
+    "topic": "Electricity",
+    "text": "The SI unit of resistance is:",
+    "options": [
+      {
+        "key": "A",
+        "text": "Ampere"
+      },
+      {
+        "key": "B",
+        "text": "Ohm"
+      },
+      {
+        "key": "C",
+        "text": "Volt"
+      },
+      {
+        "key": "D",
+        "text": "Watt"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Resistance is measured in ohms (Ω)."
+  },
+  {
+    "id": "neco-physics-2023-006",
+    "exam": "NECO",
+    "subject": "Physics",
+    "year": 2023,
+    "topic": "Waves",
+    "text": "A wave has frequency 70 Hz and wavelength 2 m. Find its speed.",
+    "options": [
+      {
+        "key": "A",
+        "text": "7 m/s"
+      },
+      {
+        "key": "B",
+        "text": "35 m/s"
+      },
+      {
+        "key": "C",
+        "text": "140 m/s"
+      },
+      {
+        "key": "D",
+        "text": "280 m/s"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "v = fλ = 70 × 2 = 140 m/s."
+  },
+  {
+    "id": "neco-physics-2022-007",
+    "exam": "NECO",
+    "subject": "Physics",
+    "year": 2022,
+    "topic": "Mechanics",
+    "text": "A body moves 80 m in 3 s. Find average speed in m/s.",
+    "options": [
+      {
+        "key": "A",
+        "text": "26.666666666666668 m/s"
+      },
+      {
+        "key": "B",
+        "text": "24 m/s"
+      },
+      {
+        "key": "C",
+        "text": "11 m/s"
+      },
+      {
+        "key": "D",
+        "text": "240 m/s"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Speed = distance/time = 80/3 = 26.666666666666668 m/s."
+  },
+  {
+    "id": "neco-physics-2021-008",
+    "exam": "NECO",
+    "subject": "Physics",
+    "year": 2021,
+    "topic": "Electricity",
+    "text": "The SI unit of resistance is:",
+    "options": [
+      {
+        "key": "A",
+        "text": "Ampere"
+      },
+      {
+        "key": "B",
+        "text": "Ohm"
+      },
+      {
+        "key": "C",
+        "text": "Volt"
+      },
+      {
+        "key": "D",
+        "text": "Watt"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Resistance is measured in ohms (Ω)."
+  },
+  {
+    "id": "neco-physics-2024-009",
+    "exam": "NECO",
+    "subject": "Physics",
+    "year": 2024,
+    "topic": "Waves",
+    "text": "A wave has frequency 20 Hz and wavelength 2 m. Find its speed.",
+    "options": [
+      {
+        "key": "A",
+        "text": "2 m/s"
+      },
+      {
+        "key": "B",
+        "text": "10 m/s"
+      },
+      {
+        "key": "C",
+        "text": "40 m/s"
+      },
+      {
+        "key": "D",
+        "text": "80 m/s"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "v = fλ = 20 × 2 = 40 m/s."
+  },
+  {
+    "id": "neco-physics-2023-010",
+    "exam": "NECO",
+    "subject": "Physics",
+    "year": 2023,
+    "topic": "Mechanics",
+    "text": "A body moves 30 m in 6 s. Find average speed in m/s.",
+    "options": [
+      {
+        "key": "A",
+        "text": "5 m/s"
+      },
+      {
+        "key": "B",
+        "text": "18 m/s"
+      },
+      {
+        "key": "C",
+        "text": "9 m/s"
+      },
+      {
+        "key": "D",
+        "text": "180 m/s"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Speed = distance/time = 30/6 = 5 m/s."
+  },
+  {
+    "id": "neco-physics-2022-011",
+    "exam": "NECO",
+    "subject": "Physics",
+    "year": 2022,
+    "topic": "Electricity",
+    "text": "The SI unit of resistance is:",
+    "options": [
+      {
+        "key": "A",
+        "text": "Ampere"
+      },
+      {
+        "key": "B",
+        "text": "Ohm"
+      },
+      {
+        "key": "C",
+        "text": "Volt"
+      },
+      {
+        "key": "D",
+        "text": "Watt"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Resistance is measured in ohms (Ω)."
+  },
+  {
+    "id": "neco-physics-2021-012",
+    "exam": "NECO",
+    "subject": "Physics",
+    "year": 2021,
+    "topic": "Waves",
+    "text": "A wave has frequency 50 Hz and wavelength 2 m. Find its speed.",
+    "options": [
+      {
+        "key": "A",
+        "text": "5 m/s"
+      },
+      {
+        "key": "B",
+        "text": "25 m/s"
+      },
+      {
+        "key": "C",
+        "text": "100 m/s"
+      },
+      {
+        "key": "D",
+        "text": "200 m/s"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "v = fλ = 50 × 2 = 100 m/s."
+  },
+  {
+    "id": "neco-physics-2024-013",
+    "exam": "NECO",
+    "subject": "Physics",
+    "year": 2024,
+    "topic": "Mechanics",
+    "text": "A body moves 60 m in 4 s. Find average speed in m/s.",
+    "options": [
+      {
+        "key": "A",
+        "text": "15 m/s"
+      },
+      {
+        "key": "B",
+        "text": "24 m/s"
+      },
+      {
+        "key": "C",
+        "text": "10 m/s"
+      },
+      {
+        "key": "D",
+        "text": "240 m/s"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Speed = distance/time = 60/4 = 15 m/s."
+  },
+  {
+    "id": "neco-physics-2023-014",
+    "exam": "NECO",
+    "subject": "Physics",
+    "year": 2023,
+    "topic": "Electricity",
+    "text": "The SI unit of resistance is:",
+    "options": [
+      {
+        "key": "A",
+        "text": "Ampere"
+      },
+      {
+        "key": "B",
+        "text": "Ohm"
+      },
+      {
+        "key": "C",
+        "text": "Volt"
+      },
+      {
+        "key": "D",
+        "text": "Watt"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Resistance is measured in ohms (Ω)."
+  },
+  {
+    "id": "neco-physics-2022-015",
+    "exam": "NECO",
+    "subject": "Physics",
+    "year": 2022,
+    "topic": "Waves",
+    "text": "A wave has frequency 80 Hz and wavelength 2 m. Find its speed.",
+    "options": [
+      {
+        "key": "A",
+        "text": "8 m/s"
+      },
+      {
+        "key": "B",
+        "text": "40 m/s"
+      },
+      {
+        "key": "C",
+        "text": "160 m/s"
+      },
+      {
+        "key": "D",
+        "text": "320 m/s"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "v = fλ = 80 × 2 = 160 m/s."
+  },
+  {
+    "id": "neco-physics-2021-016",
+    "exam": "NECO",
+    "subject": "Physics",
+    "year": 2021,
+    "topic": "Mechanics",
+    "text": "A body moves 90 m in 2 s. Find average speed in m/s.",
+    "options": [
+      {
+        "key": "A",
+        "text": "45 m/s"
+      },
+      {
+        "key": "B",
+        "text": "18 m/s"
+      },
+      {
+        "key": "C",
+        "text": "11 m/s"
+      },
+      {
+        "key": "D",
+        "text": "180 m/s"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Speed = distance/time = 90/2 = 45 m/s."
+  },
+  {
+    "id": "neco-physics-2024-017",
+    "exam": "NECO",
+    "subject": "Physics",
+    "year": 2024,
+    "topic": "Electricity",
+    "text": "The SI unit of resistance is:",
+    "options": [
+      {
+        "key": "A",
+        "text": "Ampere"
+      },
+      {
+        "key": "B",
+        "text": "Ohm"
+      },
+      {
+        "key": "C",
+        "text": "Volt"
+      },
+      {
+        "key": "D",
+        "text": "Watt"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Resistance is measured in ohms (Ω)."
+  },
+  {
+    "id": "neco-physics-2023-018",
+    "exam": "NECO",
+    "subject": "Physics",
+    "year": 2023,
+    "topic": "Waves",
+    "text": "A wave has frequency 30 Hz and wavelength 2 m. Find its speed.",
+    "options": [
+      {
+        "key": "A",
+        "text": "3 m/s"
+      },
+      {
+        "key": "B",
+        "text": "15 m/s"
+      },
+      {
+        "key": "C",
+        "text": "60 m/s"
+      },
+      {
+        "key": "D",
+        "text": "120 m/s"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "v = fλ = 30 × 2 = 60 m/s."
+  },
+  {
+    "id": "neco-physics-2022-019",
+    "exam": "NECO",
+    "subject": "Physics",
+    "year": 2022,
+    "topic": "Mechanics",
+    "text": "A body moves 40 m in 5 s. Find average speed in m/s.",
+    "options": [
+      {
+        "key": "A",
+        "text": "8 m/s"
+      },
+      {
+        "key": "B",
+        "text": "20 m/s"
+      },
+      {
+        "key": "C",
+        "text": "9 m/s"
+      },
+      {
+        "key": "D",
+        "text": "200 m/s"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Speed = distance/time = 40/5 = 8 m/s."
+  },
+  {
+    "id": "neco-physics-2021-020",
+    "exam": "NECO",
+    "subject": "Physics",
+    "year": 2021,
+    "topic": "Electricity",
+    "text": "The SI unit of resistance is:",
+    "options": [
+      {
+        "key": "A",
+        "text": "Ampere"
+      },
+      {
+        "key": "B",
+        "text": "Ohm"
+      },
+      {
+        "key": "C",
+        "text": "Volt"
+      },
+      {
+        "key": "D",
+        "text": "Watt"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Resistance is measured in ohms (Ω)."
+  },
+  {
+    "id": "neco-physics-2024-021",
+    "exam": "NECO",
+    "subject": "Physics",
+    "year": 2024,
+    "topic": "Waves",
+    "text": "A wave has frequency 60 Hz and wavelength 2 m. Find its speed.",
+    "options": [
+      {
+        "key": "A",
+        "text": "6 m/s"
+      },
+      {
+        "key": "B",
+        "text": "30 m/s"
+      },
+      {
+        "key": "C",
+        "text": "120 m/s"
+      },
+      {
+        "key": "D",
+        "text": "240 m/s"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "v = fλ = 60 × 2 = 120 m/s."
+  },
+  {
+    "id": "neco-physics-2023-022",
+    "exam": "NECO",
+    "subject": "Physics",
+    "year": 2023,
+    "topic": "Mechanics",
+    "text": "A body moves 70 m in 3 s. Find average speed in m/s.",
+    "options": [
+      {
+        "key": "A",
+        "text": "23.333333333333332 m/s"
+      },
+      {
+        "key": "B",
+        "text": "21 m/s"
+      },
+      {
+        "key": "C",
+        "text": "10 m/s"
+      },
+      {
+        "key": "D",
+        "text": "210 m/s"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Speed = distance/time = 70/3 = 23.333333333333332 m/s."
+  },
+  {
+    "id": "neco-physics-2022-023",
+    "exam": "NECO",
+    "subject": "Physics",
+    "year": 2022,
+    "topic": "Electricity",
+    "text": "The SI unit of resistance is:",
+    "options": [
+      {
+        "key": "A",
+        "text": "Ampere"
+      },
+      {
+        "key": "B",
+        "text": "Ohm"
+      },
+      {
+        "key": "C",
+        "text": "Volt"
+      },
+      {
+        "key": "D",
+        "text": "Watt"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Resistance is measured in ohms (Ω)."
+  },
+  {
+    "id": "neco-physics-2021-024",
+    "exam": "NECO",
+    "subject": "Physics",
+    "year": 2021,
+    "topic": "Waves",
+    "text": "A wave has frequency 90 Hz and wavelength 2 m. Find its speed.",
+    "options": [
+      {
+        "key": "A",
+        "text": "9 m/s"
+      },
+      {
+        "key": "B",
+        "text": "45 m/s"
+      },
+      {
+        "key": "C",
+        "text": "180 m/s"
+      },
+      {
+        "key": "D",
+        "text": "360 m/s"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "v = fλ = 90 × 2 = 180 m/s."
+  },
+  {
+    "id": "neco-physics-2024-025",
+    "exam": "NECO",
+    "subject": "Physics",
+    "year": 2024,
+    "topic": "Mechanics",
+    "text": "A body moves 20 m in 6 s. Find average speed in m/s.",
+    "options": [
+      {
+        "key": "A",
+        "text": "3.3333333333333335 m/s"
+      },
+      {
+        "key": "B",
+        "text": "12 m/s"
+      },
+      {
+        "key": "C",
+        "text": "8 m/s"
+      },
+      {
+        "key": "D",
+        "text": "120 m/s"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Speed = distance/time = 20/6 = 3.3333333333333335 m/s."
+  },
+  {
+    "id": "neco-physics-2023-026",
+    "exam": "NECO",
+    "subject": "Physics",
+    "year": 2023,
+    "topic": "Electricity",
+    "text": "The SI unit of resistance is:",
+    "options": [
+      {
+        "key": "A",
+        "text": "Ampere"
+      },
+      {
+        "key": "B",
+        "text": "Ohm"
+      },
+      {
+        "key": "C",
+        "text": "Volt"
+      },
+      {
+        "key": "D",
+        "text": "Watt"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Resistance is measured in ohms (Ω)."
+  },
+  {
+    "id": "neco-physics-2022-027",
+    "exam": "NECO",
+    "subject": "Physics",
+    "year": 2022,
+    "topic": "Waves",
+    "text": "A wave has frequency 40 Hz and wavelength 2 m. Find its speed.",
+    "options": [
+      {
+        "key": "A",
+        "text": "4 m/s"
+      },
+      {
+        "key": "B",
+        "text": "20 m/s"
+      },
+      {
+        "key": "C",
+        "text": "80 m/s"
+      },
+      {
+        "key": "D",
+        "text": "160 m/s"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "v = fλ = 40 × 2 = 80 m/s."
+  },
+  {
+    "id": "neco-physics-2021-028",
+    "exam": "NECO",
+    "subject": "Physics",
+    "year": 2021,
+    "topic": "Mechanics",
+    "text": "A body moves 50 m in 4 s. Find average speed in m/s.",
+    "options": [
+      {
+        "key": "A",
+        "text": "12.5 m/s"
+      },
+      {
+        "key": "B",
+        "text": "20 m/s"
+      },
+      {
+        "key": "C",
+        "text": "9 m/s"
+      },
+      {
+        "key": "D",
+        "text": "200 m/s"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Speed = distance/time = 50/4 = 12.5 m/s."
+  },
+  {
+    "id": "neco-physics-2024-029",
+    "exam": "NECO",
+    "subject": "Physics",
+    "year": 2024,
+    "topic": "Electricity",
+    "text": "The SI unit of resistance is:",
+    "options": [
+      {
+        "key": "A",
+        "text": "Ampere"
+      },
+      {
+        "key": "B",
+        "text": "Ohm"
+      },
+      {
+        "key": "C",
+        "text": "Volt"
+      },
+      {
+        "key": "D",
+        "text": "Watt"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Resistance is measured in ohms (Ω)."
+  },
+  {
+    "id": "neco-physics-2023-030",
+    "exam": "NECO",
+    "subject": "Physics",
+    "year": 2023,
+    "topic": "Waves",
+    "text": "A wave has frequency 70 Hz and wavelength 2 m. Find its speed.",
+    "options": [
+      {
+        "key": "A",
+        "text": "7 m/s"
+      },
+      {
+        "key": "B",
+        "text": "35 m/s"
+      },
+      {
+        "key": "C",
+        "text": "140 m/s"
+      },
+      {
+        "key": "D",
+        "text": "280 m/s"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "v = fλ = 70 × 2 = 140 m/s."
+  },
+  {
+    "id": "neco-physics-2022-031",
+    "exam": "NECO",
+    "subject": "Physics",
+    "year": 2022,
+    "topic": "Mechanics",
+    "text": "A body moves 80 m in 2 s. Find average speed in m/s.",
+    "options": [
+      {
+        "key": "A",
+        "text": "40 m/s"
+      },
+      {
+        "key": "B",
+        "text": "16 m/s"
+      },
+      {
+        "key": "C",
+        "text": "10 m/s"
+      },
+      {
+        "key": "D",
+        "text": "160 m/s"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Speed = distance/time = 80/2 = 40 m/s."
+  },
+  {
+    "id": "neco-physics-2021-032",
+    "exam": "NECO",
+    "subject": "Physics",
+    "year": 2021,
+    "topic": "Electricity",
+    "text": "The SI unit of resistance is:",
+    "options": [
+      {
+        "key": "A",
+        "text": "Ampere"
+      },
+      {
+        "key": "B",
+        "text": "Ohm"
+      },
+      {
+        "key": "C",
+        "text": "Volt"
+      },
+      {
+        "key": "D",
+        "text": "Watt"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Resistance is measured in ohms (Ω)."
+  },
+  {
+    "id": "neco-physics-2024-033",
+    "exam": "NECO",
+    "subject": "Physics",
+    "year": 2024,
+    "topic": "Waves",
+    "text": "A wave has frequency 20 Hz and wavelength 2 m. Find its speed.",
+    "options": [
+      {
+        "key": "A",
+        "text": "2 m/s"
+      },
+      {
+        "key": "B",
+        "text": "10 m/s"
+      },
+      {
+        "key": "C",
+        "text": "40 m/s"
+      },
+      {
+        "key": "D",
+        "text": "80 m/s"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "v = fλ = 20 × 2 = 40 m/s."
+  },
+  {
+    "id": "neco-physics-2023-034",
+    "exam": "NECO",
+    "subject": "Physics",
+    "year": 2023,
+    "topic": "Mechanics",
+    "text": "A body moves 30 m in 5 s. Find average speed in m/s.",
+    "options": [
+      {
+        "key": "A",
+        "text": "6 m/s"
+      },
+      {
+        "key": "B",
+        "text": "15 m/s"
+      },
+      {
+        "key": "C",
+        "text": "8 m/s"
+      },
+      {
+        "key": "D",
+        "text": "150 m/s"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Speed = distance/time = 30/5 = 6 m/s."
+  },
+  {
+    "id": "neco-physics-2022-035",
+    "exam": "NECO",
+    "subject": "Physics",
+    "year": 2022,
+    "topic": "Electricity",
+    "text": "The SI unit of resistance is:",
+    "options": [
+      {
+        "key": "A",
+        "text": "Ampere"
+      },
+      {
+        "key": "B",
+        "text": "Ohm"
+      },
+      {
+        "key": "C",
+        "text": "Volt"
+      },
+      {
+        "key": "D",
+        "text": "Watt"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Resistance is measured in ohms (Ω)."
+  },
+  {
+    "id": "neco-physics-2021-036",
+    "exam": "NECO",
+    "subject": "Physics",
+    "year": 2021,
+    "topic": "Waves",
+    "text": "A wave has frequency 50 Hz and wavelength 2 m. Find its speed.",
+    "options": [
+      {
+        "key": "A",
+        "text": "5 m/s"
+      },
+      {
+        "key": "B",
+        "text": "25 m/s"
+      },
+      {
+        "key": "C",
+        "text": "100 m/s"
+      },
+      {
+        "key": "D",
+        "text": "200 m/s"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "v = fλ = 50 × 2 = 100 m/s."
+  },
+  {
+    "id": "neco-physics-2024-037",
+    "exam": "NECO",
+    "subject": "Physics",
+    "year": 2024,
+    "topic": "Mechanics",
+    "text": "A body moves 60 m in 3 s. Find average speed in m/s.",
+    "options": [
+      {
+        "key": "A",
+        "text": "20 m/s"
+      },
+      {
+        "key": "B",
+        "text": "18 m/s"
+      },
+      {
+        "key": "C",
+        "text": "9 m/s"
+      },
+      {
+        "key": "D",
+        "text": "180 m/s"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Speed = distance/time = 60/3 = 20 m/s."
+  },
+  {
+    "id": "neco-physics-2023-038",
+    "exam": "NECO",
+    "subject": "Physics",
+    "year": 2023,
+    "topic": "Electricity",
+    "text": "The SI unit of resistance is:",
+    "options": [
+      {
+        "key": "A",
+        "text": "Ampere"
+      },
+      {
+        "key": "B",
+        "text": "Ohm"
+      },
+      {
+        "key": "C",
+        "text": "Volt"
+      },
+      {
+        "key": "D",
+        "text": "Watt"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Resistance is measured in ohms (Ω)."
+  },
+  {
+    "id": "neco-physics-2022-039",
+    "exam": "NECO",
+    "subject": "Physics",
+    "year": 2022,
+    "topic": "Waves",
+    "text": "A wave has frequency 80 Hz and wavelength 2 m. Find its speed.",
+    "options": [
+      {
+        "key": "A",
+        "text": "8 m/s"
+      },
+      {
+        "key": "B",
+        "text": "40 m/s"
+      },
+      {
+        "key": "C",
+        "text": "160 m/s"
+      },
+      {
+        "key": "D",
+        "text": "320 m/s"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "v = fλ = 80 × 2 = 160 m/s."
+  },
+  {
+    "id": "neco-physics-2021-040",
+    "exam": "NECO",
+    "subject": "Physics",
+    "year": 2021,
+    "topic": "Mechanics",
+    "text": "A body moves 90 m in 6 s. Find average speed in m/s.",
+    "options": [
+      {
+        "key": "A",
+        "text": "15 m/s"
+      },
+      {
+        "key": "B",
+        "text": "54 m/s"
+      },
+      {
+        "key": "C",
+        "text": "15 m/s"
+      },
+      {
+        "key": "D",
+        "text": "540 m/s"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Speed = distance/time = 90/6 = 15 m/s."
+  },
+  {
+    "id": "neco-physics-2024-041",
+    "exam": "NECO",
+    "subject": "Physics",
+    "year": 2024,
+    "topic": "Electricity",
+    "text": "The SI unit of resistance is:",
+    "options": [
+      {
+        "key": "A",
+        "text": "Ampere"
+      },
+      {
+        "key": "B",
+        "text": "Ohm"
+      },
+      {
+        "key": "C",
+        "text": "Volt"
+      },
+      {
+        "key": "D",
+        "text": "Watt"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Resistance is measured in ohms (Ω)."
+  },
+  {
+    "id": "neco-physics-2023-042",
+    "exam": "NECO",
+    "subject": "Physics",
+    "year": 2023,
+    "topic": "Waves",
+    "text": "A wave has frequency 30 Hz and wavelength 2 m. Find its speed.",
+    "options": [
+      {
+        "key": "A",
+        "text": "3 m/s"
+      },
+      {
+        "key": "B",
+        "text": "15 m/s"
+      },
+      {
+        "key": "C",
+        "text": "60 m/s"
+      },
+      {
+        "key": "D",
+        "text": "120 m/s"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "v = fλ = 30 × 2 = 60 m/s."
+  },
+  {
+    "id": "neco-physics-2022-043",
+    "exam": "NECO",
+    "subject": "Physics",
+    "year": 2022,
+    "topic": "Mechanics",
+    "text": "A body moves 40 m in 4 s. Find average speed in m/s.",
+    "options": [
+      {
+        "key": "A",
+        "text": "10 m/s"
+      },
+      {
+        "key": "B",
+        "text": "16 m/s"
+      },
+      {
+        "key": "C",
+        "text": "8 m/s"
+      },
+      {
+        "key": "D",
+        "text": "160 m/s"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Speed = distance/time = 40/4 = 10 m/s."
+  },
+  {
+    "id": "neco-physics-2021-044",
+    "exam": "NECO",
+    "subject": "Physics",
+    "year": 2021,
+    "topic": "Electricity",
+    "text": "The SI unit of resistance is:",
+    "options": [
+      {
+        "key": "A",
+        "text": "Ampere"
+      },
+      {
+        "key": "B",
+        "text": "Ohm"
+      },
+      {
+        "key": "C",
+        "text": "Volt"
+      },
+      {
+        "key": "D",
+        "text": "Watt"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Resistance is measured in ohms (Ω)."
+  },
+  {
+    "id": "neco-physics-2024-045",
+    "exam": "NECO",
+    "subject": "Physics",
+    "year": 2024,
+    "topic": "Waves",
+    "text": "A wave has frequency 60 Hz and wavelength 2 m. Find its speed.",
+    "options": [
+      {
+        "key": "A",
+        "text": "6 m/s"
+      },
+      {
+        "key": "B",
+        "text": "30 m/s"
+      },
+      {
+        "key": "C",
+        "text": "120 m/s"
+      },
+      {
+        "key": "D",
+        "text": "240 m/s"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "v = fλ = 60 × 2 = 120 m/s."
+  },
+  {
+    "id": "neco-physics-2023-046",
+    "exam": "NECO",
+    "subject": "Physics",
+    "year": 2023,
+    "topic": "Mechanics",
+    "text": "A body moves 70 m in 2 s. Find average speed in m/s.",
+    "options": [
+      {
+        "key": "A",
+        "text": "35 m/s"
+      },
+      {
+        "key": "B",
+        "text": "14 m/s"
+      },
+      {
+        "key": "C",
+        "text": "9 m/s"
+      },
+      {
+        "key": "D",
+        "text": "140 m/s"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Speed = distance/time = 70/2 = 35 m/s."
+  },
+  {
+    "id": "neco-physics-2022-047",
+    "exam": "NECO",
+    "subject": "Physics",
+    "year": 2022,
+    "topic": "Electricity",
+    "text": "The SI unit of resistance is:",
+    "options": [
+      {
+        "key": "A",
+        "text": "Ampere"
+      },
+      {
+        "key": "B",
+        "text": "Ohm"
+      },
+      {
+        "key": "C",
+        "text": "Volt"
+      },
+      {
+        "key": "D",
+        "text": "Watt"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Resistance is measured in ohms (Ω)."
+  },
+  {
+    "id": "neco-physics-2021-048",
+    "exam": "NECO",
+    "subject": "Physics",
+    "year": 2021,
+    "topic": "Waves",
+    "text": "A wave has frequency 90 Hz and wavelength 2 m. Find its speed.",
+    "options": [
+      {
+        "key": "A",
+        "text": "9 m/s"
+      },
+      {
+        "key": "B",
+        "text": "45 m/s"
+      },
+      {
+        "key": "C",
+        "text": "180 m/s"
+      },
+      {
+        "key": "D",
+        "text": "360 m/s"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "v = fλ = 90 × 2 = 180 m/s."
+  },
+  {
+    "id": "neco-physics-2024-049",
+    "exam": "NECO",
+    "subject": "Physics",
+    "year": 2024,
+    "topic": "Mechanics",
+    "text": "A body moves 20 m in 5 s. Find average speed in m/s.",
+    "options": [
+      {
+        "key": "A",
+        "text": "4 m/s"
+      },
+      {
+        "key": "B",
+        "text": "10 m/s"
+      },
+      {
+        "key": "C",
+        "text": "7 m/s"
+      },
+      {
+        "key": "D",
+        "text": "100 m/s"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Speed = distance/time = 20/5 = 4 m/s."
+  },
+  {
+    "id": "neco-physics-2023-050",
+    "exam": "NECO",
+    "subject": "Physics",
+    "year": 2023,
+    "topic": "Electricity",
+    "text": "The SI unit of resistance is:",
+    "options": [
+      {
+        "key": "A",
+        "text": "Ampere"
+      },
+      {
+        "key": "B",
+        "text": "Ohm"
+      },
+      {
+        "key": "C",
+        "text": "Volt"
+      },
+      {
+        "key": "D",
+        "text": "Watt"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Resistance is measured in ohms (Ω)."
+  },
+  {
+    "id": "neco-physics-2022-051",
+    "exam": "NECO",
+    "subject": "Physics",
+    "year": 2022,
+    "topic": "Waves",
+    "text": "A wave has frequency 40 Hz and wavelength 2 m. Find its speed.",
+    "options": [
+      {
+        "key": "A",
+        "text": "4 m/s"
+      },
+      {
+        "key": "B",
+        "text": "20 m/s"
+      },
+      {
+        "key": "C",
+        "text": "80 m/s"
+      },
+      {
+        "key": "D",
+        "text": "160 m/s"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "v = fλ = 40 × 2 = 80 m/s."
+  },
+  {
+    "id": "neco-physics-2021-052",
+    "exam": "NECO",
+    "subject": "Physics",
+    "year": 2021,
+    "topic": "Mechanics",
+    "text": "A body moves 50 m in 3 s. Find average speed in m/s.",
+    "options": [
+      {
+        "key": "A",
+        "text": "16.666666666666668 m/s"
+      },
+      {
+        "key": "B",
+        "text": "15 m/s"
+      },
+      {
+        "key": "C",
+        "text": "8 m/s"
+      },
+      {
+        "key": "D",
+        "text": "150 m/s"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Speed = distance/time = 50/3 = 16.666666666666668 m/s."
+  },
+  {
+    "id": "neco-physics-2024-053",
+    "exam": "NECO",
+    "subject": "Physics",
+    "year": 2024,
+    "topic": "Electricity",
+    "text": "The SI unit of resistance is:",
+    "options": [
+      {
+        "key": "A",
+        "text": "Ampere"
+      },
+      {
+        "key": "B",
+        "text": "Ohm"
+      },
+      {
+        "key": "C",
+        "text": "Volt"
+      },
+      {
+        "key": "D",
+        "text": "Watt"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Resistance is measured in ohms (Ω)."
+  },
+  {
+    "id": "neco-physics-2023-054",
+    "exam": "NECO",
+    "subject": "Physics",
+    "year": 2023,
+    "topic": "Waves",
+    "text": "A wave has frequency 70 Hz and wavelength 2 m. Find its speed.",
+    "options": [
+      {
+        "key": "A",
+        "text": "7 m/s"
+      },
+      {
+        "key": "B",
+        "text": "35 m/s"
+      },
+      {
+        "key": "C",
+        "text": "140 m/s"
+      },
+      {
+        "key": "D",
+        "text": "280 m/s"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "v = fλ = 70 × 2 = 140 m/s."
+  },
+  {
+    "id": "neco-physics-2022-055",
+    "exam": "NECO",
+    "subject": "Physics",
+    "year": 2022,
+    "topic": "Mechanics",
+    "text": "A body moves 80 m in 6 s. Find average speed in m/s.",
+    "options": [
+      {
+        "key": "A",
+        "text": "13.333333333333334 m/s"
+      },
+      {
+        "key": "B",
+        "text": "48 m/s"
+      },
+      {
+        "key": "C",
+        "text": "14 m/s"
+      },
+      {
+        "key": "D",
+        "text": "480 m/s"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Speed = distance/time = 80/6 = 13.333333333333334 m/s."
+  },
+  {
+    "id": "neco-physics-2021-056",
+    "exam": "NECO",
+    "subject": "Physics",
+    "year": 2021,
+    "topic": "Electricity",
+    "text": "The SI unit of resistance is:",
+    "options": [
+      {
+        "key": "A",
+        "text": "Ampere"
+      },
+      {
+        "key": "B",
+        "text": "Ohm"
+      },
+      {
+        "key": "C",
+        "text": "Volt"
+      },
+      {
+        "key": "D",
+        "text": "Watt"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Resistance is measured in ohms (Ω)."
+  },
+  {
+    "id": "neco-physics-2024-057",
+    "exam": "NECO",
+    "subject": "Physics",
+    "year": 2024,
+    "topic": "Waves",
+    "text": "A wave has frequency 20 Hz and wavelength 2 m. Find its speed.",
+    "options": [
+      {
+        "key": "A",
+        "text": "2 m/s"
+      },
+      {
+        "key": "B",
+        "text": "10 m/s"
+      },
+      {
+        "key": "C",
+        "text": "40 m/s"
+      },
+      {
+        "key": "D",
+        "text": "80 m/s"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "v = fλ = 20 × 2 = 40 m/s."
+  },
+  {
+    "id": "neco-physics-2023-058",
+    "exam": "NECO",
+    "subject": "Physics",
+    "year": 2023,
+    "topic": "Mechanics",
+    "text": "A body moves 30 m in 4 s. Find average speed in m/s.",
+    "options": [
+      {
+        "key": "A",
+        "text": "7.5 m/s"
+      },
+      {
+        "key": "B",
+        "text": "12 m/s"
+      },
+      {
+        "key": "C",
+        "text": "7 m/s"
+      },
+      {
+        "key": "D",
+        "text": "120 m/s"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Speed = distance/time = 30/4 = 7.5 m/s."
+  },
+  {
+    "id": "neco-physics-2022-059",
+    "exam": "NECO",
+    "subject": "Physics",
+    "year": 2022,
+    "topic": "Electricity",
+    "text": "The SI unit of resistance is:",
+    "options": [
+      {
+        "key": "A",
+        "text": "Ampere"
+      },
+      {
+        "key": "B",
+        "text": "Ohm"
+      },
+      {
+        "key": "C",
+        "text": "Volt"
+      },
+      {
+        "key": "D",
+        "text": "Watt"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Resistance is measured in ohms (Ω)."
+  },
+  {
+    "id": "neco-physics-2021-060",
+    "exam": "NECO",
+    "subject": "Physics",
+    "year": 2021,
+    "topic": "Waves",
+    "text": "A wave has frequency 50 Hz and wavelength 2 m. Find its speed.",
+    "options": [
+      {
+        "key": "A",
+        "text": "5 m/s"
+      },
+      {
+        "key": "B",
+        "text": "25 m/s"
+      },
+      {
+        "key": "C",
+        "text": "100 m/s"
+      },
+      {
+        "key": "D",
+        "text": "200 m/s"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "v = fλ = 50 × 2 = 100 m/s."
+  },
+  {
+    "id": "neco-physics-2024-061",
+    "exam": "NECO",
+    "subject": "Physics",
+    "year": 2024,
+    "topic": "Mechanics",
+    "text": "A body moves 60 m in 2 s. Find average speed in m/s.",
+    "options": [
+      {
+        "key": "A",
+        "text": "30 m/s"
+      },
+      {
+        "key": "B",
+        "text": "12 m/s"
+      },
+      {
+        "key": "C",
+        "text": "8 m/s"
+      },
+      {
+        "key": "D",
+        "text": "120 m/s"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Speed = distance/time = 60/2 = 30 m/s."
+  },
+  {
+    "id": "neco-physics-2023-062",
+    "exam": "NECO",
+    "subject": "Physics",
+    "year": 2023,
+    "topic": "Electricity",
+    "text": "The SI unit of resistance is:",
+    "options": [
+      {
+        "key": "A",
+        "text": "Ampere"
+      },
+      {
+        "key": "B",
+        "text": "Ohm"
+      },
+      {
+        "key": "C",
+        "text": "Volt"
+      },
+      {
+        "key": "D",
+        "text": "Watt"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Resistance is measured in ohms (Ω)."
+  },
+  {
+    "id": "neco-physics-2022-063",
+    "exam": "NECO",
+    "subject": "Physics",
+    "year": 2022,
+    "topic": "Waves",
+    "text": "A wave has frequency 80 Hz and wavelength 2 m. Find its speed.",
+    "options": [
+      {
+        "key": "A",
+        "text": "8 m/s"
+      },
+      {
+        "key": "B",
+        "text": "40 m/s"
+      },
+      {
+        "key": "C",
+        "text": "160 m/s"
+      },
+      {
+        "key": "D",
+        "text": "320 m/s"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "v = fλ = 80 × 2 = 160 m/s."
+  },
+  {
+    "id": "neco-physics-2021-064",
+    "exam": "NECO",
+    "subject": "Physics",
+    "year": 2021,
+    "topic": "Mechanics",
+    "text": "A body moves 90 m in 5 s. Find average speed in m/s.",
+    "options": [
+      {
+        "key": "A",
+        "text": "18 m/s"
+      },
+      {
+        "key": "B",
+        "text": "45 m/s"
+      },
+      {
+        "key": "C",
+        "text": "14 m/s"
+      },
+      {
+        "key": "D",
+        "text": "450 m/s"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Speed = distance/time = 90/5 = 18 m/s."
+  },
+  {
+    "id": "neco-physics-2024-065",
+    "exam": "NECO",
+    "subject": "Physics",
+    "year": 2024,
+    "topic": "Electricity",
+    "text": "The SI unit of resistance is:",
+    "options": [
+      {
+        "key": "A",
+        "text": "Ampere"
+      },
+      {
+        "key": "B",
+        "text": "Ohm"
+      },
+      {
+        "key": "C",
+        "text": "Volt"
+      },
+      {
+        "key": "D",
+        "text": "Watt"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Resistance is measured in ohms (Ω)."
+  },
+  {
+    "id": "neco-physics-2023-066",
+    "exam": "NECO",
+    "subject": "Physics",
+    "year": 2023,
+    "topic": "Waves",
+    "text": "A wave has frequency 30 Hz and wavelength 2 m. Find its speed.",
+    "options": [
+      {
+        "key": "A",
+        "text": "3 m/s"
+      },
+      {
+        "key": "B",
+        "text": "15 m/s"
+      },
+      {
+        "key": "C",
+        "text": "60 m/s"
+      },
+      {
+        "key": "D",
+        "text": "120 m/s"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "v = fλ = 30 × 2 = 60 m/s."
+  },
+  {
+    "id": "neco-physics-2022-067",
+    "exam": "NECO",
+    "subject": "Physics",
+    "year": 2022,
+    "topic": "Mechanics",
+    "text": "A body moves 40 m in 3 s. Find average speed in m/s.",
+    "options": [
+      {
+        "key": "A",
+        "text": "13.333333333333334 m/s"
+      },
+      {
+        "key": "B",
+        "text": "12 m/s"
+      },
+      {
+        "key": "C",
+        "text": "7 m/s"
+      },
+      {
+        "key": "D",
+        "text": "120 m/s"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Speed = distance/time = 40/3 = 13.333333333333334 m/s."
+  },
+  {
+    "id": "neco-physics-2021-068",
+    "exam": "NECO",
+    "subject": "Physics",
+    "year": 2021,
+    "topic": "Electricity",
+    "text": "The SI unit of resistance is:",
+    "options": [
+      {
+        "key": "A",
+        "text": "Ampere"
+      },
+      {
+        "key": "B",
+        "text": "Ohm"
+      },
+      {
+        "key": "C",
+        "text": "Volt"
+      },
+      {
+        "key": "D",
+        "text": "Watt"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Resistance is measured in ohms (Ω)."
+  },
+  {
+    "id": "neco-physics-2024-069",
+    "exam": "NECO",
+    "subject": "Physics",
+    "year": 2024,
+    "topic": "Waves",
+    "text": "A wave has frequency 60 Hz and wavelength 2 m. Find its speed.",
+    "options": [
+      {
+        "key": "A",
+        "text": "6 m/s"
+      },
+      {
+        "key": "B",
+        "text": "30 m/s"
+      },
+      {
+        "key": "C",
+        "text": "120 m/s"
+      },
+      {
+        "key": "D",
+        "text": "240 m/s"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "v = fλ = 60 × 2 = 120 m/s."
+  }
+]

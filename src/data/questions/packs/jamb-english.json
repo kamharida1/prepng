@@ -1,0 +1,1934 @@
+[
+  {
+    "id": "jamb-english-2024-001",
+    "exam": "JAMB",
+    "subject": "English",
+    "year": 2024,
+    "topic": "Lexis",
+    "text": "Choose the nearest in meaning to 'abundant':",
+    "options": [
+      {
+        "key": "A",
+        "text": "plentiful"
+      },
+      {
+        "key": "B",
+        "text": "scarce"
+      },
+      {
+        "key": "C",
+        "text": "unknown"
+      },
+      {
+        "key": "D",
+        "text": "temporary"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "'abundant' means plentiful."
+  },
+  {
+    "id": "jamb-english-2023-002",
+    "exam": "JAMB",
+    "subject": "English",
+    "year": 2023,
+    "topic": "Antonyms",
+    "text": "The opposite of 'diligent' is:",
+    "options": [
+      {
+        "key": "A",
+        "text": "hardworking"
+      },
+      {
+        "key": "B",
+        "text": "lazy"
+      },
+      {
+        "key": "C",
+        "text": "similar"
+      },
+      {
+        "key": "D",
+        "text": "equal"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "The antonym of 'diligent' is 'lazy'."
+  },
+  {
+    "id": "jamb-english-2022-003",
+    "exam": "JAMB",
+    "subject": "English",
+    "year": 2022,
+    "topic": "Grammar",
+    "text": "Choose the correct option: The team _____ ready for the JAMB exam.",
+    "options": [
+      {
+        "key": "A",
+        "text": "are"
+      },
+      {
+        "key": "B",
+        "text": "were"
+      },
+      {
+        "key": "C",
+        "text": "is"
+      },
+      {
+        "key": "D",
+        "text": "have"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "'Team' is a collective noun treated as singular here → 'is'."
+  },
+  {
+    "id": "jamb-english-2021-004",
+    "exam": "JAMB",
+    "subject": "English",
+    "year": 2021,
+    "topic": "Spelling",
+    "text": "Which word is correctly spelt?",
+    "options": [
+      {
+        "key": "A",
+        "text": "accomodation"
+      },
+      {
+        "key": "B",
+        "text": "occured"
+      },
+      {
+        "key": "C",
+        "text": "necessary"
+      },
+      {
+        "key": "D",
+        "text": "definately"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "The correct spelling is 'necessary'."
+  },
+  {
+    "id": "jamb-english-2024-005",
+    "exam": "JAMB",
+    "subject": "English",
+    "year": 2024,
+    "topic": "Lexis",
+    "text": "Choose the nearest in meaning to 'benevolent':",
+    "options": [
+      {
+        "key": "A",
+        "text": "kind"
+      },
+      {
+        "key": "B",
+        "text": "cruel"
+      },
+      {
+        "key": "C",
+        "text": "unknown"
+      },
+      {
+        "key": "D",
+        "text": "temporary"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "'benevolent' means kind."
+  },
+  {
+    "id": "jamb-english-2023-006",
+    "exam": "JAMB",
+    "subject": "English",
+    "year": 2023,
+    "topic": "Antonyms",
+    "text": "The opposite of 'abundant' is:",
+    "options": [
+      {
+        "key": "A",
+        "text": "plentiful"
+      },
+      {
+        "key": "B",
+        "text": "scarce"
+      },
+      {
+        "key": "C",
+        "text": "similar"
+      },
+      {
+        "key": "D",
+        "text": "equal"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "The antonym of 'abundant' is 'scarce'."
+  },
+  {
+    "id": "jamb-english-2022-007",
+    "exam": "JAMB",
+    "subject": "English",
+    "year": 2022,
+    "topic": "Grammar",
+    "text": "Choose the correct option: The team _____ ready for the JAMB exam.",
+    "options": [
+      {
+        "key": "A",
+        "text": "are"
+      },
+      {
+        "key": "B",
+        "text": "were"
+      },
+      {
+        "key": "C",
+        "text": "is"
+      },
+      {
+        "key": "D",
+        "text": "have"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "'Team' is a collective noun treated as singular here → 'is'."
+  },
+  {
+    "id": "jamb-english-2021-008",
+    "exam": "JAMB",
+    "subject": "English",
+    "year": 2021,
+    "topic": "Spelling",
+    "text": "Which word is correctly spelt?",
+    "options": [
+      {
+        "key": "A",
+        "text": "accomodation"
+      },
+      {
+        "key": "B",
+        "text": "occured"
+      },
+      {
+        "key": "C",
+        "text": "necessary"
+      },
+      {
+        "key": "D",
+        "text": "definately"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "The correct spelling is 'necessary'."
+  },
+  {
+    "id": "jamb-english-2024-009",
+    "exam": "JAMB",
+    "subject": "English",
+    "year": 2024,
+    "topic": "Lexis",
+    "text": "Choose the nearest in meaning to 'obsolete':",
+    "options": [
+      {
+        "key": "A",
+        "text": "outdated"
+      },
+      {
+        "key": "B",
+        "text": "modern"
+      },
+      {
+        "key": "C",
+        "text": "unknown"
+      },
+      {
+        "key": "D",
+        "text": "temporary"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "'obsolete' means outdated."
+  },
+  {
+    "id": "jamb-english-2023-010",
+    "exam": "JAMB",
+    "subject": "English",
+    "year": 2023,
+    "topic": "Antonyms",
+    "text": "The opposite of 'benevolent' is:",
+    "options": [
+      {
+        "key": "A",
+        "text": "kind"
+      },
+      {
+        "key": "B",
+        "text": "cruel"
+      },
+      {
+        "key": "C",
+        "text": "similar"
+      },
+      {
+        "key": "D",
+        "text": "equal"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "The antonym of 'benevolent' is 'cruel'."
+  },
+  {
+    "id": "jamb-english-2022-011",
+    "exam": "JAMB",
+    "subject": "English",
+    "year": 2022,
+    "topic": "Grammar",
+    "text": "Choose the correct option: The team _____ ready for the JAMB exam.",
+    "options": [
+      {
+        "key": "A",
+        "text": "are"
+      },
+      {
+        "key": "B",
+        "text": "were"
+      },
+      {
+        "key": "C",
+        "text": "is"
+      },
+      {
+        "key": "D",
+        "text": "have"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "'Team' is a collective noun treated as singular here → 'is'."
+  },
+  {
+    "id": "jamb-english-2021-012",
+    "exam": "JAMB",
+    "subject": "English",
+    "year": 2021,
+    "topic": "Spelling",
+    "text": "Which word is correctly spelt?",
+    "options": [
+      {
+        "key": "A",
+        "text": "accomodation"
+      },
+      {
+        "key": "B",
+        "text": "occured"
+      },
+      {
+        "key": "C",
+        "text": "necessary"
+      },
+      {
+        "key": "D",
+        "text": "definately"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "The correct spelling is 'necessary'."
+  },
+  {
+    "id": "jamb-english-2024-013",
+    "exam": "JAMB",
+    "subject": "English",
+    "year": 2024,
+    "topic": "Lexis",
+    "text": "Choose the nearest in meaning to 'fragile':",
+    "options": [
+      {
+        "key": "A",
+        "text": "delicate"
+      },
+      {
+        "key": "B",
+        "text": "strong"
+      },
+      {
+        "key": "C",
+        "text": "unknown"
+      },
+      {
+        "key": "D",
+        "text": "temporary"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "'fragile' means delicate."
+  },
+  {
+    "id": "jamb-english-2023-014",
+    "exam": "JAMB",
+    "subject": "English",
+    "year": 2023,
+    "topic": "Antonyms",
+    "text": "The opposite of 'obsolete' is:",
+    "options": [
+      {
+        "key": "A",
+        "text": "outdated"
+      },
+      {
+        "key": "B",
+        "text": "modern"
+      },
+      {
+        "key": "C",
+        "text": "similar"
+      },
+      {
+        "key": "D",
+        "text": "equal"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "The antonym of 'obsolete' is 'modern'."
+  },
+  {
+    "id": "jamb-english-2022-015",
+    "exam": "JAMB",
+    "subject": "English",
+    "year": 2022,
+    "topic": "Grammar",
+    "text": "Choose the correct option: The team _____ ready for the JAMB exam.",
+    "options": [
+      {
+        "key": "A",
+        "text": "are"
+      },
+      {
+        "key": "B",
+        "text": "were"
+      },
+      {
+        "key": "C",
+        "text": "is"
+      },
+      {
+        "key": "D",
+        "text": "have"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "'Team' is a collective noun treated as singular here → 'is'."
+  },
+  {
+    "id": "jamb-english-2021-016",
+    "exam": "JAMB",
+    "subject": "English",
+    "year": 2021,
+    "topic": "Spelling",
+    "text": "Which word is correctly spelt?",
+    "options": [
+      {
+        "key": "A",
+        "text": "accomodation"
+      },
+      {
+        "key": "B",
+        "text": "occured"
+      },
+      {
+        "key": "C",
+        "text": "necessary"
+      },
+      {
+        "key": "D",
+        "text": "definately"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "The correct spelling is 'necessary'."
+  },
+  {
+    "id": "jamb-english-2024-017",
+    "exam": "JAMB",
+    "subject": "English",
+    "year": 2024,
+    "topic": "Lexis",
+    "text": "Choose the nearest in meaning to 'diligent':",
+    "options": [
+      {
+        "key": "A",
+        "text": "hardworking"
+      },
+      {
+        "key": "B",
+        "text": "lazy"
+      },
+      {
+        "key": "C",
+        "text": "unknown"
+      },
+      {
+        "key": "D",
+        "text": "temporary"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "'diligent' means hardworking."
+  },
+  {
+    "id": "jamb-english-2023-018",
+    "exam": "JAMB",
+    "subject": "English",
+    "year": 2023,
+    "topic": "Antonyms",
+    "text": "The opposite of 'fragile' is:",
+    "options": [
+      {
+        "key": "A",
+        "text": "delicate"
+      },
+      {
+        "key": "B",
+        "text": "strong"
+      },
+      {
+        "key": "C",
+        "text": "similar"
+      },
+      {
+        "key": "D",
+        "text": "equal"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "The antonym of 'fragile' is 'strong'."
+  },
+  {
+    "id": "jamb-english-2022-019",
+    "exam": "JAMB",
+    "subject": "English",
+    "year": 2022,
+    "topic": "Grammar",
+    "text": "Choose the correct option: The team _____ ready for the JAMB exam.",
+    "options": [
+      {
+        "key": "A",
+        "text": "are"
+      },
+      {
+        "key": "B",
+        "text": "were"
+      },
+      {
+        "key": "C",
+        "text": "is"
+      },
+      {
+        "key": "D",
+        "text": "have"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "'Team' is a collective noun treated as singular here → 'is'."
+  },
+  {
+    "id": "jamb-english-2021-020",
+    "exam": "JAMB",
+    "subject": "English",
+    "year": 2021,
+    "topic": "Spelling",
+    "text": "Which word is correctly spelt?",
+    "options": [
+      {
+        "key": "A",
+        "text": "accomodation"
+      },
+      {
+        "key": "B",
+        "text": "occured"
+      },
+      {
+        "key": "C",
+        "text": "necessary"
+      },
+      {
+        "key": "D",
+        "text": "definately"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "The correct spelling is 'necessary'."
+  },
+  {
+    "id": "jamb-english-2024-021",
+    "exam": "JAMB",
+    "subject": "English",
+    "year": 2024,
+    "topic": "Lexis",
+    "text": "Choose the nearest in meaning to 'abundant':",
+    "options": [
+      {
+        "key": "A",
+        "text": "plentiful"
+      },
+      {
+        "key": "B",
+        "text": "scarce"
+      },
+      {
+        "key": "C",
+        "text": "unknown"
+      },
+      {
+        "key": "D",
+        "text": "temporary"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "'abundant' means plentiful."
+  },
+  {
+    "id": "jamb-english-2023-022",
+    "exam": "JAMB",
+    "subject": "English",
+    "year": 2023,
+    "topic": "Antonyms",
+    "text": "The opposite of 'diligent' is:",
+    "options": [
+      {
+        "key": "A",
+        "text": "hardworking"
+      },
+      {
+        "key": "B",
+        "text": "lazy"
+      },
+      {
+        "key": "C",
+        "text": "similar"
+      },
+      {
+        "key": "D",
+        "text": "equal"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "The antonym of 'diligent' is 'lazy'."
+  },
+  {
+    "id": "jamb-english-2022-023",
+    "exam": "JAMB",
+    "subject": "English",
+    "year": 2022,
+    "topic": "Grammar",
+    "text": "Choose the correct option: The team _____ ready for the JAMB exam.",
+    "options": [
+      {
+        "key": "A",
+        "text": "are"
+      },
+      {
+        "key": "B",
+        "text": "were"
+      },
+      {
+        "key": "C",
+        "text": "is"
+      },
+      {
+        "key": "D",
+        "text": "have"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "'Team' is a collective noun treated as singular here → 'is'."
+  },
+  {
+    "id": "jamb-english-2021-024",
+    "exam": "JAMB",
+    "subject": "English",
+    "year": 2021,
+    "topic": "Spelling",
+    "text": "Which word is correctly spelt?",
+    "options": [
+      {
+        "key": "A",
+        "text": "accomodation"
+      },
+      {
+        "key": "B",
+        "text": "occured"
+      },
+      {
+        "key": "C",
+        "text": "necessary"
+      },
+      {
+        "key": "D",
+        "text": "definately"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "The correct spelling is 'necessary'."
+  },
+  {
+    "id": "jamb-english-2024-025",
+    "exam": "JAMB",
+    "subject": "English",
+    "year": 2024,
+    "topic": "Lexis",
+    "text": "Choose the nearest in meaning to 'benevolent':",
+    "options": [
+      {
+        "key": "A",
+        "text": "kind"
+      },
+      {
+        "key": "B",
+        "text": "cruel"
+      },
+      {
+        "key": "C",
+        "text": "unknown"
+      },
+      {
+        "key": "D",
+        "text": "temporary"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "'benevolent' means kind."
+  },
+  {
+    "id": "jamb-english-2023-026",
+    "exam": "JAMB",
+    "subject": "English",
+    "year": 2023,
+    "topic": "Antonyms",
+    "text": "The opposite of 'abundant' is:",
+    "options": [
+      {
+        "key": "A",
+        "text": "plentiful"
+      },
+      {
+        "key": "B",
+        "text": "scarce"
+      },
+      {
+        "key": "C",
+        "text": "similar"
+      },
+      {
+        "key": "D",
+        "text": "equal"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "The antonym of 'abundant' is 'scarce'."
+  },
+  {
+    "id": "jamb-english-2022-027",
+    "exam": "JAMB",
+    "subject": "English",
+    "year": 2022,
+    "topic": "Grammar",
+    "text": "Choose the correct option: The team _____ ready for the JAMB exam.",
+    "options": [
+      {
+        "key": "A",
+        "text": "are"
+      },
+      {
+        "key": "B",
+        "text": "were"
+      },
+      {
+        "key": "C",
+        "text": "is"
+      },
+      {
+        "key": "D",
+        "text": "have"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "'Team' is a collective noun treated as singular here → 'is'."
+  },
+  {
+    "id": "jamb-english-2021-028",
+    "exam": "JAMB",
+    "subject": "English",
+    "year": 2021,
+    "topic": "Spelling",
+    "text": "Which word is correctly spelt?",
+    "options": [
+      {
+        "key": "A",
+        "text": "accomodation"
+      },
+      {
+        "key": "B",
+        "text": "occured"
+      },
+      {
+        "key": "C",
+        "text": "necessary"
+      },
+      {
+        "key": "D",
+        "text": "definately"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "The correct spelling is 'necessary'."
+  },
+  {
+    "id": "jamb-english-2024-029",
+    "exam": "JAMB",
+    "subject": "English",
+    "year": 2024,
+    "topic": "Lexis",
+    "text": "Choose the nearest in meaning to 'obsolete':",
+    "options": [
+      {
+        "key": "A",
+        "text": "outdated"
+      },
+      {
+        "key": "B",
+        "text": "modern"
+      },
+      {
+        "key": "C",
+        "text": "unknown"
+      },
+      {
+        "key": "D",
+        "text": "temporary"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "'obsolete' means outdated."
+  },
+  {
+    "id": "jamb-english-2023-030",
+    "exam": "JAMB",
+    "subject": "English",
+    "year": 2023,
+    "topic": "Antonyms",
+    "text": "The opposite of 'benevolent' is:",
+    "options": [
+      {
+        "key": "A",
+        "text": "kind"
+      },
+      {
+        "key": "B",
+        "text": "cruel"
+      },
+      {
+        "key": "C",
+        "text": "similar"
+      },
+      {
+        "key": "D",
+        "text": "equal"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "The antonym of 'benevolent' is 'cruel'."
+  },
+  {
+    "id": "jamb-english-2022-031",
+    "exam": "JAMB",
+    "subject": "English",
+    "year": 2022,
+    "topic": "Grammar",
+    "text": "Choose the correct option: The team _____ ready for the JAMB exam.",
+    "options": [
+      {
+        "key": "A",
+        "text": "are"
+      },
+      {
+        "key": "B",
+        "text": "were"
+      },
+      {
+        "key": "C",
+        "text": "is"
+      },
+      {
+        "key": "D",
+        "text": "have"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "'Team' is a collective noun treated as singular here → 'is'."
+  },
+  {
+    "id": "jamb-english-2021-032",
+    "exam": "JAMB",
+    "subject": "English",
+    "year": 2021,
+    "topic": "Spelling",
+    "text": "Which word is correctly spelt?",
+    "options": [
+      {
+        "key": "A",
+        "text": "accomodation"
+      },
+      {
+        "key": "B",
+        "text": "occured"
+      },
+      {
+        "key": "C",
+        "text": "necessary"
+      },
+      {
+        "key": "D",
+        "text": "definately"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "The correct spelling is 'necessary'."
+  },
+  {
+    "id": "jamb-english-2024-033",
+    "exam": "JAMB",
+    "subject": "English",
+    "year": 2024,
+    "topic": "Lexis",
+    "text": "Choose the nearest in meaning to 'fragile':",
+    "options": [
+      {
+        "key": "A",
+        "text": "delicate"
+      },
+      {
+        "key": "B",
+        "text": "strong"
+      },
+      {
+        "key": "C",
+        "text": "unknown"
+      },
+      {
+        "key": "D",
+        "text": "temporary"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "'fragile' means delicate."
+  },
+  {
+    "id": "jamb-english-2023-034",
+    "exam": "JAMB",
+    "subject": "English",
+    "year": 2023,
+    "topic": "Antonyms",
+    "text": "The opposite of 'obsolete' is:",
+    "options": [
+      {
+        "key": "A",
+        "text": "outdated"
+      },
+      {
+        "key": "B",
+        "text": "modern"
+      },
+      {
+        "key": "C",
+        "text": "similar"
+      },
+      {
+        "key": "D",
+        "text": "equal"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "The antonym of 'obsolete' is 'modern'."
+  },
+  {
+    "id": "jamb-english-2022-035",
+    "exam": "JAMB",
+    "subject": "English",
+    "year": 2022,
+    "topic": "Grammar",
+    "text": "Choose the correct option: The team _____ ready for the JAMB exam.",
+    "options": [
+      {
+        "key": "A",
+        "text": "are"
+      },
+      {
+        "key": "B",
+        "text": "were"
+      },
+      {
+        "key": "C",
+        "text": "is"
+      },
+      {
+        "key": "D",
+        "text": "have"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "'Team' is a collective noun treated as singular here → 'is'."
+  },
+  {
+    "id": "jamb-english-2021-036",
+    "exam": "JAMB",
+    "subject": "English",
+    "year": 2021,
+    "topic": "Spelling",
+    "text": "Which word is correctly spelt?",
+    "options": [
+      {
+        "key": "A",
+        "text": "accomodation"
+      },
+      {
+        "key": "B",
+        "text": "occured"
+      },
+      {
+        "key": "C",
+        "text": "necessary"
+      },
+      {
+        "key": "D",
+        "text": "definately"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "The correct spelling is 'necessary'."
+  },
+  {
+    "id": "jamb-english-2024-037",
+    "exam": "JAMB",
+    "subject": "English",
+    "year": 2024,
+    "topic": "Lexis",
+    "text": "Choose the nearest in meaning to 'diligent':",
+    "options": [
+      {
+        "key": "A",
+        "text": "hardworking"
+      },
+      {
+        "key": "B",
+        "text": "lazy"
+      },
+      {
+        "key": "C",
+        "text": "unknown"
+      },
+      {
+        "key": "D",
+        "text": "temporary"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "'diligent' means hardworking."
+  },
+  {
+    "id": "jamb-english-2023-038",
+    "exam": "JAMB",
+    "subject": "English",
+    "year": 2023,
+    "topic": "Antonyms",
+    "text": "The opposite of 'fragile' is:",
+    "options": [
+      {
+        "key": "A",
+        "text": "delicate"
+      },
+      {
+        "key": "B",
+        "text": "strong"
+      },
+      {
+        "key": "C",
+        "text": "similar"
+      },
+      {
+        "key": "D",
+        "text": "equal"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "The antonym of 'fragile' is 'strong'."
+  },
+  {
+    "id": "jamb-english-2022-039",
+    "exam": "JAMB",
+    "subject": "English",
+    "year": 2022,
+    "topic": "Grammar",
+    "text": "Choose the correct option: The team _____ ready for the JAMB exam.",
+    "options": [
+      {
+        "key": "A",
+        "text": "are"
+      },
+      {
+        "key": "B",
+        "text": "were"
+      },
+      {
+        "key": "C",
+        "text": "is"
+      },
+      {
+        "key": "D",
+        "text": "have"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "'Team' is a collective noun treated as singular here → 'is'."
+  },
+  {
+    "id": "jamb-english-2021-040",
+    "exam": "JAMB",
+    "subject": "English",
+    "year": 2021,
+    "topic": "Spelling",
+    "text": "Which word is correctly spelt?",
+    "options": [
+      {
+        "key": "A",
+        "text": "accomodation"
+      },
+      {
+        "key": "B",
+        "text": "occured"
+      },
+      {
+        "key": "C",
+        "text": "necessary"
+      },
+      {
+        "key": "D",
+        "text": "definately"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "The correct spelling is 'necessary'."
+  },
+  {
+    "id": "jamb-english-2024-041",
+    "exam": "JAMB",
+    "subject": "English",
+    "year": 2024,
+    "topic": "Lexis",
+    "text": "Choose the nearest in meaning to 'abundant':",
+    "options": [
+      {
+        "key": "A",
+        "text": "plentiful"
+      },
+      {
+        "key": "B",
+        "text": "scarce"
+      },
+      {
+        "key": "C",
+        "text": "unknown"
+      },
+      {
+        "key": "D",
+        "text": "temporary"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "'abundant' means plentiful."
+  },
+  {
+    "id": "jamb-english-2023-042",
+    "exam": "JAMB",
+    "subject": "English",
+    "year": 2023,
+    "topic": "Antonyms",
+    "text": "The opposite of 'diligent' is:",
+    "options": [
+      {
+        "key": "A",
+        "text": "hardworking"
+      },
+      {
+        "key": "B",
+        "text": "lazy"
+      },
+      {
+        "key": "C",
+        "text": "similar"
+      },
+      {
+        "key": "D",
+        "text": "equal"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "The antonym of 'diligent' is 'lazy'."
+  },
+  {
+    "id": "jamb-english-2022-043",
+    "exam": "JAMB",
+    "subject": "English",
+    "year": 2022,
+    "topic": "Grammar",
+    "text": "Choose the correct option: The team _____ ready for the JAMB exam.",
+    "options": [
+      {
+        "key": "A",
+        "text": "are"
+      },
+      {
+        "key": "B",
+        "text": "were"
+      },
+      {
+        "key": "C",
+        "text": "is"
+      },
+      {
+        "key": "D",
+        "text": "have"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "'Team' is a collective noun treated as singular here → 'is'."
+  },
+  {
+    "id": "jamb-english-2021-044",
+    "exam": "JAMB",
+    "subject": "English",
+    "year": 2021,
+    "topic": "Spelling",
+    "text": "Which word is correctly spelt?",
+    "options": [
+      {
+        "key": "A",
+        "text": "accomodation"
+      },
+      {
+        "key": "B",
+        "text": "occured"
+      },
+      {
+        "key": "C",
+        "text": "necessary"
+      },
+      {
+        "key": "D",
+        "text": "definately"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "The correct spelling is 'necessary'."
+  },
+  {
+    "id": "jamb-english-2024-045",
+    "exam": "JAMB",
+    "subject": "English",
+    "year": 2024,
+    "topic": "Lexis",
+    "text": "Choose the nearest in meaning to 'benevolent':",
+    "options": [
+      {
+        "key": "A",
+        "text": "kind"
+      },
+      {
+        "key": "B",
+        "text": "cruel"
+      },
+      {
+        "key": "C",
+        "text": "unknown"
+      },
+      {
+        "key": "D",
+        "text": "temporary"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "'benevolent' means kind."
+  },
+  {
+    "id": "jamb-english-2023-046",
+    "exam": "JAMB",
+    "subject": "English",
+    "year": 2023,
+    "topic": "Antonyms",
+    "text": "The opposite of 'abundant' is:",
+    "options": [
+      {
+        "key": "A",
+        "text": "plentiful"
+      },
+      {
+        "key": "B",
+        "text": "scarce"
+      },
+      {
+        "key": "C",
+        "text": "similar"
+      },
+      {
+        "key": "D",
+        "text": "equal"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "The antonym of 'abundant' is 'scarce'."
+  },
+  {
+    "id": "jamb-english-2022-047",
+    "exam": "JAMB",
+    "subject": "English",
+    "year": 2022,
+    "topic": "Grammar",
+    "text": "Choose the correct option: The team _____ ready for the JAMB exam.",
+    "options": [
+      {
+        "key": "A",
+        "text": "are"
+      },
+      {
+        "key": "B",
+        "text": "were"
+      },
+      {
+        "key": "C",
+        "text": "is"
+      },
+      {
+        "key": "D",
+        "text": "have"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "'Team' is a collective noun treated as singular here → 'is'."
+  },
+  {
+    "id": "jamb-english-2021-048",
+    "exam": "JAMB",
+    "subject": "English",
+    "year": 2021,
+    "topic": "Spelling",
+    "text": "Which word is correctly spelt?",
+    "options": [
+      {
+        "key": "A",
+        "text": "accomodation"
+      },
+      {
+        "key": "B",
+        "text": "occured"
+      },
+      {
+        "key": "C",
+        "text": "necessary"
+      },
+      {
+        "key": "D",
+        "text": "definately"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "The correct spelling is 'necessary'."
+  },
+  {
+    "id": "jamb-english-2024-049",
+    "exam": "JAMB",
+    "subject": "English",
+    "year": 2024,
+    "topic": "Lexis",
+    "text": "Choose the nearest in meaning to 'obsolete':",
+    "options": [
+      {
+        "key": "A",
+        "text": "outdated"
+      },
+      {
+        "key": "B",
+        "text": "modern"
+      },
+      {
+        "key": "C",
+        "text": "unknown"
+      },
+      {
+        "key": "D",
+        "text": "temporary"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "'obsolete' means outdated."
+  },
+  {
+    "id": "jamb-english-2023-050",
+    "exam": "JAMB",
+    "subject": "English",
+    "year": 2023,
+    "topic": "Antonyms",
+    "text": "The opposite of 'benevolent' is:",
+    "options": [
+      {
+        "key": "A",
+        "text": "kind"
+      },
+      {
+        "key": "B",
+        "text": "cruel"
+      },
+      {
+        "key": "C",
+        "text": "similar"
+      },
+      {
+        "key": "D",
+        "text": "equal"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "The antonym of 'benevolent' is 'cruel'."
+  },
+  {
+    "id": "jamb-english-2022-051",
+    "exam": "JAMB",
+    "subject": "English",
+    "year": 2022,
+    "topic": "Grammar",
+    "text": "Choose the correct option: The team _____ ready for the JAMB exam.",
+    "options": [
+      {
+        "key": "A",
+        "text": "are"
+      },
+      {
+        "key": "B",
+        "text": "were"
+      },
+      {
+        "key": "C",
+        "text": "is"
+      },
+      {
+        "key": "D",
+        "text": "have"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "'Team' is a collective noun treated as singular here → 'is'."
+  },
+  {
+    "id": "jamb-english-2021-052",
+    "exam": "JAMB",
+    "subject": "English",
+    "year": 2021,
+    "topic": "Spelling",
+    "text": "Which word is correctly spelt?",
+    "options": [
+      {
+        "key": "A",
+        "text": "accomodation"
+      },
+      {
+        "key": "B",
+        "text": "occured"
+      },
+      {
+        "key": "C",
+        "text": "necessary"
+      },
+      {
+        "key": "D",
+        "text": "definately"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "The correct spelling is 'necessary'."
+  },
+  {
+    "id": "jamb-english-2024-053",
+    "exam": "JAMB",
+    "subject": "English",
+    "year": 2024,
+    "topic": "Lexis",
+    "text": "Choose the nearest in meaning to 'fragile':",
+    "options": [
+      {
+        "key": "A",
+        "text": "delicate"
+      },
+      {
+        "key": "B",
+        "text": "strong"
+      },
+      {
+        "key": "C",
+        "text": "unknown"
+      },
+      {
+        "key": "D",
+        "text": "temporary"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "'fragile' means delicate."
+  },
+  {
+    "id": "jamb-english-2023-054",
+    "exam": "JAMB",
+    "subject": "English",
+    "year": 2023,
+    "topic": "Antonyms",
+    "text": "The opposite of 'obsolete' is:",
+    "options": [
+      {
+        "key": "A",
+        "text": "outdated"
+      },
+      {
+        "key": "B",
+        "text": "modern"
+      },
+      {
+        "key": "C",
+        "text": "similar"
+      },
+      {
+        "key": "D",
+        "text": "equal"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "The antonym of 'obsolete' is 'modern'."
+  },
+  {
+    "id": "jamb-english-2022-055",
+    "exam": "JAMB",
+    "subject": "English",
+    "year": 2022,
+    "topic": "Grammar",
+    "text": "Choose the correct option: The team _____ ready for the JAMB exam.",
+    "options": [
+      {
+        "key": "A",
+        "text": "are"
+      },
+      {
+        "key": "B",
+        "text": "were"
+      },
+      {
+        "key": "C",
+        "text": "is"
+      },
+      {
+        "key": "D",
+        "text": "have"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "'Team' is a collective noun treated as singular here → 'is'."
+  },
+  {
+    "id": "jamb-english-2021-056",
+    "exam": "JAMB",
+    "subject": "English",
+    "year": 2021,
+    "topic": "Spelling",
+    "text": "Which word is correctly spelt?",
+    "options": [
+      {
+        "key": "A",
+        "text": "accomodation"
+      },
+      {
+        "key": "B",
+        "text": "occured"
+      },
+      {
+        "key": "C",
+        "text": "necessary"
+      },
+      {
+        "key": "D",
+        "text": "definately"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "The correct spelling is 'necessary'."
+  },
+  {
+    "id": "jamb-english-2024-057",
+    "exam": "JAMB",
+    "subject": "English",
+    "year": 2024,
+    "topic": "Lexis",
+    "text": "Choose the nearest in meaning to 'diligent':",
+    "options": [
+      {
+        "key": "A",
+        "text": "hardworking"
+      },
+      {
+        "key": "B",
+        "text": "lazy"
+      },
+      {
+        "key": "C",
+        "text": "unknown"
+      },
+      {
+        "key": "D",
+        "text": "temporary"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "'diligent' means hardworking."
+  },
+  {
+    "id": "jamb-english-2023-058",
+    "exam": "JAMB",
+    "subject": "English",
+    "year": 2023,
+    "topic": "Antonyms",
+    "text": "The opposite of 'fragile' is:",
+    "options": [
+      {
+        "key": "A",
+        "text": "delicate"
+      },
+      {
+        "key": "B",
+        "text": "strong"
+      },
+      {
+        "key": "C",
+        "text": "similar"
+      },
+      {
+        "key": "D",
+        "text": "equal"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "The antonym of 'fragile' is 'strong'."
+  },
+  {
+    "id": "jamb-english-2022-059",
+    "exam": "JAMB",
+    "subject": "English",
+    "year": 2022,
+    "topic": "Grammar",
+    "text": "Choose the correct option: The team _____ ready for the JAMB exam.",
+    "options": [
+      {
+        "key": "A",
+        "text": "are"
+      },
+      {
+        "key": "B",
+        "text": "were"
+      },
+      {
+        "key": "C",
+        "text": "is"
+      },
+      {
+        "key": "D",
+        "text": "have"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "'Team' is a collective noun treated as singular here → 'is'."
+  },
+  {
+    "id": "jamb-english-2021-060",
+    "exam": "JAMB",
+    "subject": "English",
+    "year": 2021,
+    "topic": "Spelling",
+    "text": "Which word is correctly spelt?",
+    "options": [
+      {
+        "key": "A",
+        "text": "accomodation"
+      },
+      {
+        "key": "B",
+        "text": "occured"
+      },
+      {
+        "key": "C",
+        "text": "necessary"
+      },
+      {
+        "key": "D",
+        "text": "definately"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "The correct spelling is 'necessary'."
+  },
+  {
+    "id": "jamb-english-2024-061",
+    "exam": "JAMB",
+    "subject": "English",
+    "year": 2024,
+    "topic": "Lexis",
+    "text": "Choose the nearest in meaning to 'abundant':",
+    "options": [
+      {
+        "key": "A",
+        "text": "plentiful"
+      },
+      {
+        "key": "B",
+        "text": "scarce"
+      },
+      {
+        "key": "C",
+        "text": "unknown"
+      },
+      {
+        "key": "D",
+        "text": "temporary"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "'abundant' means plentiful."
+  },
+  {
+    "id": "jamb-english-2023-062",
+    "exam": "JAMB",
+    "subject": "English",
+    "year": 2023,
+    "topic": "Antonyms",
+    "text": "The opposite of 'diligent' is:",
+    "options": [
+      {
+        "key": "A",
+        "text": "hardworking"
+      },
+      {
+        "key": "B",
+        "text": "lazy"
+      },
+      {
+        "key": "C",
+        "text": "similar"
+      },
+      {
+        "key": "D",
+        "text": "equal"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "The antonym of 'diligent' is 'lazy'."
+  },
+  {
+    "id": "jamb-english-2022-063",
+    "exam": "JAMB",
+    "subject": "English",
+    "year": 2022,
+    "topic": "Grammar",
+    "text": "Choose the correct option: The team _____ ready for the JAMB exam.",
+    "options": [
+      {
+        "key": "A",
+        "text": "are"
+      },
+      {
+        "key": "B",
+        "text": "were"
+      },
+      {
+        "key": "C",
+        "text": "is"
+      },
+      {
+        "key": "D",
+        "text": "have"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "'Team' is a collective noun treated as singular here → 'is'."
+  },
+  {
+    "id": "jamb-english-2021-064",
+    "exam": "JAMB",
+    "subject": "English",
+    "year": 2021,
+    "topic": "Spelling",
+    "text": "Which word is correctly spelt?",
+    "options": [
+      {
+        "key": "A",
+        "text": "accomodation"
+      },
+      {
+        "key": "B",
+        "text": "occured"
+      },
+      {
+        "key": "C",
+        "text": "necessary"
+      },
+      {
+        "key": "D",
+        "text": "definately"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "The correct spelling is 'necessary'."
+  },
+  {
+    "id": "jamb-english-2024-065",
+    "exam": "JAMB",
+    "subject": "English",
+    "year": 2024,
+    "topic": "Lexis",
+    "text": "Choose the nearest in meaning to 'benevolent':",
+    "options": [
+      {
+        "key": "A",
+        "text": "kind"
+      },
+      {
+        "key": "B",
+        "text": "cruel"
+      },
+      {
+        "key": "C",
+        "text": "unknown"
+      },
+      {
+        "key": "D",
+        "text": "temporary"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "'benevolent' means kind."
+  },
+  {
+    "id": "jamb-english-2023-066",
+    "exam": "JAMB",
+    "subject": "English",
+    "year": 2023,
+    "topic": "Antonyms",
+    "text": "The opposite of 'abundant' is:",
+    "options": [
+      {
+        "key": "A",
+        "text": "plentiful"
+      },
+      {
+        "key": "B",
+        "text": "scarce"
+      },
+      {
+        "key": "C",
+        "text": "similar"
+      },
+      {
+        "key": "D",
+        "text": "equal"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "The antonym of 'abundant' is 'scarce'."
+  },
+  {
+    "id": "jamb-english-2022-067",
+    "exam": "JAMB",
+    "subject": "English",
+    "year": 2022,
+    "topic": "Grammar",
+    "text": "Choose the correct option: The team _____ ready for the JAMB exam.",
+    "options": [
+      {
+        "key": "A",
+        "text": "are"
+      },
+      {
+        "key": "B",
+        "text": "were"
+      },
+      {
+        "key": "C",
+        "text": "is"
+      },
+      {
+        "key": "D",
+        "text": "have"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "'Team' is a collective noun treated as singular here → 'is'."
+  },
+  {
+    "id": "jamb-english-2021-068",
+    "exam": "JAMB",
+    "subject": "English",
+    "year": 2021,
+    "topic": "Spelling",
+    "text": "Which word is correctly spelt?",
+    "options": [
+      {
+        "key": "A",
+        "text": "accomodation"
+      },
+      {
+        "key": "B",
+        "text": "occured"
+      },
+      {
+        "key": "C",
+        "text": "necessary"
+      },
+      {
+        "key": "D",
+        "text": "definately"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "The correct spelling is 'necessary'."
+  },
+  {
+    "id": "jamb-english-2024-069",
+    "exam": "JAMB",
+    "subject": "English",
+    "year": 2024,
+    "topic": "Lexis",
+    "text": "Choose the nearest in meaning to 'obsolete':",
+    "options": [
+      {
+        "key": "A",
+        "text": "outdated"
+      },
+      {
+        "key": "B",
+        "text": "modern"
+      },
+      {
+        "key": "C",
+        "text": "unknown"
+      },
+      {
+        "key": "D",
+        "text": "temporary"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "'obsolete' means outdated."
+  }
+]

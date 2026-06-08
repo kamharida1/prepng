@@ -1,0 +1,1934 @@
+[
+  {
+    "id": "neco-mathematics-2024-001",
+    "exam": "NECO",
+    "subject": "Mathematics",
+    "year": 2024,
+    "topic": "Algebra",
+    "text": "If 2x + 3 = 11, find x.",
+    "options": [
+      {
+        "key": "A",
+        "text": "1"
+      },
+      {
+        "key": "B",
+        "text": "4"
+      },
+      {
+        "key": "C",
+        "text": "6"
+      },
+      {
+        "key": "D",
+        "text": "9"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Subtract 3: 2x = 8. Divide by 2: x = 4."
+  },
+  {
+    "id": "neco-mathematics-2023-002",
+    "exam": "NECO",
+    "subject": "Mathematics",
+    "year": 2023,
+    "topic": "Arithmetic",
+    "text": "What is 3% of 120?",
+    "options": [
+      {
+        "key": "A",
+        "text": "12"
+      },
+      {
+        "key": "B",
+        "text": "60"
+      },
+      {
+        "key": "C",
+        "text": "3.6"
+      },
+      {
+        "key": "D",
+        "text": "24"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "3% of 120 = (3/100) × 120 = 3.6."
+  },
+  {
+    "id": "neco-mathematics-2022-003",
+    "exam": "NECO",
+    "subject": "Mathematics",
+    "year": 2022,
+    "topic": "Ratio",
+    "text": "Divide ₦15000 in the ratio 4:5:6. What is the largest share?",
+    "options": [
+      {
+        "key": "A",
+        "text": "₦4000"
+      },
+      {
+        "key": "B",
+        "text": "₦5000"
+      },
+      {
+        "key": "C",
+        "text": "₦6000"
+      },
+      {
+        "key": "D",
+        "text": "₦6000"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Largest ratio part is 6. Share = 6/15 × ₦15000."
+  },
+  {
+    "id": "neco-mathematics-2021-004",
+    "exam": "NECO",
+    "subject": "Mathematics",
+    "year": 2021,
+    "topic": "Geometry",
+    "text": "A rectangle has length 8 cm and width 6 cm. Find its area.",
+    "options": [
+      {
+        "key": "A",
+        "text": "48 cm²"
+      },
+      {
+        "key": "B",
+        "text": "14 cm²"
+      },
+      {
+        "key": "C",
+        "text": "28 cm²"
+      },
+      {
+        "key": "D",
+        "text": "14 cm²"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Area = length × width = 8 × 6 = 48 cm²."
+  },
+  {
+    "id": "neco-mathematics-2024-005",
+    "exam": "NECO",
+    "subject": "Mathematics",
+    "year": 2024,
+    "topic": "Angles",
+    "text": "Find the sum of interior angles of a 9-sided polygon.",
+    "options": [
+      {
+        "key": "A",
+        "text": "1080°"
+      },
+      {
+        "key": "B",
+        "text": "1260°"
+      },
+      {
+        "key": "C",
+        "text": "1620°"
+      },
+      {
+        "key": "D",
+        "text": "1980°"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Sum = (n − 2) × 180° = (9 − 2) × 180° = 1260°."
+  },
+  {
+    "id": "neco-mathematics-2023-006",
+    "exam": "NECO",
+    "subject": "Mathematics",
+    "year": 2023,
+    "topic": "Algebra",
+    "text": "If 7x + 8 = 71, find x.",
+    "options": [
+      {
+        "key": "A",
+        "text": "1"
+      },
+      {
+        "key": "B",
+        "text": "9"
+      },
+      {
+        "key": "C",
+        "text": "11"
+      },
+      {
+        "key": "D",
+        "text": "14"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Subtract 8: 7x = 63. Divide by 7: x = 9."
+  },
+  {
+    "id": "neco-mathematics-2022-007",
+    "exam": "NECO",
+    "subject": "Mathematics",
+    "year": 2022,
+    "topic": "Arithmetic",
+    "text": "What is 8% of 720?",
+    "options": [
+      {
+        "key": "A",
+        "text": "72"
+      },
+      {
+        "key": "B",
+        "text": "360"
+      },
+      {
+        "key": "C",
+        "text": "57.6"
+      },
+      {
+        "key": "D",
+        "text": "144"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "8% of 720 = (8/100) × 720 = 57.6."
+  },
+  {
+    "id": "neco-mathematics-2021-008",
+    "exam": "NECO",
+    "subject": "Mathematics",
+    "year": 2021,
+    "topic": "Ratio",
+    "text": "Divide ₦15000 in the ratio 4:6:5. What is the largest share?",
+    "options": [
+      {
+        "key": "A",
+        "text": "₦4000"
+      },
+      {
+        "key": "B",
+        "text": "₦6000"
+      },
+      {
+        "key": "C",
+        "text": "₦5000"
+      },
+      {
+        "key": "D",
+        "text": "₦5000"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Largest ratio part is 5. Share = 5/15 × ₦15000."
+  },
+  {
+    "id": "neco-mathematics-2024-009",
+    "exam": "NECO",
+    "subject": "Mathematics",
+    "year": 2024,
+    "topic": "Geometry",
+    "text": "A rectangle has length 13 cm and width 4 cm. Find its area.",
+    "options": [
+      {
+        "key": "A",
+        "text": "52 cm²"
+      },
+      {
+        "key": "B",
+        "text": "17 cm²"
+      },
+      {
+        "key": "C",
+        "text": "34 cm²"
+      },
+      {
+        "key": "D",
+        "text": "17 cm²"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Area = length × width = 13 × 4 = 52 cm²."
+  },
+  {
+    "id": "neco-mathematics-2023-010",
+    "exam": "NECO",
+    "subject": "Mathematics",
+    "year": 2023,
+    "topic": "Angles",
+    "text": "Find the sum of interior angles of a 8-sided polygon.",
+    "options": [
+      {
+        "key": "A",
+        "text": "900°"
+      },
+      {
+        "key": "B",
+        "text": "1080°"
+      },
+      {
+        "key": "C",
+        "text": "1440°"
+      },
+      {
+        "key": "D",
+        "text": "1800°"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Sum = (n − 2) × 180° = (8 − 2) × 180° = 1080°."
+  },
+  {
+    "id": "neco-mathematics-2022-011",
+    "exam": "NECO",
+    "subject": "Mathematics",
+    "year": 2022,
+    "topic": "Algebra",
+    "text": "If 3x + 6 = 48, find x.",
+    "options": [
+      {
+        "key": "A",
+        "text": "1"
+      },
+      {
+        "key": "B",
+        "text": "14"
+      },
+      {
+        "key": "C",
+        "text": "16"
+      },
+      {
+        "key": "D",
+        "text": "19"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Subtract 6: 3x = 42. Divide by 3: x = 14."
+  },
+  {
+    "id": "neco-mathematics-2021-012",
+    "exam": "NECO",
+    "subject": "Mathematics",
+    "year": 2021,
+    "topic": "Arithmetic",
+    "text": "What is 4% of 280?",
+    "options": [
+      {
+        "key": "A",
+        "text": "28"
+      },
+      {
+        "key": "B",
+        "text": "140"
+      },
+      {
+        "key": "C",
+        "text": "11.2"
+      },
+      {
+        "key": "D",
+        "text": "56"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "4% of 280 = (4/100) × 280 = 11.2."
+  },
+  {
+    "id": "neco-mathematics-2024-013",
+    "exam": "NECO",
+    "subject": "Mathematics",
+    "year": 2024,
+    "topic": "Ratio",
+    "text": "Divide ₦11000 in the ratio 4:3:4. What is the largest share?",
+    "options": [
+      {
+        "key": "A",
+        "text": "₦4000"
+      },
+      {
+        "key": "B",
+        "text": "₦3000"
+      },
+      {
+        "key": "C",
+        "text": "₦4000"
+      },
+      {
+        "key": "D",
+        "text": "₦4000"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Largest ratio part is 4. Share = 4/11 × ₦11000."
+  },
+  {
+    "id": "neco-mathematics-2023-014",
+    "exam": "NECO",
+    "subject": "Mathematics",
+    "year": 2023,
+    "topic": "Geometry",
+    "text": "A rectangle has length 9 cm and width 9 cm. Find its area.",
+    "options": [
+      {
+        "key": "A",
+        "text": "81 cm²"
+      },
+      {
+        "key": "B",
+        "text": "18 cm²"
+      },
+      {
+        "key": "C",
+        "text": "36 cm²"
+      },
+      {
+        "key": "D",
+        "text": "18 cm²"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Area = length × width = 9 × 9 = 81 cm²."
+  },
+  {
+    "id": "neco-mathematics-2022-015",
+    "exam": "NECO",
+    "subject": "Mathematics",
+    "year": 2022,
+    "topic": "Angles",
+    "text": "Find the sum of interior angles of a 7-sided polygon.",
+    "options": [
+      {
+        "key": "A",
+        "text": "720°"
+      },
+      {
+        "key": "B",
+        "text": "900°"
+      },
+      {
+        "key": "C",
+        "text": "1260°"
+      },
+      {
+        "key": "D",
+        "text": "1620°"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Sum = (n − 2) × 180° = (7 − 2) × 180° = 900°."
+  },
+  {
+    "id": "neco-mathematics-2021-016",
+    "exam": "NECO",
+    "subject": "Mathematics",
+    "year": 2021,
+    "topic": "Algebra",
+    "text": "If 8x + 4 = 68, find x.",
+    "options": [
+      {
+        "key": "A",
+        "text": "1"
+      },
+      {
+        "key": "B",
+        "text": "8"
+      },
+      {
+        "key": "C",
+        "text": "10"
+      },
+      {
+        "key": "D",
+        "text": "13"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Subtract 4: 8x = 64. Divide by 8: x = 8."
+  },
+  {
+    "id": "neco-mathematics-2024-017",
+    "exam": "NECO",
+    "subject": "Mathematics",
+    "year": 2024,
+    "topic": "Arithmetic",
+    "text": "What is 9% of 450?",
+    "options": [
+      {
+        "key": "A",
+        "text": "45"
+      },
+      {
+        "key": "B",
+        "text": "225"
+      },
+      {
+        "key": "C",
+        "text": "40.5"
+      },
+      {
+        "key": "D",
+        "text": "90"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "9% of 450 = (9/100) × 450 = 40.5."
+  },
+  {
+    "id": "neco-mathematics-2023-018",
+    "exam": "NECO",
+    "subject": "Mathematics",
+    "year": 2023,
+    "topic": "Ratio",
+    "text": "Divide ₦17000 in the ratio 4:4:9. What is the largest share?",
+    "options": [
+      {
+        "key": "A",
+        "text": "₦4000"
+      },
+      {
+        "key": "B",
+        "text": "₦4000"
+      },
+      {
+        "key": "C",
+        "text": "₦9000"
+      },
+      {
+        "key": "D",
+        "text": "₦9000"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Largest ratio part is 9. Share = 9/17 × ₦17000."
+  },
+  {
+    "id": "neco-mathematics-2022-019",
+    "exam": "NECO",
+    "subject": "Mathematics",
+    "year": 2022,
+    "topic": "Geometry",
+    "text": "A rectangle has length 5 cm and width 7 cm. Find its area.",
+    "options": [
+      {
+        "key": "A",
+        "text": "35 cm²"
+      },
+      {
+        "key": "B",
+        "text": "12 cm²"
+      },
+      {
+        "key": "C",
+        "text": "24 cm²"
+      },
+      {
+        "key": "D",
+        "text": "12 cm²"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Area = length × width = 5 × 7 = 35 cm²."
+  },
+  {
+    "id": "neco-mathematics-2021-020",
+    "exam": "NECO",
+    "subject": "Mathematics",
+    "year": 2021,
+    "topic": "Angles",
+    "text": "Find the sum of interior angles of a 6-sided polygon.",
+    "options": [
+      {
+        "key": "A",
+        "text": "540°"
+      },
+      {
+        "key": "B",
+        "text": "720°"
+      },
+      {
+        "key": "C",
+        "text": "1080°"
+      },
+      {
+        "key": "D",
+        "text": "1440°"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Sum = (n − 2) × 180° = (6 − 2) × 180° = 720°."
+  },
+  {
+    "id": "neco-mathematics-2024-021",
+    "exam": "NECO",
+    "subject": "Mathematics",
+    "year": 2024,
+    "topic": "Algebra",
+    "text": "If 4x + 9 = 61, find x.",
+    "options": [
+      {
+        "key": "A",
+        "text": "1"
+      },
+      {
+        "key": "B",
+        "text": "13"
+      },
+      {
+        "key": "C",
+        "text": "15"
+      },
+      {
+        "key": "D",
+        "text": "18"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Subtract 9: 4x = 52. Divide by 4: x = 13."
+  },
+  {
+    "id": "neco-mathematics-2023-022",
+    "exam": "NECO",
+    "subject": "Mathematics",
+    "year": 2023,
+    "topic": "Arithmetic",
+    "text": "What is 5% of 150?",
+    "options": [
+      {
+        "key": "A",
+        "text": "15"
+      },
+      {
+        "key": "B",
+        "text": "75"
+      },
+      {
+        "key": "C",
+        "text": "7.5"
+      },
+      {
+        "key": "D",
+        "text": "30"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "5% of 150 = (5/100) × 150 = 7.5."
+  },
+  {
+    "id": "neco-mathematics-2022-023",
+    "exam": "NECO",
+    "subject": "Mathematics",
+    "year": 2022,
+    "topic": "Ratio",
+    "text": "Divide ₦17000 in the ratio 4:5:8. What is the largest share?",
+    "options": [
+      {
+        "key": "A",
+        "text": "₦4000"
+      },
+      {
+        "key": "B",
+        "text": "₦5000"
+      },
+      {
+        "key": "C",
+        "text": "₦8000"
+      },
+      {
+        "key": "D",
+        "text": "₦8000"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Largest ratio part is 8. Share = 8/17 × ₦17000."
+  },
+  {
+    "id": "neco-mathematics-2021-024",
+    "exam": "NECO",
+    "subject": "Mathematics",
+    "year": 2021,
+    "topic": "Geometry",
+    "text": "A rectangle has length 10 cm and width 5 cm. Find its area.",
+    "options": [
+      {
+        "key": "A",
+        "text": "50 cm²"
+      },
+      {
+        "key": "B",
+        "text": "15 cm²"
+      },
+      {
+        "key": "C",
+        "text": "30 cm²"
+      },
+      {
+        "key": "D",
+        "text": "15 cm²"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Area = length × width = 10 × 5 = 50 cm²."
+  },
+  {
+    "id": "neco-mathematics-2024-025",
+    "exam": "NECO",
+    "subject": "Mathematics",
+    "year": 2024,
+    "topic": "Angles",
+    "text": "Find the sum of interior angles of a 5-sided polygon.",
+    "options": [
+      {
+        "key": "A",
+        "text": "360°"
+      },
+      {
+        "key": "B",
+        "text": "540°"
+      },
+      {
+        "key": "C",
+        "text": "900°"
+      },
+      {
+        "key": "D",
+        "text": "1260°"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Sum = (n − 2) × 180° = (5 − 2) × 180° = 540°."
+  },
+  {
+    "id": "neco-mathematics-2023-026",
+    "exam": "NECO",
+    "subject": "Mathematics",
+    "year": 2023,
+    "topic": "Algebra",
+    "text": "If 9x + 7 = 70, find x.",
+    "options": [
+      {
+        "key": "A",
+        "text": "1"
+      },
+      {
+        "key": "B",
+        "text": "7"
+      },
+      {
+        "key": "C",
+        "text": "9"
+      },
+      {
+        "key": "D",
+        "text": "12"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Subtract 7: 9x = 63. Divide by 9: x = 7."
+  },
+  {
+    "id": "neco-mathematics-2022-027",
+    "exam": "NECO",
+    "subject": "Mathematics",
+    "year": 2022,
+    "topic": "Arithmetic",
+    "text": "What is 10% of 800?",
+    "options": [
+      {
+        "key": "A",
+        "text": "80"
+      },
+      {
+        "key": "B",
+        "text": "400"
+      },
+      {
+        "key": "C",
+        "text": "80"
+      },
+      {
+        "key": "D",
+        "text": "160"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "10% of 800 = (10/100) × 800 = 80."
+  },
+  {
+    "id": "neco-mathematics-2021-028",
+    "exam": "NECO",
+    "subject": "Mathematics",
+    "year": 2021,
+    "topic": "Ratio",
+    "text": "Divide ₦17000 in the ratio 4:6:7. What is the largest share?",
+    "options": [
+      {
+        "key": "A",
+        "text": "₦4000"
+      },
+      {
+        "key": "B",
+        "text": "₦6000"
+      },
+      {
+        "key": "C",
+        "text": "₦7000"
+      },
+      {
+        "key": "D",
+        "text": "₦7000"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Largest ratio part is 7. Share = 7/17 × ₦17000."
+  },
+  {
+    "id": "neco-mathematics-2024-029",
+    "exam": "NECO",
+    "subject": "Mathematics",
+    "year": 2024,
+    "topic": "Geometry",
+    "text": "A rectangle has length 6 cm and width 3 cm. Find its area.",
+    "options": [
+      {
+        "key": "A",
+        "text": "18 cm²"
+      },
+      {
+        "key": "B",
+        "text": "9 cm²"
+      },
+      {
+        "key": "C",
+        "text": "18 cm²"
+      },
+      {
+        "key": "D",
+        "text": "9 cm²"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Area = length × width = 6 × 3 = 18 cm²."
+  },
+  {
+    "id": "neco-mathematics-2023-030",
+    "exam": "NECO",
+    "subject": "Mathematics",
+    "year": 2023,
+    "topic": "Angles",
+    "text": "Find the sum of interior angles of a 10-sided polygon.",
+    "options": [
+      {
+        "key": "A",
+        "text": "1260°"
+      },
+      {
+        "key": "B",
+        "text": "1440°"
+      },
+      {
+        "key": "C",
+        "text": "1800°"
+      },
+      {
+        "key": "D",
+        "text": "2160°"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Sum = (n − 2) × 180° = (10 − 2) × 180° = 1440°."
+  },
+  {
+    "id": "neco-mathematics-2022-031",
+    "exam": "NECO",
+    "subject": "Mathematics",
+    "year": 2022,
+    "topic": "Algebra",
+    "text": "If 5x + 5 = 65, find x.",
+    "options": [
+      {
+        "key": "A",
+        "text": "1"
+      },
+      {
+        "key": "B",
+        "text": "12"
+      },
+      {
+        "key": "C",
+        "text": "14"
+      },
+      {
+        "key": "D",
+        "text": "17"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Subtract 5: 5x = 60. Divide by 5: x = 12."
+  },
+  {
+    "id": "neco-mathematics-2021-032",
+    "exam": "NECO",
+    "subject": "Mathematics",
+    "year": 2021,
+    "topic": "Arithmetic",
+    "text": "What is 6% of 360?",
+    "options": [
+      {
+        "key": "A",
+        "text": "36"
+      },
+      {
+        "key": "B",
+        "text": "180"
+      },
+      {
+        "key": "C",
+        "text": "21.6"
+      },
+      {
+        "key": "D",
+        "text": "72"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "6% of 360 = (6/100) × 360 = 21.6."
+  },
+  {
+    "id": "neco-mathematics-2024-033",
+    "exam": "NECO",
+    "subject": "Mathematics",
+    "year": 2024,
+    "topic": "Ratio",
+    "text": "Divide ₦13000 in the ratio 4:3:6. What is the largest share?",
+    "options": [
+      {
+        "key": "A",
+        "text": "₦4000"
+      },
+      {
+        "key": "B",
+        "text": "₦3000"
+      },
+      {
+        "key": "C",
+        "text": "₦6000"
+      },
+      {
+        "key": "D",
+        "text": "₦6000"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Largest ratio part is 6. Share = 6/13 × ₦13000."
+  },
+  {
+    "id": "neco-mathematics-2023-034",
+    "exam": "NECO",
+    "subject": "Mathematics",
+    "year": 2023,
+    "topic": "Geometry",
+    "text": "A rectangle has length 11 cm and width 8 cm. Find its area.",
+    "options": [
+      {
+        "key": "A",
+        "text": "88 cm²"
+      },
+      {
+        "key": "B",
+        "text": "19 cm²"
+      },
+      {
+        "key": "C",
+        "text": "38 cm²"
+      },
+      {
+        "key": "D",
+        "text": "19 cm²"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Area = length × width = 11 × 8 = 88 cm²."
+  },
+  {
+    "id": "neco-mathematics-2022-035",
+    "exam": "NECO",
+    "subject": "Mathematics",
+    "year": 2022,
+    "topic": "Angles",
+    "text": "Find the sum of interior angles of a 9-sided polygon.",
+    "options": [
+      {
+        "key": "A",
+        "text": "1080°"
+      },
+      {
+        "key": "B",
+        "text": "1260°"
+      },
+      {
+        "key": "C",
+        "text": "1620°"
+      },
+      {
+        "key": "D",
+        "text": "1980°"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Sum = (n − 2) × 180° = (9 − 2) × 180° = 1260°."
+  },
+  {
+    "id": "neco-mathematics-2021-036",
+    "exam": "NECO",
+    "subject": "Mathematics",
+    "year": 2021,
+    "topic": "Algebra",
+    "text": "If 10x + 3 = 63, find x.",
+    "options": [
+      {
+        "key": "A",
+        "text": "1"
+      },
+      {
+        "key": "B",
+        "text": "6"
+      },
+      {
+        "key": "C",
+        "text": "8"
+      },
+      {
+        "key": "D",
+        "text": "11"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Subtract 3: 10x = 60. Divide by 10: x = 6."
+  },
+  {
+    "id": "neco-mathematics-2024-037",
+    "exam": "NECO",
+    "subject": "Mathematics",
+    "year": 2024,
+    "topic": "Arithmetic",
+    "text": "What is 2% of 80?",
+    "options": [
+      {
+        "key": "A",
+        "text": "8"
+      },
+      {
+        "key": "B",
+        "text": "40"
+      },
+      {
+        "key": "C",
+        "text": "1.6"
+      },
+      {
+        "key": "D",
+        "text": "16"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "2% of 80 = (2/100) × 80 = 1.6."
+  },
+  {
+    "id": "neco-mathematics-2023-038",
+    "exam": "NECO",
+    "subject": "Mathematics",
+    "year": 2023,
+    "topic": "Ratio",
+    "text": "Divide ₦13000 in the ratio 4:4:5. What is the largest share?",
+    "options": [
+      {
+        "key": "A",
+        "text": "₦4000"
+      },
+      {
+        "key": "B",
+        "text": "₦4000"
+      },
+      {
+        "key": "C",
+        "text": "₦5000"
+      },
+      {
+        "key": "D",
+        "text": "₦5000"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Largest ratio part is 5. Share = 5/13 × ₦13000."
+  },
+  {
+    "id": "neco-mathematics-2022-039",
+    "exam": "NECO",
+    "subject": "Mathematics",
+    "year": 2022,
+    "topic": "Geometry",
+    "text": "A rectangle has length 7 cm and width 6 cm. Find its area.",
+    "options": [
+      {
+        "key": "A",
+        "text": "42 cm²"
+      },
+      {
+        "key": "B",
+        "text": "13 cm²"
+      },
+      {
+        "key": "C",
+        "text": "26 cm²"
+      },
+      {
+        "key": "D",
+        "text": "13 cm²"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Area = length × width = 7 × 6 = 42 cm²."
+  },
+  {
+    "id": "neco-mathematics-2021-040",
+    "exam": "NECO",
+    "subject": "Mathematics",
+    "year": 2021,
+    "topic": "Angles",
+    "text": "Find the sum of interior angles of a 8-sided polygon.",
+    "options": [
+      {
+        "key": "A",
+        "text": "900°"
+      },
+      {
+        "key": "B",
+        "text": "1080°"
+      },
+      {
+        "key": "C",
+        "text": "1440°"
+      },
+      {
+        "key": "D",
+        "text": "1800°"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Sum = (n − 2) × 180° = (8 − 2) × 180° = 1080°."
+  },
+  {
+    "id": "neco-mathematics-2024-041",
+    "exam": "NECO",
+    "subject": "Mathematics",
+    "year": 2024,
+    "topic": "Algebra",
+    "text": "If 6x + 8 = 74, find x.",
+    "options": [
+      {
+        "key": "A",
+        "text": "1"
+      },
+      {
+        "key": "B",
+        "text": "11"
+      },
+      {
+        "key": "C",
+        "text": "13"
+      },
+      {
+        "key": "D",
+        "text": "16"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Subtract 8: 6x = 66. Divide by 6: x = 11."
+  },
+  {
+    "id": "neco-mathematics-2023-042",
+    "exam": "NECO",
+    "subject": "Mathematics",
+    "year": 2023,
+    "topic": "Arithmetic",
+    "text": "What is 7% of 630?",
+    "options": [
+      {
+        "key": "A",
+        "text": "63"
+      },
+      {
+        "key": "B",
+        "text": "315"
+      },
+      {
+        "key": "C",
+        "text": "44.1"
+      },
+      {
+        "key": "D",
+        "text": "126"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "7% of 630 = (7/100) × 630 = 44.1."
+  },
+  {
+    "id": "neco-mathematics-2022-043",
+    "exam": "NECO",
+    "subject": "Mathematics",
+    "year": 2022,
+    "topic": "Ratio",
+    "text": "Divide ₦13000 in the ratio 4:5:4. What is the largest share?",
+    "options": [
+      {
+        "key": "A",
+        "text": "₦4000"
+      },
+      {
+        "key": "B",
+        "text": "₦5000"
+      },
+      {
+        "key": "C",
+        "text": "₦4000"
+      },
+      {
+        "key": "D",
+        "text": "₦4000"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Largest ratio part is 4. Share = 4/13 × ₦13000."
+  },
+  {
+    "id": "neco-mathematics-2021-044",
+    "exam": "NECO",
+    "subject": "Mathematics",
+    "year": 2021,
+    "topic": "Geometry",
+    "text": "A rectangle has length 12 cm and width 4 cm. Find its area.",
+    "options": [
+      {
+        "key": "A",
+        "text": "48 cm²"
+      },
+      {
+        "key": "B",
+        "text": "16 cm²"
+      },
+      {
+        "key": "C",
+        "text": "32 cm²"
+      },
+      {
+        "key": "D",
+        "text": "16 cm²"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Area = length × width = 12 × 4 = 48 cm²."
+  },
+  {
+    "id": "neco-mathematics-2024-045",
+    "exam": "NECO",
+    "subject": "Mathematics",
+    "year": 2024,
+    "topic": "Angles",
+    "text": "Find the sum of interior angles of a 7-sided polygon.",
+    "options": [
+      {
+        "key": "A",
+        "text": "720°"
+      },
+      {
+        "key": "B",
+        "text": "900°"
+      },
+      {
+        "key": "C",
+        "text": "1260°"
+      },
+      {
+        "key": "D",
+        "text": "1620°"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Sum = (n − 2) × 180° = (7 − 2) × 180° = 900°."
+  },
+  {
+    "id": "neco-mathematics-2023-046",
+    "exam": "NECO",
+    "subject": "Mathematics",
+    "year": 2023,
+    "topic": "Algebra",
+    "text": "If 2x + 6 = 16, find x.",
+    "options": [
+      {
+        "key": "A",
+        "text": "1"
+      },
+      {
+        "key": "B",
+        "text": "5"
+      },
+      {
+        "key": "C",
+        "text": "7"
+      },
+      {
+        "key": "D",
+        "text": "10"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Subtract 6: 2x = 10. Divide by 2: x = 5."
+  },
+  {
+    "id": "neco-mathematics-2022-047",
+    "exam": "NECO",
+    "subject": "Mathematics",
+    "year": 2022,
+    "topic": "Arithmetic",
+    "text": "What is 3% of 210?",
+    "options": [
+      {
+        "key": "A",
+        "text": "21"
+      },
+      {
+        "key": "B",
+        "text": "105"
+      },
+      {
+        "key": "C",
+        "text": "6.3"
+      },
+      {
+        "key": "D",
+        "text": "42"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "3% of 210 = (3/100) × 210 = 6.3."
+  },
+  {
+    "id": "neco-mathematics-2021-048",
+    "exam": "NECO",
+    "subject": "Mathematics",
+    "year": 2021,
+    "topic": "Ratio",
+    "text": "Divide ₦19000 in the ratio 4:6:9. What is the largest share?",
+    "options": [
+      {
+        "key": "A",
+        "text": "₦4000"
+      },
+      {
+        "key": "B",
+        "text": "₦6000"
+      },
+      {
+        "key": "C",
+        "text": "₦9000"
+      },
+      {
+        "key": "D",
+        "text": "₦9000"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Largest ratio part is 9. Share = 9/19 × ₦19000."
+  },
+  {
+    "id": "neco-mathematics-2024-049",
+    "exam": "NECO",
+    "subject": "Mathematics",
+    "year": 2024,
+    "topic": "Geometry",
+    "text": "A rectangle has length 8 cm and width 9 cm. Find its area.",
+    "options": [
+      {
+        "key": "A",
+        "text": "72 cm²"
+      },
+      {
+        "key": "B",
+        "text": "17 cm²"
+      },
+      {
+        "key": "C",
+        "text": "34 cm²"
+      },
+      {
+        "key": "D",
+        "text": "17 cm²"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Area = length × width = 8 × 9 = 72 cm²."
+  },
+  {
+    "id": "neco-mathematics-2023-050",
+    "exam": "NECO",
+    "subject": "Mathematics",
+    "year": 2023,
+    "topic": "Angles",
+    "text": "Find the sum of interior angles of a 6-sided polygon.",
+    "options": [
+      {
+        "key": "A",
+        "text": "540°"
+      },
+      {
+        "key": "B",
+        "text": "720°"
+      },
+      {
+        "key": "C",
+        "text": "1080°"
+      },
+      {
+        "key": "D",
+        "text": "1440°"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Sum = (n − 2) × 180° = (6 − 2) × 180° = 720°."
+  },
+  {
+    "id": "neco-mathematics-2022-051",
+    "exam": "NECO",
+    "subject": "Mathematics",
+    "year": 2022,
+    "topic": "Algebra",
+    "text": "If 7x + 4 = 74, find x.",
+    "options": [
+      {
+        "key": "A",
+        "text": "1"
+      },
+      {
+        "key": "B",
+        "text": "10"
+      },
+      {
+        "key": "C",
+        "text": "12"
+      },
+      {
+        "key": "D",
+        "text": "15"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Subtract 4: 7x = 70. Divide by 7: x = 10."
+  },
+  {
+    "id": "neco-mathematics-2021-052",
+    "exam": "NECO",
+    "subject": "Mathematics",
+    "year": 2021,
+    "topic": "Arithmetic",
+    "text": "What is 8% of 400?",
+    "options": [
+      {
+        "key": "A",
+        "text": "40"
+      },
+      {
+        "key": "B",
+        "text": "200"
+      },
+      {
+        "key": "C",
+        "text": "32"
+      },
+      {
+        "key": "D",
+        "text": "80"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "8% of 400 = (8/100) × 400 = 32."
+  },
+  {
+    "id": "neco-mathematics-2024-053",
+    "exam": "NECO",
+    "subject": "Mathematics",
+    "year": 2024,
+    "topic": "Ratio",
+    "text": "Divide ₦15000 in the ratio 4:3:8. What is the largest share?",
+    "options": [
+      {
+        "key": "A",
+        "text": "₦4000"
+      },
+      {
+        "key": "B",
+        "text": "₦3000"
+      },
+      {
+        "key": "C",
+        "text": "₦8000"
+      },
+      {
+        "key": "D",
+        "text": "₦8000"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Largest ratio part is 8. Share = 8/15 × ₦15000."
+  },
+  {
+    "id": "neco-mathematics-2023-054",
+    "exam": "NECO",
+    "subject": "Mathematics",
+    "year": 2023,
+    "topic": "Geometry",
+    "text": "A rectangle has length 13 cm and width 7 cm. Find its area.",
+    "options": [
+      {
+        "key": "A",
+        "text": "91 cm²"
+      },
+      {
+        "key": "B",
+        "text": "20 cm²"
+      },
+      {
+        "key": "C",
+        "text": "40 cm²"
+      },
+      {
+        "key": "D",
+        "text": "20 cm²"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Area = length × width = 13 × 7 = 91 cm²."
+  },
+  {
+    "id": "neco-mathematics-2022-055",
+    "exam": "NECO",
+    "subject": "Mathematics",
+    "year": 2022,
+    "topic": "Angles",
+    "text": "Find the sum of interior angles of a 5-sided polygon.",
+    "options": [
+      {
+        "key": "A",
+        "text": "360°"
+      },
+      {
+        "key": "B",
+        "text": "540°"
+      },
+      {
+        "key": "C",
+        "text": "900°"
+      },
+      {
+        "key": "D",
+        "text": "1260°"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Sum = (n − 2) × 180° = (5 − 2) × 180° = 540°."
+  },
+  {
+    "id": "neco-mathematics-2021-056",
+    "exam": "NECO",
+    "subject": "Mathematics",
+    "year": 2021,
+    "topic": "Algebra",
+    "text": "If 3x + 9 = 21, find x.",
+    "options": [
+      {
+        "key": "A",
+        "text": "1"
+      },
+      {
+        "key": "B",
+        "text": "4"
+      },
+      {
+        "key": "C",
+        "text": "6"
+      },
+      {
+        "key": "D",
+        "text": "9"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Subtract 9: 3x = 12. Divide by 3: x = 4."
+  },
+  {
+    "id": "neco-mathematics-2024-057",
+    "exam": "NECO",
+    "subject": "Mathematics",
+    "year": 2024,
+    "topic": "Arithmetic",
+    "text": "What is 4% of 120?",
+    "options": [
+      {
+        "key": "A",
+        "text": "12"
+      },
+      {
+        "key": "B",
+        "text": "60"
+      },
+      {
+        "key": "C",
+        "text": "4.8"
+      },
+      {
+        "key": "D",
+        "text": "24"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "4% of 120 = (4/100) × 120 = 4.8."
+  },
+  {
+    "id": "neco-mathematics-2023-058",
+    "exam": "NECO",
+    "subject": "Mathematics",
+    "year": 2023,
+    "topic": "Ratio",
+    "text": "Divide ₦15000 in the ratio 4:4:7. What is the largest share?",
+    "options": [
+      {
+        "key": "A",
+        "text": "₦4000"
+      },
+      {
+        "key": "B",
+        "text": "₦4000"
+      },
+      {
+        "key": "C",
+        "text": "₦7000"
+      },
+      {
+        "key": "D",
+        "text": "₦7000"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Largest ratio part is 7. Share = 7/15 × ₦15000."
+  },
+  {
+    "id": "neco-mathematics-2022-059",
+    "exam": "NECO",
+    "subject": "Mathematics",
+    "year": 2022,
+    "topic": "Geometry",
+    "text": "A rectangle has length 9 cm and width 5 cm. Find its area.",
+    "options": [
+      {
+        "key": "A",
+        "text": "45 cm²"
+      },
+      {
+        "key": "B",
+        "text": "14 cm²"
+      },
+      {
+        "key": "C",
+        "text": "28 cm²"
+      },
+      {
+        "key": "D",
+        "text": "14 cm²"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Area = length × width = 9 × 5 = 45 cm²."
+  },
+  {
+    "id": "neco-mathematics-2021-060",
+    "exam": "NECO",
+    "subject": "Mathematics",
+    "year": 2021,
+    "topic": "Angles",
+    "text": "Find the sum of interior angles of a 10-sided polygon.",
+    "options": [
+      {
+        "key": "A",
+        "text": "1260°"
+      },
+      {
+        "key": "B",
+        "text": "1440°"
+      },
+      {
+        "key": "C",
+        "text": "1800°"
+      },
+      {
+        "key": "D",
+        "text": "2160°"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Sum = (n − 2) × 180° = (10 − 2) × 180° = 1440°."
+  },
+  {
+    "id": "neco-mathematics-2024-061",
+    "exam": "NECO",
+    "subject": "Mathematics",
+    "year": 2024,
+    "topic": "Algebra",
+    "text": "If 8x + 7 = 79, find x.",
+    "options": [
+      {
+        "key": "A",
+        "text": "1"
+      },
+      {
+        "key": "B",
+        "text": "9"
+      },
+      {
+        "key": "C",
+        "text": "11"
+      },
+      {
+        "key": "D",
+        "text": "14"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Subtract 7: 8x = 72. Divide by 8: x = 9."
+  },
+  {
+    "id": "neco-mathematics-2023-062",
+    "exam": "NECO",
+    "subject": "Mathematics",
+    "year": 2023,
+    "topic": "Arithmetic",
+    "text": "What is 9% of 720?",
+    "options": [
+      {
+        "key": "A",
+        "text": "72"
+      },
+      {
+        "key": "B",
+        "text": "360"
+      },
+      {
+        "key": "C",
+        "text": "64.8"
+      },
+      {
+        "key": "D",
+        "text": "144"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "9% of 720 = (9/100) × 720 = 64.8."
+  },
+  {
+    "id": "neco-mathematics-2022-063",
+    "exam": "NECO",
+    "subject": "Mathematics",
+    "year": 2022,
+    "topic": "Ratio",
+    "text": "Divide ₦15000 in the ratio 4:5:6. What is the largest share?",
+    "options": [
+      {
+        "key": "A",
+        "text": "₦4000"
+      },
+      {
+        "key": "B",
+        "text": "₦5000"
+      },
+      {
+        "key": "C",
+        "text": "₦6000"
+      },
+      {
+        "key": "D",
+        "text": "₦6000"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Largest ratio part is 6. Share = 6/15 × ₦15000."
+  },
+  {
+    "id": "neco-mathematics-2021-064",
+    "exam": "NECO",
+    "subject": "Mathematics",
+    "year": 2021,
+    "topic": "Geometry",
+    "text": "A rectangle has length 5 cm and width 3 cm. Find its area.",
+    "options": [
+      {
+        "key": "A",
+        "text": "15 cm²"
+      },
+      {
+        "key": "B",
+        "text": "8 cm²"
+      },
+      {
+        "key": "C",
+        "text": "16 cm²"
+      },
+      {
+        "key": "D",
+        "text": "8 cm²"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Area = length × width = 5 × 3 = 15 cm²."
+  },
+  {
+    "id": "neco-mathematics-2024-065",
+    "exam": "NECO",
+    "subject": "Mathematics",
+    "year": 2024,
+    "topic": "Angles",
+    "text": "Find the sum of interior angles of a 9-sided polygon.",
+    "options": [
+      {
+        "key": "A",
+        "text": "1080°"
+      },
+      {
+        "key": "B",
+        "text": "1260°"
+      },
+      {
+        "key": "C",
+        "text": "1620°"
+      },
+      {
+        "key": "D",
+        "text": "1980°"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Sum = (n − 2) × 180° = (9 − 2) × 180° = 1260°."
+  },
+  {
+    "id": "neco-mathematics-2023-066",
+    "exam": "NECO",
+    "subject": "Mathematics",
+    "year": 2023,
+    "topic": "Algebra",
+    "text": "If 4x + 5 = 61, find x.",
+    "options": [
+      {
+        "key": "A",
+        "text": "1"
+      },
+      {
+        "key": "B",
+        "text": "14"
+      },
+      {
+        "key": "C",
+        "text": "16"
+      },
+      {
+        "key": "D",
+        "text": "19"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Subtract 5: 4x = 56. Divide by 4: x = 14."
+  },
+  {
+    "id": "neco-mathematics-2022-067",
+    "exam": "NECO",
+    "subject": "Mathematics",
+    "year": 2022,
+    "topic": "Arithmetic",
+    "text": "What is 5% of 300?",
+    "options": [
+      {
+        "key": "A",
+        "text": "30"
+      },
+      {
+        "key": "B",
+        "text": "150"
+      },
+      {
+        "key": "C",
+        "text": "15"
+      },
+      {
+        "key": "D",
+        "text": "60"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "5% of 300 = (5/100) × 300 = 15."
+  },
+  {
+    "id": "neco-mathematics-2021-068",
+    "exam": "NECO",
+    "subject": "Mathematics",
+    "year": 2021,
+    "topic": "Ratio",
+    "text": "Divide ₦15000 in the ratio 4:6:5. What is the largest share?",
+    "options": [
+      {
+        "key": "A",
+        "text": "₦4000"
+      },
+      {
+        "key": "B",
+        "text": "₦6000"
+      },
+      {
+        "key": "C",
+        "text": "₦5000"
+      },
+      {
+        "key": "D",
+        "text": "₦5000"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Largest ratio part is 5. Share = 5/15 × ₦15000."
+  },
+  {
+    "id": "neco-mathematics-2024-069",
+    "exam": "NECO",
+    "subject": "Mathematics",
+    "year": 2024,
+    "topic": "Geometry",
+    "text": "A rectangle has length 10 cm and width 8 cm. Find its area.",
+    "options": [
+      {
+        "key": "A",
+        "text": "80 cm²"
+      },
+      {
+        "key": "B",
+        "text": "18 cm²"
+      },
+      {
+        "key": "C",
+        "text": "36 cm²"
+      },
+      {
+        "key": "D",
+        "text": "18 cm²"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Area = length × width = 10 × 8 = 80 cm²."
+  }
+]

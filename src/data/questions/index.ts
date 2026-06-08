@@ -1,0 +1,33 @@
+import pack0 from "./packs/jamb-biology.json";
+import pack1 from "./packs/jamb-chemistry.json";
+import pack2 from "./packs/jamb-economics.json";
+import pack3 from "./packs/jamb-english.json";
+import pack4 from "./packs/jamb-government.json";
+import pack5 from "./packs/jamb-literature.json";
+import pack6 from "./packs/jamb-mathematics.json";
+import pack7 from "./packs/jamb-physics.json";
+import pack8 from "./packs/neco-agricultural-science.json";
+import pack9 from "./packs/neco-biology.json";
+import pack10 from "./packs/neco-chemistry.json";
+import pack11 from "./packs/neco-economics.json";
+import pack12 from "./packs/neco-english.json";
+import pack13 from "./packs/neco-government.json";
+import pack14 from "./packs/neco-mathematics.json";
+import pack15 from "./packs/neco-physics.json";
+import pack16 from "./packs/post-utme-current-affairs.json";
+import pack17 from "./packs/post-utme-english.json";
+import pack18 from "./packs/post-utme-general-paper.json";
+import pack19 from "./packs/post-utme-mathematics.json";
+import pack20 from "./packs/post-utme-use-of-english.json";
+import pack21 from "./packs/waec-biology.json";
+import pack22 from "./packs/waec-chemistry.json";
+import pack23 from "./packs/waec-commerce.json";
+import pack24 from "./packs/waec-economics.json";
+import pack25 from "./packs/waec-english.json";
+import pack26 from "./packs/waec-government.json";
+import pack27 from "./packs/waec-mathematics.json";
+import pack28 from "./packs/waec-physics.json";
+
+export const questionPacks = [pack0, pack1, pack2, pack3, pack4, pack5, pack6, pack7, pack8, pack9, pack10, pack11, pack12, pack13, pack14, pack15, pack16, pack17, pack18, pack19, pack20, pack21, pack22, pack23, pack24, pack25, pack26, pack27, pack28];
+
+export { default as manifest } from "./manifest.json";

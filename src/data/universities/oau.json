@@ -1,0 +1,733 @@
+{
+  "university": "oau",
+  "name": "Obafemi Awolowo University",
+  "shortName": "OAU",
+  "questionCount": 25,
+  "questions": [
+    {
+      "id": "uni-oau-mathematics-1",
+      "exam": "POST-UTME",
+      "subject": "Mathematics",
+      "year": 2024,
+      "university": "oau",
+      "topic": "Arithmetic",
+      "text": "A OAU screening candidate buys 3 pens at ₦100 each. How much does she pay in total?",
+      "options": [
+        {
+          "key": "A",
+          "text": "₦5"
+        },
+        {
+          "key": "B",
+          "text": "₦6"
+        },
+        {
+          "key": "C",
+          "text": "₦300"
+        },
+        {
+          "key": "D",
+          "text": "₦250"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Total = 3 × ₦100 = ₦300."
+    },
+    {
+      "id": "uni-oau-mathematics-2",
+      "exam": "POST-UTME",
+      "subject": "Mathematics",
+      "year": 2024,
+      "university": "oau",
+      "topic": "Arithmetic",
+      "text": "A OAU screening candidate buys 4 pens at ₦150 each. How much does she pay in total?",
+      "options": [
+        {
+          "key": "A",
+          "text": "₦7"
+        },
+        {
+          "key": "B",
+          "text": "₦12"
+        },
+        {
+          "key": "C",
+          "text": "₦600"
+        },
+        {
+          "key": "D",
+          "text": "₦350"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Total = 4 × ₦150 = ₦600."
+    },
+    {
+      "id": "uni-oau-mathematics-3",
+      "exam": "POST-UTME",
+      "subject": "Mathematics",
+      "year": 2024,
+      "university": "oau",
+      "topic": "Arithmetic",
+      "text": "A OAU screening candidate buys 5 pens at ₦200 each. How much does she pay in total?",
+      "options": [
+        {
+          "key": "A",
+          "text": "₦9"
+        },
+        {
+          "key": "B",
+          "text": "₦20"
+        },
+        {
+          "key": "C",
+          "text": "₦1000"
+        },
+        {
+          "key": "D",
+          "text": "₦450"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Total = 5 × ₦200 = ₦1000."
+    },
+    {
+      "id": "uni-oau-mathematics-4",
+      "exam": "POST-UTME",
+      "subject": "Mathematics",
+      "year": 2024,
+      "university": "oau",
+      "topic": "Arithmetic",
+      "text": "A OAU screening candidate buys 6 pens at ₦250 each. How much does she pay in total?",
+      "options": [
+        {
+          "key": "A",
+          "text": "₦11"
+        },
+        {
+          "key": "B",
+          "text": "₦30"
+        },
+        {
+          "key": "C",
+          "text": "₦1500"
+        },
+        {
+          "key": "D",
+          "text": "₦550"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Total = 6 × ₦250 = ₦1500."
+    },
+    {
+      "id": "uni-oau-mathematics-5",
+      "exam": "POST-UTME",
+      "subject": "Mathematics",
+      "year": 2024,
+      "university": "oau",
+      "topic": "Arithmetic",
+      "text": "A OAU screening candidate buys 7 pens at ₦300 each. How much does she pay in total?",
+      "options": [
+        {
+          "key": "A",
+          "text": "₦13"
+        },
+        {
+          "key": "B",
+          "text": "₦42"
+        },
+        {
+          "key": "C",
+          "text": "₦2100"
+        },
+        {
+          "key": "D",
+          "text": "₦650"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Total = 7 × ₦300 = ₦2100."
+    },
+    {
+      "id": "uni-oau-english-1",
+      "exam": "POST-UTME",
+      "subject": "English",
+      "year": 2024,
+      "university": "oau",
+      "topic": "Vocabulary",
+      "text": "Choose the word closest in meaning to \"benevolent\".",
+      "options": [
+        {
+          "key": "A",
+          "text": "Careless"
+        },
+        {
+          "key": "B",
+          "text": "Kind and generous"
+        },
+        {
+          "key": "C",
+          "text": "Lazy"
+        },
+        {
+          "key": "D",
+          "text": "Hostile"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "\"benevolent\" means showing kindness or goodwill — closest to \"Kind and generous\"."
+    },
+    {
+      "id": "uni-oau-english-2",
+      "exam": "POST-UTME",
+      "subject": "English",
+      "year": 2024,
+      "university": "oau",
+      "topic": "Vocabulary",
+      "text": "Choose the word closest in meaning to \"meticulous\".",
+      "options": [
+        {
+          "key": "A",
+          "text": "Careless"
+        },
+        {
+          "key": "B",
+          "text": "Kind and generous"
+        },
+        {
+          "key": "C",
+          "text": "Lazy"
+        },
+        {
+          "key": "D",
+          "text": "Hostile"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "\"meticulous\" means showing kindness or goodwill — closest to \"Kind and generous\"."
+    },
+    {
+      "id": "uni-oau-english-3",
+      "exam": "POST-UTME",
+      "subject": "English",
+      "year": 2024,
+      "university": "oau",
+      "topic": "Vocabulary",
+      "text": "Choose the word closest in meaning to \"pragmatic\".",
+      "options": [
+        {
+          "key": "A",
+          "text": "Careless"
+        },
+        {
+          "key": "B",
+          "text": "Kind and generous"
+        },
+        {
+          "key": "C",
+          "text": "Lazy"
+        },
+        {
+          "key": "D",
+          "text": "Hostile"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "\"pragmatic\" means showing kindness or goodwill — closest to \"Kind and generous\"."
+    },
+    {
+      "id": "uni-oau-english-4",
+      "exam": "POST-UTME",
+      "subject": "English",
+      "year": 2024,
+      "university": "oau",
+      "topic": "Vocabulary",
+      "text": "Choose the word closest in meaning to \"resilient\".",
+      "options": [
+        {
+          "key": "A",
+          "text": "Careless"
+        },
+        {
+          "key": "B",
+          "text": "Kind and generous"
+        },
+        {
+          "key": "C",
+          "text": "Lazy"
+        },
+        {
+          "key": "D",
+          "text": "Hostile"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "\"resilient\" means showing kindness or goodwill — closest to \"Kind and generous\"."
+    },
+    {
+      "id": "uni-oau-english-5",
+      "exam": "POST-UTME",
+      "subject": "English",
+      "year": 2024,
+      "university": "oau",
+      "topic": "Vocabulary",
+      "text": "Choose the word closest in meaning to \"tenacious\".",
+      "options": [
+        {
+          "key": "A",
+          "text": "Careless"
+        },
+        {
+          "key": "B",
+          "text": "Kind and generous"
+        },
+        {
+          "key": "C",
+          "text": "Lazy"
+        },
+        {
+          "key": "D",
+          "text": "Hostile"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "\"tenacious\" means showing kindness or goodwill — closest to \"Kind and generous\"."
+    },
+    {
+      "id": "uni-oau-general-paper-1",
+      "exam": "POST-UTME",
+      "subject": "General Paper",
+      "year": 2024,
+      "university": "oau",
+      "topic": "University history",
+      "text": "OAU was established in which year?",
+      "options": [
+        {
+          "key": "A",
+          "text": "1945"
+        },
+        {
+          "key": "B",
+          "text": "1962"
+        },
+        {
+          "key": "C",
+          "text": "1972"
+        },
+        {
+          "key": "D",
+          "text": "1957"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Obafemi Awolowo University was founded in 1962."
+    },
+    {
+      "id": "uni-oau-general-paper-2",
+      "exam": "POST-UTME",
+      "subject": "General Paper",
+      "year": 2024,
+      "university": "oau",
+      "topic": "Location",
+      "text": "Where is OAU located?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Ile-Ife, Osun"
+        },
+        {
+          "key": "B",
+          "text": "Abuja, FCT"
+        },
+        {
+          "key": "C",
+          "text": "Kano, Kano"
+        },
+        {
+          "key": "D",
+          "text": "Calabar, Cross River"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "OAU is in Ile-Ife, Osun, Osun State."
+    },
+    {
+      "id": "uni-oau-general-paper-3",
+      "exam": "POST-UTME",
+      "subject": "General Paper",
+      "year": 2024,
+      "university": "oau",
+      "topic": "Nigeria",
+      "text": "How many states are in the Federal Republic of Nigeria?",
+      "options": [
+        {
+          "key": "A",
+          "text": "30"
+        },
+        {
+          "key": "B",
+          "text": "34"
+        },
+        {
+          "key": "C",
+          "text": "36"
+        },
+        {
+          "key": "D",
+          "text": "37"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Nigeria has 36 states plus the Federal Capital Territory (FCT)."
+    },
+    {
+      "id": "uni-oau-general-paper-4",
+      "exam": "POST-UTME",
+      "subject": "General Paper",
+      "year": 2024,
+      "university": "oau",
+      "topic": "Education",
+      "text": "JAMB is the body responsible for admission into Nigerian ___.",
+      "options": [
+        {
+          "key": "A",
+          "text": "tertiary institutions"
+        },
+        {
+          "key": "B",
+          "text": "primary schools"
+        },
+        {
+          "key": "C",
+          "text": "polytechnics only"
+        },
+        {
+          "key": "D",
+          "text": "foreign universities"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "JAMB (Joint Admissions and Matriculation Board) coordinates UTME for tertiary admission."
+    },
+    {
+      "id": "uni-oau-general-paper-5",
+      "exam": "POST-UTME",
+      "subject": "General Paper",
+      "year": 2024,
+      "university": "oau",
+      "topic": "OAU screening",
+      "text": "POST-UTME screening at OAU typically tests candidates on:",
+      "options": [
+        {
+          "key": "A",
+          "text": "Only practical skills"
+        },
+        {
+          "key": "B",
+          "text": "Use of English, relevant subjects & general knowledge"
+        },
+        {
+          "key": "C",
+          "text": "Only mathematics"
+        },
+        {
+          "key": "D",
+          "text": "Only current affairs"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Most Nigerian universities test English, subject knowledge, and general awareness in POST-UTME."
+    },
+    {
+      "id": "uni-oau-use-of-english-1",
+      "exam": "POST-UTME",
+      "subject": "Use of English",
+      "year": 2024,
+      "university": "oau",
+      "topic": "Vocabulary",
+      "text": "Choose the word closest in meaning to \"benevolent\".",
+      "options": [
+        {
+          "key": "A",
+          "text": "Careless"
+        },
+        {
+          "key": "B",
+          "text": "Kind and generous"
+        },
+        {
+          "key": "C",
+          "text": "Lazy"
+        },
+        {
+          "key": "D",
+          "text": "Hostile"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "\"benevolent\" means showing kindness or goodwill — closest to \"Kind and generous\"."
+    },
+    {
+      "id": "uni-oau-use-of-english-2",
+      "exam": "POST-UTME",
+      "subject": "Use of English",
+      "year": 2024,
+      "university": "oau",
+      "topic": "Vocabulary",
+      "text": "Choose the word closest in meaning to \"meticulous\".",
+      "options": [
+        {
+          "key": "A",
+          "text": "Careless"
+        },
+        {
+          "key": "B",
+          "text": "Kind and generous"
+        },
+        {
+          "key": "C",
+          "text": "Lazy"
+        },
+        {
+          "key": "D",
+          "text": "Hostile"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "\"meticulous\" means showing kindness or goodwill — closest to \"Kind and generous\"."
+    },
+    {
+      "id": "uni-oau-use-of-english-3",
+      "exam": "POST-UTME",
+      "subject": "Use of English",
+      "year": 2024,
+      "university": "oau",
+      "topic": "Vocabulary",
+      "text": "Choose the word closest in meaning to \"pragmatic\".",
+      "options": [
+        {
+          "key": "A",
+          "text": "Careless"
+        },
+        {
+          "key": "B",
+          "text": "Kind and generous"
+        },
+        {
+          "key": "C",
+          "text": "Lazy"
+        },
+        {
+          "key": "D",
+          "text": "Hostile"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "\"pragmatic\" means showing kindness or goodwill — closest to \"Kind and generous\"."
+    },
+    {
+      "id": "uni-oau-use-of-english-4",
+      "exam": "POST-UTME",
+      "subject": "Use of English",
+      "year": 2024,
+      "university": "oau",
+      "topic": "Vocabulary",
+      "text": "Choose the word closest in meaning to \"resilient\".",
+      "options": [
+        {
+          "key": "A",
+          "text": "Careless"
+        },
+        {
+          "key": "B",
+          "text": "Kind and generous"
+        },
+        {
+          "key": "C",
+          "text": "Lazy"
+        },
+        {
+          "key": "D",
+          "text": "Hostile"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "\"resilient\" means showing kindness or goodwill — closest to \"Kind and generous\"."
+    },
+    {
+      "id": "uni-oau-use-of-english-5",
+      "exam": "POST-UTME",
+      "subject": "Use of English",
+      "year": 2024,
+      "university": "oau",
+      "topic": "Vocabulary",
+      "text": "Choose the word closest in meaning to \"tenacious\".",
+      "options": [
+        {
+          "key": "A",
+          "text": "Careless"
+        },
+        {
+          "key": "B",
+          "text": "Kind and generous"
+        },
+        {
+          "key": "C",
+          "text": "Lazy"
+        },
+        {
+          "key": "D",
+          "text": "Hostile"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "\"tenacious\" means showing kindness or goodwill — closest to \"Kind and generous\"."
+    },
+    {
+      "id": "uni-oau-current-affairs-1",
+      "exam": "POST-UTME",
+      "subject": "Current Affairs",
+      "year": 2024,
+      "university": "oau",
+      "topic": "University history",
+      "text": "OAU was established in which year?",
+      "options": [
+        {
+          "key": "A",
+          "text": "1945"
+        },
+        {
+          "key": "B",
+          "text": "1962"
+        },
+        {
+          "key": "C",
+          "text": "1972"
+        },
+        {
+          "key": "D",
+          "text": "1957"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Obafemi Awolowo University was founded in 1962."
+    },
+    {
+      "id": "uni-oau-current-affairs-2",
+      "exam": "POST-UTME",
+      "subject": "Current Affairs",
+      "year": 2024,
+      "university": "oau",
+      "topic": "Location",
+      "text": "Where is OAU located?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Ile-Ife, Osun"
+        },
+        {
+          "key": "B",
+          "text": "Abuja, FCT"
+        },
+        {
+          "key": "C",
+          "text": "Kano, Kano"
+        },
+        {
+          "key": "D",
+          "text": "Calabar, Cross River"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "OAU is in Ile-Ife, Osun, Osun State."
+    },
+    {
+      "id": "uni-oau-current-affairs-3",
+      "exam": "POST-UTME",
+      "subject": "Current Affairs",
+      "year": 2024,
+      "university": "oau",
+      "topic": "Nigeria",
+      "text": "How many states are in the Federal Republic of Nigeria?",
+      "options": [
+        {
+          "key": "A",
+          "text": "30"
+        },
+        {
+          "key": "B",
+          "text": "34"
+        },
+        {
+          "key": "C",
+          "text": "36"
+        },
+        {
+          "key": "D",
+          "text": "37"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Nigeria has 36 states plus the Federal Capital Territory (FCT)."
+    },
+    {
+      "id": "uni-oau-current-affairs-4",
+      "exam": "POST-UTME",
+      "subject": "Current Affairs",
+      "year": 2024,
+      "university": "oau",
+      "topic": "Education",
+      "text": "JAMB is the body responsible for admission into Nigerian ___.",
+      "options": [
+        {
+          "key": "A",
+          "text": "tertiary institutions"
+        },
+        {
+          "key": "B",
+          "text": "primary schools"
+        },
+        {
+          "key": "C",
+          "text": "polytechnics only"
+        },
+        {
+          "key": "D",
+          "text": "foreign universities"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "JAMB (Joint Admissions and Matriculation Board) coordinates UTME for tertiary admission."
+    },
+    {
+      "id": "uni-oau-current-affairs-5",
+      "exam": "POST-UTME",
+      "subject": "Current Affairs",
+      "year": 2024,
+      "university": "oau",
+      "topic": "OAU screening",
+      "text": "POST-UTME screening at OAU typically tests candidates on:",
+      "options": [
+        {
+          "key": "A",
+          "text": "Only practical skills"
+        },
+        {
+          "key": "B",
+          "text": "Use of English, relevant subjects & general knowledge"
+        },
+        {
+          "key": "C",
+          "text": "Only mathematics"
+        },
+        {
+          "key": "D",
+          "text": "Only current affairs"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Most Nigerian universities test English, subject knowledge, and general awareness in POST-UTME."
+    }
+  ]
+}
