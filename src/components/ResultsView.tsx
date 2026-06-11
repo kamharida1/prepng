@@ -5,6 +5,8 @@ import { useMemo } from "react";
 import { getSessionQuestions } from "@/lib/session-questions";
 import { getSessionById } from "@/lib/storage";
 import { EXAM_META } from "@/lib/constants";
+import { getResultExplanation } from "@/lib/explanations";
+import { QuestionContent } from "./QuestionContent";
 
 interface ResultsViewProps {
   sessionId: string;
@@ -26,7 +28,12 @@ export function ResultsView({ sessionId }: ResultsViewProps) {
     const total = details.length;
     const percentage = total ? Math.round((score / total) * 100) : 0;
 
-    return { details, score, total, percentage };
+    const sortedDetails = [
+      ...details.filter((d) => !d.correct),
+      ...details.filter((d) => d.correct),
+    ];
+
+    return { details: sortedDetails, score, total, percentage };
   }, [session]);
 
   if (!session || !results) {
@@ -97,7 +104,11 @@ export function ResultsView({ sessionId }: ResultsViewProps) {
         </div>
       </div>
 
-      <h2 className="mb-4 text-lg font-bold text-gray-900">Review with explanations</h2>
+      <h2 className="mb-4 text-lg font-bold text-gray-900">
+        {results.details.some((d) => !d.correct)
+          ? "Review questions you missed"
+          : "Review with explanations"}
+      </h2>
       <div className="space-y-4">
         {results.details.map(({ question, userAnswer, correct }, index) => (
           <article
@@ -120,7 +131,11 @@ export function ResultsView({ sessionId }: ResultsViewProps) {
               </span>
             </div>
 
-            <p className="mb-4 text-gray-900">{question.text}</p>
+            <QuestionContent
+              text={question.text}
+              imageUrl={question.imageUrl}
+              className="mb-4"
+            />
 
             <div className="mb-4 grid gap-2 sm:grid-cols-2">
               {question.options.map((opt) => {
@@ -143,9 +158,15 @@ export function ResultsView({ sessionId }: ResultsViewProps) {
               })}
             </div>
 
-            <div className="rounded-lg bg-blue-50 px-4 py-3 text-sm text-blue-900">
-              <p className="font-semibold">Explanation</p>
-              <p className="mt-1">{question.explanation}</p>
+            <div
+              className={`rounded-lg px-4 py-3 text-sm ${
+                correct ? "bg-blue-50 text-blue-900" : "bg-amber-50 text-amber-950"
+              }`}
+            >
+              <p className="font-semibold">
+                {correct ? "Explanation" : "Why you got this wrong"}
+              </p>
+              <p className="mt-1">{getResultExplanation(question, userAnswer)}</p>
             </div>
           </article>
         ))}

@@ -1,7 +1,16 @@
+import type { Metadata } from "next";
 import Link from "next/link";
 import { Suspense } from "react";
 import { AuthHeader } from "@/components/AuthHeader";
 import { AuthForm } from "@/components/AuthForm";
+import { pageMetadata } from "@/lib/seo";
+
+export const metadata: Metadata = pageMetadata({
+  title: "Create account",
+  description: "Create a free PrepNG account to sync practice progress and subscriptions.",
+  path: "/signup",
+  noindex: true,
+});
 
 export default function SignupPage() {
   return (

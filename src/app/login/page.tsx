@@ -1,7 +1,16 @@
+import type { Metadata } from "next";
 import Link from "next/link";
 import { Suspense } from "react";
 import { AuthHeader } from "@/components/AuthHeader";
 import { AuthForm } from "@/components/AuthForm";
+import { pageMetadata } from "@/lib/seo";
+
+export const metadata: Metadata = pageMetadata({
+  title: "Sign in",
+  description: "Sign in to PrepNG with email or Nigerian phone number.",
+  path: "/login",
+  noindex: true,
+});
 
 export default function LoginPage() {
   return (

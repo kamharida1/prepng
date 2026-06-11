@@ -1,7 +1,16 @@
+import type { Metadata } from "next";
 import Link from "next/link";
 import { PerformanceAnalytics } from "@/components/PerformanceAnalytics";
 import { createClient } from "@/lib/supabase/server";
 import { isProfilePremium } from "@/lib/profile";
+import { pageMetadata } from "@/lib/seo";
+
+export const metadata: Metadata = pageMetadata({
+  title: "Performance analytics",
+  description: "Track your JAMB, WAEC, NECO and POST-UTME practice scores and weak topics.",
+  path: "/analytics",
+  noindex: true,
+});
 
 export default async function AnalyticsPage() {
   const supabase = await createClient();

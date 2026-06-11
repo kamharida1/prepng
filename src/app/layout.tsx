@@ -1,12 +1,9 @@
 import type { Metadata, Viewport } from "next";
 import { Footer } from "@/components/Footer";
-import { APP_NAME, APP_TAGLINE } from "@/lib/constants";
+import { baseMetadata } from "@/lib/seo";
 import "./globals.css";
 
-export const metadata: Metadata = {
-  title: `${APP_NAME} — JAMB, WAEC, NECO & POST-UTME Practice`,
-  description: APP_TAGLINE,
-};
+export const metadata: Metadata = baseMetadata;
 
 export const viewport: Viewport = {
   themeColor: "#15803d",
@@ -20,7 +17,7 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html lang="en" className="h-full antialiased">
+    <html lang="en-NG" className="h-full antialiased">
       <body className="flex min-h-full flex-col bg-white text-gray-900">
         <div className="flex flex-1 flex-col">{children}</div>
         <Footer />

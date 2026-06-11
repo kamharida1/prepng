@@ -78,18 +78,19 @@ export function AuthForm({ mode }: AuthFormProps) {
     setError("");
     setMessage("");
 
-    const supabase = createClient();
     const normalized = normalizeNigerianPhone(phone);
 
-    const { error: otpError } = await supabase.auth.signInWithOtp({
-      phone: normalized,
-      options: mode === "signup" ? { data: { full_name: fullName } } : undefined,
+    const res = await fetch("/api/auth/phone/send-otp", {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({ phone: normalized }),
     });
+    const data = await res.json().catch(() => ({}));
 
     setLoading(false);
 
-    if (otpError) {
-      setError(otpError.message);
+    if (!res.ok) {
+      setError(data.error ?? "Could not send OTP. Try again.");
       return;
     }
 
@@ -105,10 +106,27 @@ export function AuthForm({ mode }: AuthFormProps) {
     const supabase = createClient();
     const normalized = normalizeNigerianPhone(phone);
 
+    const res = await fetch("/api/auth/phone/verify-otp", {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({
+        phone: normalized,
+        otp,
+        fullName: fullName || undefined,
+        mode,
+      }),
+    });
+    const data = await res.json().catch(() => ({}));
+
+    if (!res.ok) {
+      setLoading(false);
+      setError(data.error ?? "Verification failed. Try again.");
+      return;
+    }
+
     const { error: verifyError } = await supabase.auth.verifyOtp({
-      phone: normalized,
-      token: otp,
-      type: "sms",
+      token_hash: data.token_hash,
+      type: "email",
     });
 
     setLoading(false);
@@ -262,7 +280,7 @@ export function AuthForm({ mode }: AuthFormProps) {
                 {loading ? "Sending..." : "Send OTP"}
               </button>
               <p className="text-xs text-gray-500">
-                Requires SMS provider in Supabase (Termii, Twilio, etc.).
+                We&apos;ll text a 6-digit code to your Nigerian number.
               </p>
             </div>
           ) : (

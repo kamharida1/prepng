@@ -2,7 +2,7 @@ const CACHE_NAME = "prepng-v2";
 const API_CACHE = "prepng-api-v2";
 
 // Only cache static assets — never cache HTML/document navigations.
-const STATIC_ASSETS = ["/manifest.json"];
+const STATIC_ASSETS = ["/manifest.webmanifest"];
 
 self.addEventListener("install", (event) => {
   event.waitUntil(

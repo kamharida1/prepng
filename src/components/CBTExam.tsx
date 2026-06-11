@@ -3,6 +3,7 @@
 import { useCallback, useMemo, useState } from "react";
 import { useRouter } from "next/navigation";
 import { QuestionPalette } from "./QuestionPalette";
+import { QuestionContent } from "./QuestionContent";
 import { Timer } from "./Timer";
 import { EXAM_META } from "@/lib/constants";
 import { getSessionQuestions } from "@/lib/session-questions";
@@ -137,9 +138,11 @@ export function CBTExam({ initialSession }: CBTExamProps) {
             </button>
           </div>
 
-          <p className="mb-6 text-base leading-relaxed text-gray-900">
-            {currentQuestion.text}
-          </p>
+          <QuestionContent
+            text={currentQuestion.text}
+            imageUrl={currentQuestion.imageUrl}
+            className="mb-6 text-base"
+          />
 
           <div className="space-y-3">
             {currentQuestion.options.map((option) => {

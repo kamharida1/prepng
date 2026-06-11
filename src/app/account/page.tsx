@@ -1,5 +1,14 @@
+import type { Metadata } from "next";
 import { AuthHeader } from "@/components/AuthHeader";
 import { AccountDashboard } from "@/components/AccountDashboard";
+import { pageMetadata } from "@/lib/seo";
+
+export const metadata: Metadata = pageMetadata({
+  title: "My account",
+  description: "Manage your PrepNG profile, subscription, and payment history.",
+  path: "/account",
+  noindex: true,
+});
 
 export default function AccountPage() {
   return (

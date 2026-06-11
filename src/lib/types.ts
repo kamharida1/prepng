@@ -14,6 +14,8 @@ export interface Question {
   year: number;
   university?: string;
   text: string;
+  /** Diagram or figure URL from ALOC (Cloudinary) */
+  imageUrl?: string;
   options: QuestionOption[];
   correctAnswer: string;
   explanation: string;

@@ -8,7 +8,6 @@ import {
   resolveUserIdForPayment,
 } from "@/lib/activate-subscription";
 import { createServiceClient } from "@/lib/supabase/service";
-import { PAYSTACK_APP_ID } from "@/lib/constants";
 
 interface PaystackWebhookEvent {
   event: string;
@@ -18,6 +17,11 @@ interface PaystackWebhookEvent {
     metadata?: Record<string, unknown> | null;
     customer?: { email?: string };
   };
+}
+
+/** Paystack retries webhooks unless we return 200. Always acknowledge after signature check. */
+function ack(body: Record<string, unknown>, status = 200) {
+  return NextResponse.json(body, { status });
 }
 
 export async function POST(request: NextRequest) {
@@ -32,30 +36,37 @@ export async function POST(request: NextRequest) {
   try {
     event = JSON.parse(rawBody) as PaystackWebhookEvent;
   } catch {
-    return NextResponse.json({ error: "Invalid payload" }, { status: 400 });
+    return ack({ received: true, handled: false, reason: "invalid_json" });
   }
 
   const data = event.data;
-  if (!data?.reference) {
-    return NextResponse.json({ received: true, handled: false, reason: "no_reference" });
-  }
 
-  // Shared Paystack keys: ignore charges for other apps (still return 200).
-  if (!isPrepNgCharge(data)) {
-    return NextResponse.json({
+  // Non-PrepNG charges (other apps on shared keys) — acknowledge only.
+  if (!data?.reference || !isPrepNgCharge(data)) {
+    return ack({
       received: true,
       handled: false,
-      reason: "not_prepng",
-      app: PAYSTACK_APP_ID,
+      reason: data?.reference ? "not_prepng" : "no_reference",
+      event: event.event,
     });
   }
 
-  if (event.event !== "charge.success" || data.status !== "success") {
-    return NextResponse.json({
+  // Only process charge.success; other events are acknowledged but ignored.
+  if (event.event !== "charge.success") {
+    return ack({
       received: true,
       handled: false,
       reason: "event_ignored",
       event: event.event,
+    });
+  }
+
+  if (data.status !== "success") {
+    return ack({
+      received: true,
+      handled: false,
+      reason: "charge_not_success",
+      status: data.status,
     });
   }
 
@@ -64,7 +75,8 @@ export async function POST(request: NextRequest) {
     admin = createServiceClient();
   } catch (err) {
     const message = err instanceof Error ? err.message : "Server configuration error";
-    return NextResponse.json({ error: message }, { status: 500 });
+    console.error("[paystack webhook] config error:", message);
+    return ack({ received: true, handled: false, error: message });
   }
 
   const userId = await resolveUserIdForPayment(
@@ -74,7 +86,7 @@ export async function POST(request: NextRequest) {
   );
 
   if (!userId) {
-    return NextResponse.json({
+    return ack({
       received: true,
       handled: false,
       reason: "user_not_found",
@@ -85,13 +97,16 @@ export async function POST(request: NextRequest) {
   const result = await activateSubscriptionForUser(admin, userId, data.reference);
 
   if (!result.ok) {
-    return NextResponse.json(
-      { received: true, handled: false, error: result.error },
-      { status: 422 },
-    );
+    console.error("[paystack webhook] activation failed:", result.error, data.reference);
+    return ack({
+      received: true,
+      handled: false,
+      error: result.error,
+      reference: data.reference,
+    });
   }
 
-  return NextResponse.json({
+  return ack({
     received: true,
     handled: true,
     alreadyActivated: result.alreadyActivated ?? false,

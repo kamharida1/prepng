@@ -1,10 +1,13 @@
 import type { Metadata } from "next";
 import { LegalLayout } from "@/components/LegalLayout";
 import { APP_NAME, SUPPORT_EMAIL } from "@/lib/constants";
+import { pageMetadata } from "@/lib/seo";
 
-export const metadata: Metadata = {
-  title: `Refund Policy — ${APP_NAME}`,
-};
+export const metadata: Metadata = pageMetadata({
+  title: "Refund Policy",
+  description: `Refund and cancellation policy for ${APP_NAME} subscription plans paid via Paystack.`,
+  path: "/refunds",
+});
 
 export default function RefundsPage() {
   return (

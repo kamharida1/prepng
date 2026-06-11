@@ -1,10 +1,13 @@
 import type { Metadata } from "next";
 import { LegalLayout } from "@/components/LegalLayout";
 import { APP_NAME, COMPANY_NAME, SUPPORT_EMAIL } from "@/lib/constants";
+import { pageMetadata } from "@/lib/seo";
 
-export const metadata: Metadata = {
-  title: `Privacy Policy — ${APP_NAME}`,
-};
+export const metadata: Metadata = pageMetadata({
+  title: "Privacy Policy",
+  description: `How ${APP_NAME} collects, uses, and protects your data when you practice for Nigerian exams.`,
+  path: "/privacy",
+});
 
 export default function PrivacyPage() {
   return (

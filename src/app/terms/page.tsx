@@ -1,10 +1,13 @@
 import type { Metadata } from "next";
 import { LegalLayout } from "@/components/LegalLayout";
 import { APP_NAME, COMPANY_NAME, SUPPORT_EMAIL } from "@/lib/constants";
+import { pageMetadata } from "@/lib/seo";
 
-export const metadata: Metadata = {
-  title: `Terms of Service — ${APP_NAME}`,
-};
+export const metadata: Metadata = pageMetadata({
+  title: "Terms of Service",
+  description: `Terms and conditions for using ${APP_NAME} exam practice platform.`,
+  path: "/terms",
+});
 
 export default function TermsPage() {
   return (

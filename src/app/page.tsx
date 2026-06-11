@@ -1,5 +1,7 @@
+import type { Metadata } from "next";
 import Link from "next/link";
 import { AuthHeader } from "@/components/AuthHeader";
+import { JsonLd } from "@/components/JsonLd";
 import { QuestionBankOverview } from "@/components/QuestionBankOverview";
 import {
   APP_NAME,
@@ -7,13 +9,29 @@ import {
   EXAM_META,
   EXAM_TYPES,
 } from "@/lib/constants";
+import { examLandingPath } from "@/lib/exam-landing";
+import { practiceUrl } from "@/lib/practice-url";
 import { getQuestionCounts } from "@/lib/question-stats";
+import {
+  DEFAULT_DESCRIPTION,
+  HOME_H1,
+  homeJsonLd,
+  pageMetadata,
+} from "@/lib/seo";
+import type { ExamType } from "@/lib/types";
+
+export const metadata: Metadata = pageMetadata({
+  title: "JAMB, WAEC, NECO & POST-UTME Past Questions",
+  description: DEFAULT_DESCRIPTION,
+  path: "/",
+});
 
 export default function Home() {
   const counts = getQuestionCounts();
 
   return (
     <div className="min-h-screen bg-gradient-to-b from-green-50 to-white">
+      <JsonLd data={homeJsonLd()} />
       <AuthHeader />
 
       <main>
@@ -21,12 +39,13 @@ export default function Home() {
           <p className="mb-3 inline-block rounded-full bg-green-100 px-4 py-1 text-sm font-semibold text-green-800">
             Built for Nigerian students
           </p>
-          <h1 className="text-4xl font-bold tracking-tight text-gray-900 sm:text-5xl">
-            {APP_NAME}
+          <h1 className="text-3xl font-bold tracking-tight text-gray-900 sm:text-5xl">
+            {HOME_H1}
           </h1>
+          <p className="mx-auto mt-3 text-xl font-semibold text-green-800">{APP_NAME}</p>
           <p className="mx-auto mt-4 max-w-2xl text-lg text-gray-600">{APP_TAGLINE}</p>
           <p className="mx-auto mt-2 max-w-2xl text-gray-500">
-            Real JAMB, WAEC & POST-UTME past questions · CBT practice · detailed explanations.
+            Real JAMB, WAEC, NECO & POST-UTME past questions · CBT practice · detailed explanations.
           </p>
 
           <div className="mt-8 flex flex-wrap justify-center gap-4">
@@ -48,17 +67,23 @@ export default function Home() {
         <section className="mx-auto max-w-5xl px-4 pb-8">
           <div className="grid gap-4 sm:grid-cols-2 lg:grid-cols-4">
             {EXAM_TYPES.map((exam) => (
-              <div
+              <Link
                 key={exam}
-                className="rounded-2xl border border-gray-200 bg-white p-5 shadow-sm"
+                href={examLandingPath(exam as ExamType)}
+                className="group rounded-2xl border border-gray-200 bg-white p-5 shadow-sm transition hover:border-green-300 hover:shadow-md"
                 style={{ borderTopColor: EXAM_META[exam].color, borderTopWidth: 3 }}
               >
-                <h2 className="text-lg font-bold text-gray-900">{exam}</h2>
+                <h2 className="text-lg font-bold text-gray-900 group-hover:text-green-800">
+                  {exam}
+                </h2>
                 <p className="mt-1 text-sm text-gray-600">{EXAM_META[exam].description}</p>
                 <p className="mt-3 text-sm font-semibold text-green-700">
                   {counts[exam] ?? 0} sample questions
                 </p>
-              </div>
+                <p className="mt-2 text-xs font-medium text-green-600 opacity-0 transition group-hover:opacity-100">
+                  Start practice →
+                </p>
+              </Link>
             ))}
           </div>
         </section>

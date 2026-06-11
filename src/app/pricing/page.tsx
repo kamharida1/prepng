@@ -1,7 +1,16 @@
+import type { Metadata } from "next";
 import Link from "next/link";
 import { Suspense } from "react";
 import { AuthHeader } from "@/components/AuthHeader";
 import { PricingCards } from "@/components/PricingCards";
+import { pageMetadata } from "@/lib/seo";
+
+export const metadata: Metadata = pageMetadata({
+  title: "Pricing",
+  description:
+    "Affordable JAMB, WAEC, NECO and POST-UTME practice plans in Naira. Start free with 20 questions daily or upgrade for unlimited CBT practice, offline packs, and analytics.",
+  path: "/pricing",
+});
 
 export default function PricingPage() {
   return (

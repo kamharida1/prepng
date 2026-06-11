@@ -1,3 +1,4 @@
+import { resolveQuestionExplanation } from "./explanations";
 import type { ExamType, Question } from "./types";
 
 const ALOC_BASE = "https://questions.aloc.com.ng/api/v2/q";
@@ -12,6 +13,7 @@ export interface AlocQuestionData {
   examyear: string;
   section?: string;
   category?: string;
+  image?: string;
 }
 
 export interface AlocResponse {
@@ -54,6 +56,32 @@ export function getAlocSubject(subject: string): string | null {
   return SUBJECT_TO_ALOC[subject] ?? null;
 }
 
+const ALOC_IMAGE_HOST = "res.cloudinary.com";
+
+export function isAllowedAlocImageUrl(url: string): boolean {
+  try {
+    const parsed = new URL(url);
+    return (
+      parsed.protocol === "https:" &&
+      parsed.hostname === ALOC_IMAGE_HOST &&
+      parsed.pathname.includes("/aloc-ng/")
+    );
+  } catch {
+    return false;
+  }
+}
+
+export function extractAlocImages(html: string): string[] {
+  if (!html) return [];
+  const urls: string[] = [];
+  const pattern = /<img[^>]+src=["']([^"']+)["']/gi;
+  let match: RegExpExecArray | null;
+  while ((match = pattern.exec(html)) !== null) {
+    if (isAllowedAlocImageUrl(match[1])) urls.push(match[1]);
+  }
+  return [...new Set(urls)];
+}
+
 export function formatAlocText(html: string): string {
   if (!html) return "";
   return html
@@ -65,6 +93,14 @@ export function formatAlocText(html: string): string {
     .replace(/&#x2212;/g, "−")
     .replace(/&quot;/g, '"')
     .trim();
+}
+
+function resolveAlocImageUrl(data: AlocQuestionData): string | undefined {
+  const fromField = data.image?.trim();
+  if (fromField && isAllowedAlocImageUrl(fromField)) return fromField;
+
+  const embedded = extractAlocImages(data.question);
+  return embedded[0];
 }
 
 export function alocToQuestion(
@@ -88,6 +124,8 @@ export function alocToQuestion(
   const correctAnswer =
     answerIndex >= 0 ? String.fromCharCode(65 + answerIndex) : "A";
 
+  const imageUrl = resolveAlocImageUrl(data);
+
   return {
     id: `aloc-${data.id}`,
     exam,
@@ -101,9 +139,14 @@ export function alocToQuestion(
       return data.category ?? "Past question";
     })(),
     text: formatAlocText(data.question),
+    imageUrl,
     options,
     correctAnswer,
-    explanation: formatAlocText(data.solution) || "Refer to the correct option above.",
+    explanation: resolveQuestionExplanation(
+      formatAlocText(data.solution),
+      correctAnswer,
+      options,
+    ),
   };
 }
 

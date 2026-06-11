@@ -1,6 +1,7 @@
 import { NextRequest, NextResponse } from "next/server";
 import { PAYSTACK_APP_ID } from "@/lib/constants";
 import { getPlanAmount } from "@/lib/paystack";
+import { getSiteUrl } from "@/lib/site";
 import { createClient } from "@/lib/supabase/server";
 import type { PlanId } from "@/lib/types";
 
@@ -28,10 +29,12 @@ export async function POST(request: NextRequest) {
   const secretKey = process.env.PAYSTACK_SECRET_KEY;
   const amount = getPlanAmount(plan);
 
+  const siteUrl = getSiteUrl(request);
+
   if (!secretKey) {
     const reference = `demo-${plan}-${Date.now()}`;
     return NextResponse.json({
-      authorization_url: `${request.nextUrl.origin}/pricing?demo=1&ref=${reference}`,
+      authorization_url: `${siteUrl}/pricing?demo=1&ref=${reference}`,
       reference,
       demo: true,
       message: "Add PAYSTACK_SECRET_KEY to enable live payments.",
@@ -56,7 +59,7 @@ export async function POST(request: NextRequest) {
         plan,
         user_id: user.id,
       },
-      callback_url: `${request.nextUrl.origin}/pricing?ref=${reference}`,
+      callback_url: `${siteUrl}/pricing?ref=${reference}`,
     }),
   });
 

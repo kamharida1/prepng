@@ -1,10 +1,13 @@
 import type { Metadata } from "next";
 import { LegalLayout } from "@/components/LegalLayout";
 import { APP_NAME, SUPPORT_EMAIL, SUPPORT_WHATSAPP } from "@/lib/constants";
+import { pageMetadata } from "@/lib/seo";
 
-export const metadata: Metadata = {
-  title: `Contact — ${APP_NAME}`,
-};
+export const metadata: Metadata = pageMetadata({
+  title: "Contact & support",
+  description: `Contact ${APP_NAME} for help with JAMB, WAEC, NECO and POST-UTME practice, billing, or account issues.`,
+  path: "/contact",
+});
 
 export default function ContactPage() {
   const whatsappUrl = `https://wa.me/${SUPPORT_WHATSAPP}?text=${encodeURIComponent(

@@ -1,5 +1,8 @@
+import Link from "next/link";
 import { getPackSummaries, getQuestionManifest } from "@/lib/question-stats";
 import { EXAM_META } from "@/lib/constants";
+import { examLandingPath } from "@/lib/exam-landing";
+import { subjectLandingPath } from "@/lib/subject-landing";
 import type { ExamType } from "@/lib/types";
 
 export function QuestionBankOverview() {
@@ -33,22 +36,28 @@ export function QuestionBankOverview() {
             style={{ borderTopColor: EXAM_META[exam].color, borderTopWidth: 3 }}
           >
             <div className="mb-4 flex items-center justify-between">
-              <h3 className="text-lg font-bold text-gray-900">{exam}</h3>
+              <Link
+                href={examLandingPath(exam)}
+                className="text-lg font-bold text-gray-900 hover:text-green-800"
+              >
+                {exam}
+              </Link>
               <span className="text-sm font-medium text-green-700">
                 {byExam[exam].reduce((sum, p) => sum + p.count, 0)} questions
               </span>
             </div>
             <div className="grid gap-2 sm:grid-cols-2 lg:grid-cols-4">
               {byExam[exam].map((pack) => (
-                <div
+                <Link
                   key={pack.slug}
-                  className="rounded-xl border border-gray-100 bg-gray-50 px-3 py-2 text-sm"
+                  href={subjectLandingPath(exam, pack.subject)}
+                  className="rounded-xl border border-gray-100 bg-gray-50 px-3 py-2 text-sm transition hover:border-green-300 hover:bg-green-50"
                 >
                   <p className="font-medium text-gray-900">{pack.subject}</p>
                   <p className="text-xs text-gray-500">
                     {pack.count} Qs · {pack.years.join(", ")}
                   </p>
-                </div>
+                </Link>
               ))}
             </div>
           </div>

@@ -2,11 +2,13 @@ import type { ExamType, PricingPlan } from "./types";
 
 export const APP_NAME = "PrepNG";
 export const APP_TAGLINE = "Ace JAMB, WAEC, NECO & POST-UTME";
-export const SUPPORT_EMAIL = "support@prepng.ng";
+export const SUPPORT_EMAIL = "support@prepng.com";
 export const SUPPORT_WHATSAPP = "2348000000000"; // Replace with your WhatsApp number
 export const COMPANY_NAME = "PrepNG";
-/** Paystack metadata `app` value — used to route webhooks when keys are shared across products */
+/** Paystack metadata `app` value — identifies PrepNG charges on the shared webhook */
 export const PAYSTACK_APP_ID = "prepng";
+/** Set this URL in Paystack Dashboard → Settings → Webhooks */
+export const PAYSTACK_WEBHOOK_URL = "https://prepng.com/api/paystack/webhook";
 
 export const EXAM_TYPES: ExamType[] = ["JAMB", "WAEC", "NECO", "POST-UTME"];
 

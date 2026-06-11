@@ -2,7 +2,7 @@
 
 import { useEffect, useState } from "react";
 import Link from "next/link";
-import { useRouter } from "next/navigation";
+import { useRouter, useSearchParams } from "next/navigation";
 import {
   EXAM_META,
   EXAM_TYPES,
@@ -26,10 +26,29 @@ import type { ExamType, Question } from "@/lib/types";
 
 const DOWNLOAD_COUNT = 30;
 
+function resolvePracticeSelection(
+  examParam: string | null,
+  subjectParam: string | null,
+): { exam: ExamType; subject: string } {
+  const exam =
+    examParam && EXAM_TYPES.includes(examParam as ExamType)
+      ? (examParam as ExamType)
+      : "JAMB";
+  const subjects = SUBJECTS_BY_EXAM[exam];
+  const subject =
+    subjectParam && subjects.includes(subjectParam) ? subjectParam : subjects[0];
+  return { exam, subject };
+}
+
 export function PracticeSetup() {
   const router = useRouter();
-  const [exam, setExam] = useState<ExamType>("JAMB");
-  const [subject, setSubject] = useState(SUBJECTS_BY_EXAM.JAMB[0]);
+  const searchParams = useSearchParams();
+  const initialSelection = resolvePracticeSelection(
+    searchParams.get("exam"),
+    searchParams.get("subject"),
+  );
+  const [exam, setExam] = useState<ExamType>(initialSelection.exam);
+  const [subject, setSubject] = useState(initialSelection.subject);
   const [university, setUniversity] = useState("");
   const [year, setYear] = useState<number | "all">("all");
   const [count, setCount] = useState(10);
@@ -52,6 +71,19 @@ export function PracticeSetup() {
   useEffect(() => {
     fetchUsageState().then(setUsage);
   }, []);
+
+  useEffect(() => {
+    const next = resolvePracticeSelection(
+      searchParams.get("exam"),
+      searchParams.get("subject"),
+    );
+    setExam(next.exam);
+    setSubject(next.subject);
+    setUniversity("");
+    setYear("all");
+    setError("");
+    setDownloadMsg("");
+  }, [searchParams]);
 
   useEffect(() => {
     refreshOfflineCount();

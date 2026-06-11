@@ -1,5 +1,6 @@
 import Link from "next/link";
 import { APP_NAME, SUPPORT_EMAIL } from "@/lib/constants";
+import { EXAM_LANDING } from "@/lib/exam-landing";
 
 export function Footer() {
   return (
@@ -17,6 +18,14 @@ export function Footer() {
             </a>
           </div>
           <nav className="flex flex-wrap gap-x-6 gap-y-2 text-sm text-gray-600">
+            {Object.values(EXAM_LANDING).map((exam) => (
+              <Link key={exam.slug} href={exam.path} className="hover:text-green-800">
+                {exam.exam}
+              </Link>
+            ))}
+            <Link href="/practice" className="hover:text-green-800">
+              Practice
+            </Link>
             <Link href="/privacy" className="hover:text-green-800">
               Privacy Policy
             </Link>
