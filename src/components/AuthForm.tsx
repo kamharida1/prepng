@@ -1,12 +1,12 @@
 "use client";
 
-import { useState } from "react";
+import { useEffect, useState } from "react";
+import Link from "next/link";
 import { useRouter, useSearchParams } from "next/navigation";
 import { createClient, isSupabaseConfigured } from "@/lib/supabase/client";
 import { normalizeNigerianPhone } from "@/lib/profile";
 
 type AuthMode = "login" | "signup";
-type AuthMethod = "email" | "phone";
 
 interface AuthFormProps {
   mode: AuthMode;
@@ -16,18 +16,50 @@ export function AuthForm({ mode }: AuthFormProps) {
   const router = useRouter();
   const searchParams = useSearchParams();
   const nextPath = searchParams.get("next") || "/account";
-  const [method, setMethod] = useState<AuthMethod>("email");
   const [email, setEmail] = useState("");
   const [password, setPassword] = useState("");
   const [fullName, setFullName] = useState("");
   const [phone, setPhone] = useState("");
-  const [otp, setOtp] = useState("");
-  const [otpSent, setOtpSent] = useState(false);
   const [loading, setLoading] = useState(false);
   const [message, setMessage] = useState("");
   const [error, setError] = useState("");
 
   const configured = isSupabaseConfigured();
+
+  useEffect(() => {
+    const authError = searchParams.get("error");
+    if (authError === "auth") {
+      setError("Sign-in link expired or invalid. Please try again.");
+    }
+  }, [searchParams]);
+
+  const emailRedirectTo = `${window.location.origin}/auth/callback?next=/account`;
+
+  const resendConfirmation = async () => {
+    if (!email) {
+      setError("Enter your email address first.");
+      return;
+    }
+
+    setLoading(true);
+    setError("");
+
+    const supabase = createClient();
+    const { error: resendError } = await supabase.auth.resend({
+      type: "signup",
+      email,
+      options: { emailRedirectTo },
+    });
+
+    setLoading(false);
+
+    if (resendError) {
+      setError(resendError.message);
+      return;
+    }
+
+    setMessage("Confirmation email sent. Check your inbox.");
+  };
 
   const handleEmailSubmit = async (e: React.FormEvent) => {
     e.preventDefault();
@@ -73,73 +105,6 @@ export function AuthForm({ mode }: AuthFormProps) {
     router.refresh();
   };
 
-  const sendPhoneOtp = async () => {
-    setLoading(true);
-    setError("");
-    setMessage("");
-
-    const normalized = normalizeNigerianPhone(phone);
-
-    const res = await fetch("/api/auth/phone/send-otp", {
-      method: "POST",
-      headers: { "Content-Type": "application/json" },
-      body: JSON.stringify({ phone: normalized }),
-    });
-    const data = await res.json().catch(() => ({}));
-
-    setLoading(false);
-
-    if (!res.ok) {
-      setError(data.error ?? "Could not send OTP. Try again.");
-      return;
-    }
-
-    setOtpSent(true);
-    setMessage(`OTP sent to ${normalized}. Enter the 6-digit code.`);
-  };
-
-  const verifyPhoneOtp = async (e: React.FormEvent) => {
-    e.preventDefault();
-    setLoading(true);
-    setError("");
-
-    const supabase = createClient();
-    const normalized = normalizeNigerianPhone(phone);
-
-    const res = await fetch("/api/auth/phone/verify-otp", {
-      method: "POST",
-      headers: { "Content-Type": "application/json" },
-      body: JSON.stringify({
-        phone: normalized,
-        otp,
-        fullName: fullName || undefined,
-        mode,
-      }),
-    });
-    const data = await res.json().catch(() => ({}));
-
-    if (!res.ok) {
-      setLoading(false);
-      setError(data.error ?? "Verification failed. Try again.");
-      return;
-    }
-
-    const { error: verifyError } = await supabase.auth.verifyOtp({
-      token_hash: data.token_hash,
-      type: "email",
-    });
-
-    setLoading(false);
-
-    if (verifyError) {
-      setError(verifyError.message);
-      return;
-    }
-
-    router.push(nextPath);
-    router.refresh();
-  };
-
   if (!configured) {
     return (
       <div className="rounded-xl border border-amber-200 bg-amber-50 p-6 text-sm text-amber-900">
@@ -155,170 +120,94 @@ export function AuthForm({ mode }: AuthFormProps) {
 
   return (
     <div className="rounded-2xl border border-gray-200 bg-white p-6 shadow-sm">
-      <div className="mb-6 flex rounded-xl bg-gray-100 p-1">
-        <button
-          type="button"
-          onClick={() => { setMethod("email"); setOtpSent(false); setError(""); }}
-          className={`flex-1 rounded-lg py-2 text-sm font-semibold ${
-            method === "email" ? "bg-white text-green-800 shadow-sm" : "text-gray-600"
-          }`}
-        >
-          Email
-        </button>
-        <button
-          type="button"
-          onClick={() => { setMethod("phone"); setOtpSent(false); setError(""); }}
-          className={`flex-1 rounded-lg py-2 text-sm font-semibold ${
-            method === "phone" ? "bg-white text-green-800 shadow-sm" : "text-gray-600"
-          }`}
-        >
-          Phone OTP
-        </button>
-      </div>
-
-      {method === "email" ? (
-        <form onSubmit={handleEmailSubmit} className="space-y-4">
-          {mode === "signup" && (
-            <>
-              <div>
-                <label htmlFor="fullName" className="mb-1 block text-sm font-medium text-gray-700">
-                  Full name
-                </label>
-                <input
-                  id="fullName"
-                  value={fullName}
-                  onChange={(e) => setFullName(e.target.value)}
-                  className="w-full rounded-xl border border-gray-300 px-4 py-3"
-                  required
-                />
-              </div>
-              <div>
-                <label htmlFor="phoneOptional" className="mb-1 block text-sm font-medium text-gray-700">
-                  Phone (optional)
-                </label>
-                <input
-                  id="phoneOptional"
-                  value={phone}
-                  onChange={(e) => setPhone(e.target.value)}
-                  placeholder="08012345678"
-                  className="w-full rounded-xl border border-gray-300 px-4 py-3"
-                />
-              </div>
-            </>
-          )}
-          <div>
-            <label htmlFor="email" className="mb-1 block text-sm font-medium text-gray-700">
-              Email
-            </label>
-            <input
-              id="email"
-              type="email"
-              value={email}
-              onChange={(e) => setEmail(e.target.value)}
-              className="w-full rounded-xl border border-gray-300 px-4 py-3"
-              required
-            />
-          </div>
-          <div>
-            <label htmlFor="password" className="mb-1 block text-sm font-medium text-gray-700">
-              Password
-            </label>
-            <input
-              id="password"
-              type="password"
-              value={password}
-              onChange={(e) => setPassword(e.target.value)}
-              minLength={6}
-              className="w-full rounded-xl border border-gray-300 px-4 py-3"
-              required
-            />
-          </div>
-          <button
-            type="submit"
-            disabled={loading}
-            className="w-full rounded-xl bg-green-700 py-3 text-sm font-semibold text-white hover:bg-green-800 disabled:opacity-50"
-          >
-            {loading ? "Please wait..." : mode === "signup" ? "Create account" : "Sign in"}
-          </button>
-        </form>
-      ) : (
-        <div>
-          {!otpSent ? (
-            <div className="space-y-4">
-              {mode === "signup" && (
-                <div>
-                  <label htmlFor="fullNamePhone" className="mb-1 block text-sm font-medium text-gray-700">
-                    Full name
-                  </label>
-                  <input
-                    id="fullNamePhone"
-                    value={fullName}
-                    onChange={(e) => setFullName(e.target.value)}
-                    className="w-full rounded-xl border border-gray-300 px-4 py-3"
-                  />
-                </div>
-              )}
-              <div>
-                <label htmlFor="phone" className="mb-1 block text-sm font-medium text-gray-700">
-                  Nigerian phone number
-                </label>
-                <input
-                  id="phone"
-                  value={phone}
-                  onChange={(e) => setPhone(e.target.value)}
-                  placeholder="08012345678 or +2348012345678"
-                  className="w-full rounded-xl border border-gray-300 px-4 py-3"
-                  required
-                />
-              </div>
-              <button
-                type="button"
-                onClick={sendPhoneOtp}
-                disabled={loading}
-                className="w-full rounded-xl bg-green-700 py-3 text-sm font-semibold text-white hover:bg-green-800 disabled:opacity-50"
-              >
-                {loading ? "Sending..." : "Send OTP"}
-              </button>
-              <p className="text-xs text-gray-500">
-                We&apos;ll text a 6-digit code to your Nigerian number.
-              </p>
+      <form onSubmit={handleEmailSubmit} className="space-y-4">
+        {mode === "signup" && (
+          <>
+            <div>
+              <label htmlFor="fullName" className="mb-1 block text-sm font-medium text-gray-700">
+                Full name
+              </label>
+              <input
+                id="fullName"
+                value={fullName}
+                onChange={(e) => setFullName(e.target.value)}
+                className="w-full rounded-xl border border-gray-300 px-4 py-3"
+                required
+              />
             </div>
-          ) : (
-            <form onSubmit={verifyPhoneOtp} className="space-y-4">
-              <div>
-                <label htmlFor="otp" className="mb-1 block text-sm font-medium text-gray-700">
-                  Enter OTP
-                </label>
-                <input
-                  id="otp"
-                  value={otp}
-                  onChange={(e) => setOtp(e.target.value)}
-                  placeholder="6-digit code"
-                  className="w-full rounded-xl border border-gray-300 px-4 py-3 tracking-widest"
-                  required
-                />
-              </div>
-              <button
-                type="submit"
-                disabled={loading}
-                className="w-full rounded-xl bg-green-700 py-3 text-sm font-semibold text-white hover:bg-green-800 disabled:opacity-50"
-              >
-                {loading ? "Verifying..." : "Verify & sign in"}
-              </button>
-              <button
-                type="button"
-                onClick={() => setOtpSent(false)}
-                className="w-full text-sm text-gray-500"
-              >
-                Use a different number
-              </button>
-            </form>
+            <div>
+              <label htmlFor="phoneOptional" className="mb-1 block text-sm font-medium text-gray-700">
+                Phone (optional)
+              </label>
+              <input
+                id="phoneOptional"
+                value={phone}
+                onChange={(e) => setPhone(e.target.value)}
+                placeholder="08012345678"
+                className="w-full rounded-xl border border-gray-300 px-4 py-3"
+              />
+            </div>
+          </>
+        )}
+        <div>
+          <label htmlFor="email" className="mb-1 block text-sm font-medium text-gray-700">
+            Email
+          </label>
+          <input
+            id="email"
+            type="email"
+            value={email}
+            onChange={(e) => setEmail(e.target.value)}
+            className="w-full rounded-xl border border-gray-300 px-4 py-3"
+            required
+          />
+        </div>
+        <div>
+          <label htmlFor="password" className="mb-1 block text-sm font-medium text-gray-700">
+            Password
+          </label>
+          <input
+            id="password"
+            type="password"
+            value={password}
+            onChange={(e) => setPassword(e.target.value)}
+            minLength={6}
+            className="w-full rounded-xl border border-gray-300 px-4 py-3"
+            required
+          />
+          {mode === "login" && (
+            <p className="mt-2 text-right">
+              <Link href="/forgot-password" className="text-sm font-semibold text-green-700">
+                Forgot password?
+              </Link>
+            </p>
+          )}
+        </div>
+        <button
+          type="submit"
+          disabled={loading}
+          className="w-full rounded-xl bg-green-700 py-3 text-sm font-semibold text-white hover:bg-green-800 disabled:opacity-50"
+        >
+          {loading ? "Please wait..." : mode === "signup" ? "Create account" : "Sign in"}
+        </button>
+      </form>
+
+      {error && <p className="mt-4 rounded-lg bg-red-50 px-4 py-3 text-sm text-red-700">{error}</p>}
+      {message && (
+        <div className="mt-4 rounded-lg bg-green-50 px-4 py-3 text-sm text-green-700">
+          <p>{message}</p>
+          {mode === "signup" && (
+            <button
+              type="button"
+              onClick={resendConfirmation}
+              disabled={loading}
+              className="mt-2 font-semibold text-green-800 underline disabled:opacity-50"
+            >
+              Resend confirmation email
+            </button>
           )}
         </div>
       )}
-
-      {error && <p className="mt-4 rounded-lg bg-red-50 px-4 py-3 text-sm text-red-700">{error}</p>}
-      {message && <p className="mt-4 rounded-lg bg-green-50 px-4 py-3 text-sm text-green-700">{message}</p>}
     </div>
   );
 }

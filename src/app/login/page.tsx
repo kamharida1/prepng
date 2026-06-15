@@ -7,7 +7,7 @@ import { pageMetadata } from "@/lib/seo";
 
 export const metadata: Metadata = pageMetadata({
   title: "Sign in",
-  description: "Sign in to PrepNG with email or Nigerian phone number.",
+  description: "Sign in to PrepNG with your email and password.",
   path: "/login",
   noindex: true,
 });
@@ -18,7 +18,7 @@ export default function LoginPage() {
       <AuthHeader />
       <div className="mx-auto max-w-md px-4 py-12">
         <h1 className="mb-2 text-2xl font-bold text-gray-900">Welcome back</h1>
-        <p className="mb-8 text-gray-600">Sign in with email or Nigerian phone number.</p>
+        <p className="mb-8 text-gray-600">Sign in with your email and password.</p>
         <Suspense fallback={<p className="text-gray-500">Loading...</p>}>
           <AuthForm mode="login" />
         </Suspense>

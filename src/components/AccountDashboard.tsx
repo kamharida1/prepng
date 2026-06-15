@@ -7,6 +7,7 @@ import { formatNaira } from "@/lib/subscription";
 import type { UserProfile } from "@/lib/profile";
 import { PaymentHistory } from "@/components/PaymentHistory";
 import { PerformanceAnalytics } from "@/components/PerformanceAnalytics";
+import { ChangePasswordForm } from "@/components/ChangePasswordForm";
 import { PRICING_PLANS } from "@/lib/constants";
 import { isProfilePremium } from "@/lib/profile";
 
@@ -120,6 +121,12 @@ export function AccountDashboard() {
           </button>
           {message && <p className="text-sm text-green-700">{message}</p>}
         </div>
+      </div>
+
+      <div className="rounded-2xl border border-gray-200 bg-white p-6 shadow-sm">
+        <h2 className="text-lg font-bold text-gray-900">Password</h2>
+        <p className="mt-1 text-sm text-gray-500">Update your password using your current one.</p>
+        {profile.email && <ChangePasswordForm email={profile.email} />}
       </div>
 
       <PerformanceAnalytics premium={premium} compact />
